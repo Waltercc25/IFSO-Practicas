@@ -1,3 +1,6 @@
+Nombre: Walter Vladimir Cantor Claros.
+Carnet: WC100218
+
 Caso 1: Empresa de 25 Empleados presenta:
  - Lentitud en el sistema.
  - pérdida de archivos.
@@ -48,7 +51,7 @@ Caso 1: Empresa de 25 Empleados presenta:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODA1NzQ0NCwtNDc1NDM4MjcyLDM2OD
-QzOTcwMiwtMTE3MzgwNjQ0LC01OTc1NjkzMjAsMTg0MjU0NTg3
-MywtMTMwMzU0OTM1NSwtNTU0MzA3Mzg4XX0=
+eyJoaXN0b3J5IjpbODAyMDY2OTQ4LC00NzU0MzgyNzIsMzY4ND
+M5NzAyLC0xMTczODA2NDQsLTU5NzU2OTMyMCwxODQyNTQ1ODcz
+LC0xMzAzNTQ5MzU1LC01NTQzMDczODhdfQ==
 -->
