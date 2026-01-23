@@ -12,3 +12,6 @@ NECESITDADES EXPLÍCITAS:
 NECESIDADES IMPLÍCITAS:
 - es importante identificar que esta causando la lentitud del sistema y aumentar la eficiencia de los equipos.
 - es necesario asegurar la integridad de los datos en dichos equipos y evitar cualquier perdida
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNDU0MTI1MDBdfQ==
+-->
