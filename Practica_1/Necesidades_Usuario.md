@@ -17,6 +17,7 @@ Caso 1: Empresa de 25 Empleados presenta:
 - Es necesario contar con información clara sobre el funcionamiento del sistema, ya que la empresa no dispone de documentación técnica.
 - Es necesario minimizar el impacto de las fallas del sistema en la productividad, porque las interrupciones generan retrasos en las tareas.
 
+**ACTIVIDAD 3. CUADRO**
 | Necesidad | Tipo | Clasificación | Justificación |
 |----------|------|---------------|---------------|
 | El sistema funciona muy lento durante el trabajo diario | Explícita | Operativa | Los usuarios expresan directamente que la lentitud afecta su trabajo |
@@ -31,6 +32,6 @@ Caso 1: Empresa de 25 Empleados presenta:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzU2OTMyMCwxODQyNTQ1ODczLC0xMz
-AzNTQ5MzU1LC01NTQzMDczODhdfQ==
+eyJoaXN0b3J5IjpbLTExNzM4MDY0NCwtNTk3NTY5MzIwLDE4ND
+I1NDU4NzMsLTEzMDM1NDkzNTUsLTU1NDMwNzM4OF19
 -->
