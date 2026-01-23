@@ -13,7 +13,6 @@ Caso 1: Empresa de 25 Empleados presenta:
 - Los usuarios necesitan realizar sus actividades sin interrupciones inesperadas, porque las caídas del sistema afectan su trabajo.
 - 
 **Actividad 2.**
-
 **NECESIDADES IMPLÍCITAS:**
 - Es necesario asegurar la integridad de la información de la empresa, ya que la pérdida de archivos puede afectar procesos importantes.
 - Es necesario que los usuarios puedan confiar en el sistema para su trabajo diario, debido a los fallos constantes reportados. 
@@ -47,7 +46,7 @@ Caso 1: Empresa de 25 Empleados presenta:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQyNTU2OTgsMzY4NDM5NzAyLC0xMT
-czODA2NDQsLTU5NzU2OTMyMCwxODQyNTQ1ODczLC0xMzAzNTQ5
-MzU1LC01NTQzMDczODhdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTQzODI3MiwzNjg0Mzk3MDIsLTExNz
+M4MDY0NCwtNTk3NTY5MzIwLDE4NDI1NDU4NzMsLTEzMDM1NDkz
+NTUsLTU1NDMwNzM4OF19
 -->
