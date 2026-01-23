@@ -17,10 +17,20 @@ Caso 1: Empresa de 25 Empleados presenta:
 - Es necesario contar con información clara sobre el funcionamiento del sistema, ya que la empresa no dispone de documentación técnica.
 - Es necesario minimizar el impacto de las fallas del sistema en la productividad, porque las interrupciones generan retrasos en las tareas.
 
+| Necesidad | Tipo | Clasificación | Justificación |
+|----------|------|---------------|---------------|
+| El sistema funciona muy lento durante el trabajo diario | Explícita | Operativa | Los usuarios expresan directamente que la lentitud afecta su trabajo |
+| Se pierden archivos importantes de los usuarios | Explícita | Operativa | El problema es mencionado directamente por los empleados |
+| El sistema se cae con frecuencia durante la jornada laboral | Explícita | Operativa | Los usuarios indican interrupciones constantes |
+| Los empleados no pueden trabajar de forma continua | Explícita | Operativa | Consecuencia directa de las caídas del sistema |
+| Es necesario proteger la información de la empresa | Implícita | Técnica | La pérdida de archivos indica riesgo sobre la información |
+| Los usuarios necesitan confiar en el sistema | Implícita | Operativa | Las fallas constantes afectan la confianza del usuario |
+| Es necesario contar con información clara del sistema | Implícita | Técnica | La empresa no dispone de documentación técnica |
+| Es necesario reducir el impacto de las fallas en la productividad | Implícita | Operativa | Las interrupciones generan retrasos en las tareas |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU0NTg3MywtMTMwMzU0OTM1NSwtNT
-U0MzA3Mzg4XX0=
+eyJoaXN0b3J5IjpbLTU5NzU2OTMyMCwxODQyNTQ1ODczLC0xMz
+AzNTQ5MzU1LC01NTQzMDczODhdfQ==
 -->
