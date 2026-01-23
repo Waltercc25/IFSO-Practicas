@@ -1,10 +1,11 @@
 Caso 1: Empresa de 25 Empleados presenta:
-- Lentitud en el sistema.
-- pérdida de archivos.
-- Caídas Frecuentes del sistema.
+ - Lentitud en el sistema.
+ - pérdida de archivos.
+ - Caídas Frecuentes del sistema.
 
+**Introducción:** La empresa analizada cuenta con aproximadamente 25 empleados y presenta problemas relacionados con el funcionamiento de     su sistema de trabajo. Los usuarios reportan lentitud, pérdida de       archivos y caídas frecuentes del sistema, expresando estas       dificultades en un lenguaje no técnico.   El estudiante asume el rol     de analista de infraestructura, cuyo objetivo es comprender las       necesidades reales del usuario, identificando necesidades explícitas     e implícitas sin proponer soluciones técnicas.
 
-**NECESITDADES EXPLÍCITAS:**
+**NECESITDADES EXPLÍCITAS: **
 - Los empleados necesitan que el sistema funcione de manera rápida, ya que actualmente presenta mucha lentitud durante el trabajo diario.
 - Los usuarios necesitan conservar sus archivos sin que se pierdan, debido a que se han reportado pérdidas de información.
 - Los empleados necesitan que el sistema esté disponible de forma continua, ya que se cae con frecuencia durante la jornada laboral.
@@ -18,5 +19,6 @@ Caso 1: Empresa de 25 Empleados presenta:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM1NDkzNTUsLTU1NDMwNzM4OF19
+eyJoaXN0b3J5IjpbOTkwMzA4MTYzLC0xMzAzNTQ5MzU1LC01NT
+QzMDczODhdfQ==
 -->
