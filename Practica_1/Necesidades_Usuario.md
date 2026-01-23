@@ -11,8 +11,9 @@ NECESITDADES EXPLÍCITAS:
 - Los usuarios necesitan realizar sus actividades sin interrupciones inesperadas, porque las caídas del sistema afectan su trabajo.
 
 NECESIDADES IMPLÍCITAS:
-- es importante identificar que está causando la lentitud del sistema y aumentar la eficiencia de los equipos.
-- es necesario asegurar la integridad de los datos en dichos equipos y evitar cualquier perdida 
+- Es necesario asegurar la integridad de la información de la empresa, ya que la pérdida de archivos puede afectar procesos importantes.
+- Es necesario que los usuarios puedan confiar en el sistema para su trabajo diario, debido a los fallos constantes reportados. 
+- **Es necesario contar con información clara sobre el funcionamiento del sistema**, ya que la empresa no dispone de documentación técnica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMTY3MzY4LC01NTQzMDczODhdfQ==
+eyJoaXN0b3J5IjpbMTUwNTk2NzgyLC01NTQzMDczODhdfQ==
 -->
