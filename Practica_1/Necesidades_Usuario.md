@@ -5,13 +5,17 @@ Caso 1: Empresa de 25 Empleados presenta:
 
 
 NECESITDADES EXPLÍCITAS:
-- los usuarios tardan demasiado en completar sus tareas por la lentitud del sistema.
-- los usuarios tienen perdida de archivos de forma habitual y dificulta el trabajo.
-- los usuarios no trabajan de forma eficiente debido a las caídas constantes del sistema.
+-   **Los empleados necesitan que el sistema funcione de manera rápida**, ya que actualmente presenta mucha lentitud durante el trabajo diario.
+    
+-   **Los usuarios necesitan conservar sus archivos sin que se pierdan**, debido a que se han reportado pérdidas de información.
+    
+-   **Los empleados necesitan que el sistema esté disponible de forma continua**, ya que se cae con frecuencia durante la jornada laboral.
+    
+-   **Los usuarios necesitan realizar sus actividades sin interrupciones inesperadas**, porque las caídas del sistema afectan su trabajo.
 
 NECESIDADES IMPLÍCITAS:
 - es importante identificar que está causando la lentitud del sistema y aumentar la eficiencia de los equipos.
 - es necesario asegurar la integridad de los datos en dichos equipos y evitar cualquier perdida 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDMwNzM4OF19
+eyJoaXN0b3J5IjpbMTM1OTQ4OTYxOCwtNTU0MzA3Mzg4XX0=
 -->
