@@ -15,6 +15,8 @@ Caso 1: Empresa de 25 Empleados presenta:
 - Es necesario que los usuarios puedan confiar en el sistema para su trabajo diario, debido a los fallos constantes reportados. 
 - Es necesario contar con información clara sobre el funcionamiento del sistema, ya que la empresa no dispone de documentación técnica.
 - Es necesario minimizar el impacto de las fallas del sistema en la productividad, porque las interrupciones generan retrasos en las tareas.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MTA3NzA1LC01NTQzMDczODhdfQ==
+eyJoaXN0b3J5IjpbLTEzMDM1NDkzNTUsLTU1NDMwNzM4OF19
 -->
