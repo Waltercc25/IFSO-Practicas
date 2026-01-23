@@ -30,8 +30,21 @@ Caso 1: Empresa de 25 Empleados presenta:
 | Es necesario reducir el impacto de las fallas en la productividad | Implícita | Operativa | Las interrupciones generan retrasos en las tareas |
 
 
+**Actividad 4. Cuadro.**
+
+| Requerimiento inicial | Necesidad relacionada | Clasificación | Justificación |
+|---------------------|----------------------|---------------|---------------|
+| El sistema debe permitir que los usuarios trabajen sin interrupciones frecuentes | Los empleados necesitan trabajar de forma continua | Funcional | Describe una acción esperada del sistema |
+| El sistema debe permitir a los usuarios acceder a sus archivos sin riesgo de pérdida | Los usuarios necesitan conservar sus archivos | Funcional | Permite realizar tareas diarias |
+| El sistema debe responder de manera ágil durante su uso | Los empleados necesitan un sistema rápido | No funcional | Describe el desempeño del sistema |
+| El sistema debe mantener la información de la empresa sin pérdidas | Es necesario proteger la información de la empresa | No funcional | Relacionado con la confiabilidad |
+| El sistema debe ofrecer condiciones de uso que generen confianza en los usuarios | Los usuarios necesitan confiar en el sistema | No funcional | Se relaciona con la percepción de calidad |
+| Debe existir información clara sobre el funcionamiento del sistema | Es necesario contar con información clara del sistema | No funcional | Relacionado con soporte y calidad |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM4MDY0NCwtNTk3NTY5MzIwLDE4ND
-I1NDU4NzMsLTEzMDM1NDkzNTUsLTU1NDMwNzM4OF19
+eyJoaXN0b3J5IjpbMzY4NDM5NzAyLC0xMTczODA2NDQsLTU5Nz
+U2OTMyMCwxODQyNTQ1ODczLC0xMzAzNTQ5MzU1LC01NTQzMDcz
+ODhdfQ==
 -->
