@@ -1,2 +1,1 @@
-Nombre: Walter Vladimir Cantor Claros
-Carnet: WC100218
+Nombre: Walter Vladimir Cantor Claros ---> Carnet: WC100218
