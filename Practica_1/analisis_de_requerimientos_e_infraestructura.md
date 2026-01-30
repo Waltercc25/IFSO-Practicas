@@ -1,5 +1,5 @@
-Nombre: Walter Vladimir Cantor Claros.
-Trabajo: Individual
+**Nombre**: Walter Vladimir Cantor Claros.
+**Trabajo**: - Practica_2 - Individual
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NDA5MzMxXX0=
+eyJoaXN0b3J5IjpbLTYxNjQyMTI1NV19
 -->
