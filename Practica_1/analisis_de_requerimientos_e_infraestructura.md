@@ -58,11 +58,12 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 4- ¿Qué tan importante es para usted que los documentos almacenados se mantengan seguros y sin cambios no autorizados? R// **muy importante**
 
-5- 
+5- ¿Ha ocurrido que el sistema deje de funcionar durante su jornada laboral impidiéndole continuar su trabajo? **R// Frecuentemente**
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI2NzY3MjAsLTc0OTU1NjQwNiwtNT
+eyJoaXN0b3J5IjpbLTE1MjQ3MTMwNzgsLTc0OTU1NjQwNiwtNT
 gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
