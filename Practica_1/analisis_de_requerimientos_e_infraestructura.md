@@ -80,7 +80,9 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 **JUSTIFICACIÓN DE PRIORIDADES:**
 
+**R1 – Prioridad Media**
 
+La lentitud del sistema afecta la productividad de los empleados, pero permite continuar trabajando aunque sea de forma limitada. No detiene completamente las operaciones, por lo que su atención puede ser posterior a problemas más críticos.
 
 
 
@@ -96,6 +98,6 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNTY2NzUxLC03NDk1NTY0MDYsLTU4MT
+eyJoaXN0b3J5IjpbMTA1NTYxMjQ4LC03NDk1NTY0MDYsLTU4MT
 IyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
 -->
