@@ -78,8 +78,24 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 | R2            | Alto              | Alto               | Alta      |
 | R3            | Muy alto          | Alto               | Alta      |
 
+**JUSTIFICACIÓN DE PRIORIDADES:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMyMDg5MDksLTc0OTU1NjQwNiwtNT
-gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbOTQwNTY2NzUxLC03NDk1NTY0MDYsLTU4MT
+IyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
 -->
