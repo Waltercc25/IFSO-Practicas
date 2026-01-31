@@ -2,8 +2,28 @@
 
 **Trabajo**: - Practica_2 - Individual
 
+**Introducción del caso**
+
+Una  **empresa comercial pequeña**, con  **20 empleados**, utiliza un sistema interno para:
+
+-   Almacenar documentos administrativos
+-   Compartir archivos entre áreas
+-   Registrar información básica de clientes
+
+Actualmente la empresa presenta los siguientes problemas:
+
+-   El sistema se vuelve lento cuando varios usuarios trabajan al mismo tiempo
+-   Algunos documentos desaparecen o se sobrescriben
+-   El sistema deja de funcionar de forma inesperada durante la jornada laboral
+
+La empresa:
+
+-   No cuenta con documentación técnica
+-   No tiene personal especializado en TI
+-   Describe los problemas £nicamente desde su experiencia diaria
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk4NDI5MzAsNTY1NzQyODA1XX0=
+eyJoaXN0b3J5IjpbMTYzNzM4MDgzOSw1NjU3NDI4MDVdfQ==
 -->
