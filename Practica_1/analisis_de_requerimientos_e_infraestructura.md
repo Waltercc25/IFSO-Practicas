@@ -2,7 +2,7 @@
 
 **Trabajo**: - Practica_2 - Individual
 
-**Introducción del caso**
+**INTRODUCCIÓN DEL CASO**
 
 Una  **empresa comercial pequeña**, con  **20 empleados**, utiliza un sistema interno para:
 
@@ -25,5 +25,5 @@ La empresa:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzM4MDgzOSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbMjAzNjA5NTc4Myw1NjU3NDI4MDVdfQ==
 -->
