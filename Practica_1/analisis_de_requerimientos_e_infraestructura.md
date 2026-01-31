@@ -94,6 +94,11 @@ Las fallas inesperadas del sistema detienen completamente las operaciones de la 
 
 **ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
 
+**Requerimientos analizados (alta prioridad):**
+
+**R2**: El sistema debe garantizar que los documentos no se pierdan ni se sobrescriban accidentalmente.
+
+R3: El sistema debe estar disponible y no fallar de forma inesperada durante la jornada laboral.
 
 
 
@@ -106,7 +111,7 @@ Las fallas inesperadas del sistema detienen completamente las operaciones de la 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUwODEyMTEsLTkwOTE3NTQ1OSwtNz
-Q5NTU2NDA2LC01ODEyMjcwOSwxODUyODYzNDIxLDU2NTc0Mjgw
-NV19
+eyJoaXN0b3J5IjpbLTMzNTU4ODIwMywtOTA5MTc1NDU5LC03ND
+k1NTY0MDYsLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1
+XX0=
 -->
