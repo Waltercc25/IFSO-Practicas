@@ -46,12 +46,13 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 **Tipo de instrumento:** Entrevista.
 
--   **Justificación de la elección:** elegí la entrevista ya que siento que puedes 
+-   **Justificación de la elección:** elegí la entrevista ya que siento que puedes hacer preguntas un poco más concretas para descartar cosas que pueden ser o no ser las causas del problema.
 
+**PREGUNTAS UTILIZADAS:**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc5ODI1NTIsLTU4MTIyNzA5LDE4NT
+eyJoaXN0b3J5IjpbLTE1OTkxNDA0NjksLTU4MTIyNzA5LDE4NT
 I4NjM0MjEsNTY1NzQyODA1XX0=
 -->
