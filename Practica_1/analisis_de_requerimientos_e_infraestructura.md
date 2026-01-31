@@ -42,10 +42,14 @@ Se origina a partir de la pérdida real de documentos y sobreescrituras ocurrida
 Necesidad operativa explícita.
 Proviene de las fallas frecuentes del sistema que interrumpen completamente las actividades laborales, siendo un problema reconocido directamente por los usuarios.
 
+**VALIDACIÓN DE REQUERIMIENTOS:**
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1Nz
-QyODA1XX0=
+eyJoaXN0b3J5IjpbMTUwNjExOTc5NCwtNTgxMjI3MDksMTg1Mj
+g2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
