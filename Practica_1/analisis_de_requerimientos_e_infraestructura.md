@@ -69,8 +69,17 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 | R3           | Sí            | Sí             | Sí                                |
 
 
-**PREORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
+**PRIORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
+
+
+| Requerimiento | Impacto operativo | Criticidad técnica | Prioridad |
+| ------------- | ----------------- | ------------------ | --------- |
+| R1            | Alto              | Medio              | Media     |
+| R2            | Alto              | Alto               | Alta      |
+| R3            | Muy alto          | Alto               | Alta      |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQzNDA3MywtNzQ5NTU2NDA2LC01OD
-EyMjcwOSwxODUyODYzNDIxLDU2NTc0MjgwNV19
+eyJoaXN0b3J5IjpbLTE4MTMyMDg5MDksLTc0OTU1NjQwNiwtNT
+gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
