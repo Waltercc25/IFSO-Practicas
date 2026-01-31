@@ -60,10 +60,11 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 5- ¿Ha ocurrido que el sistema deje de funcionar durante su jornada laboral impidiéndole continuar su trabajo? **R// Frecuentemente**
 
+**RESULTADO DE VALIDACIÓN:** 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ3MTMwNzgsLTc0OTU1NjQwNiwtNT
+eyJoaXN0b3J5IjpbLTIwMzEwNjE4OTgsLTc0OTU1NjQwNiwtNT
 gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
