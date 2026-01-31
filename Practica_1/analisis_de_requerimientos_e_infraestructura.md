@@ -52,9 +52,13 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 1- ¿Con qué frecuencia nota que el sistema se vuelve lento cuando varios empleados lo usan al mismo tiempo? **R// Frecuentemente**
 
+2- Cuando el sistema se vuelve lento, ¿afecta su trabajo diario o retrasa sus actividades? **R// bastante**
+
+3- ¿Ha experimentado pérdida de documentos o que un archivo haya sido reemplazado por otro sin intención? R//
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTU1NjQwNiwtNTgxMjI3MDksMTg1Mj
-g2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbLTExMDU4MDAxNjcsLTc0OTU1NjQwNiwtNT
+gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
