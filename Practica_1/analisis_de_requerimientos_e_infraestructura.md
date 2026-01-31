@@ -84,6 +84,13 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 La lentitud del sistema afecta la productividad de los empleados, pero permite continuar trabajando aunque sea de forma limitada. No detiene completamente las operaciones, por lo que su atención puede ser posterior a problemas más críticos.
 
+**R2 – Prioridad Alta**
+
+La pérdida o sobreescritura de documentos impacta directamente la información administrativa y de clientes. Este problema puede generar errores legales, pérdida de datos importantes y desconfianza interna, lo que lo convierte en un requerimiento crítico.
+
+**R3 – Prioridad Alta**
+
+Las fallas inesperadas del sistema detienen completamente las operaciones de la empresa durante la jornada laboral. Esto genera interrupciones totales del trabajo, pérdida de tiempo y posibles pérdidas económicas, por lo que su atención es prioritaria.
 
 
 
@@ -98,6 +105,6 @@ La lentitud del sistema afecta la productividad de los empleados, pero permite c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTYxMjQ4LC03NDk1NTY0MDYsLTU4MT
-IyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
+eyJoaXN0b3J5IjpbLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01OD
+EyMjcwOSwxODUyODYzNDIxLDU2NTc0MjgwNV19
 -->
