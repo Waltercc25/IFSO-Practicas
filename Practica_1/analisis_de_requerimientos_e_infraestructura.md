@@ -62,9 +62,14 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 **RESULTADO DE VALIDACIÓN:** 
 
+| Requerimiento | ¿Es correcto? | ¿Es necesario? | ¿Es comprensible para el usuario? |
+|--------------|---------------|----------------|-----------------------------------|
+| R1           | Sí            | Sí             | Sí                                |
+| R2           | Sí            | Sí             | Sí                                |
+| R3           | Sí            | Sí             | Sí                                |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEwNjE4OTgsLTc0OTU1NjQwNiwtNT
+eyJoaXN0b3J5IjpbLTEwNzY0Mjc0MDUsLTc0OTU1NjQwNiwtNT
 gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
