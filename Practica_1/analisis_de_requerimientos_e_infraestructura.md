@@ -30,10 +30,14 @@ La empresa:
 Necesidad operativa implícita.
 Surge de la experiencia diaria de los empleados al usar el sistema de forma simultánea y notar lentitud que afecta su productividad, aunque no se expresa en términos técnicos.
 
+**R2**. El sistema debe garantizar que los documentos no se pierdan ni se sobrescriban accidentalmente.
+
+Origen (necesidad):
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODM5NDgzOSwxODUyODYzNDIxLDU2NT
+eyJoaXN0b3J5IjpbMTgzMDk3MDY5OSwxODUyODYzNDIxLDU2NT
 c0MjgwNV19
 -->
