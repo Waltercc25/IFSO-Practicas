@@ -50,9 +50,11 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 **PREGUNTAS UTILIZADAS:**
 
+1- ¿Con qué frecuencia nota que el sistema se vuelve lento cuando varios empleados lo usan al mismo tiempo? **R// Frecuentemente**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxNDA0NjksLTU4MTIyNzA5LDE4NT
-I4NjM0MjEsNTY1NzQyODA1XX0=
+eyJoaXN0b3J5IjpbLTc0OTU1NjQwNiwtNTgxMjI3MDksMTg1Mj
+g2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
