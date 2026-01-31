@@ -98,7 +98,9 @@ Las fallas inesperadas del sistema detienen completamente las operaciones de la 
 
 **R2**: El sistema debe garantizar que los documentos no se pierdan ni se sobrescriban accidentalmente.
 
-R3: El sistema debe estar disponible y no fallar de forma inesperada durante la jornada laboral.
+**R3**: El sistema debe estar disponible y no fallar de forma inesperada durante la jornada laboral.
+
+**Recursos de infraestructura involucrados:**
 
 
 
@@ -111,7 +113,7 @@ R3: El sistema debe estar disponible y no fallar de forma inesperada durante la 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTU4ODIwMywtOTA5MTc1NDU5LC03ND
+eyJoaXN0b3J5IjpbMTEwOTEzOTU5MywtOTA5MTc1NDU5LC03ND
 k1NTY0MDYsLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1
 XX0=
 -->
