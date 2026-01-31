@@ -44,12 +44,14 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 **VALIDACIÓN DE REQUERIMIENTOS:**
 
+**Tipo de instrumento:** Entrevista.
 
+-   **Justificación de la elección:** elegí la entrevista ya que siento que puedes 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjExOTc5NCwtNTgxMjI3MDksMTg1Mj
-g2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc5ODI1NTIsLTU4MTIyNzA5LDE4NT
+I4NjM0MjEsNTY1NzQyODA1XX0=
 -->
