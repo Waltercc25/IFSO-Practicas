@@ -24,8 +24,15 @@ La empresa:
 
 **REQUERIMIENTOS SELECCIONADOS:**
 
+**R1**. El sistema debe permitir que varios usuarios trabajen al mismo tiempo sin volverse lento.
+**Origen (necesidad):**
+Necesidad operativa implícita.
+Surge de la experiencia diaria de los empleados al usar el sistema de forma simultánea y notar lentitud que afecta su productividad, aunque no se expresa en términos técnicos.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbOTk4MTk2ODksMTg1Mjg2MzQyMSw1NjU3ND
+I4MDVdfQ==
 -->
