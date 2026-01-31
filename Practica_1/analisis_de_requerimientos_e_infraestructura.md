@@ -92,6 +92,7 @@ La pérdida o sobreescritura de documentos impacta directamente la información 
 
 Las fallas inesperadas del sistema detienen completamente las operaciones de la empresa durante la jornada laboral. Esto genera interrupciones totales del trabajo, pérdida de tiempo y posibles pérdidas económicas, por lo que su atención es prioritaria.
 
+**ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
 
 
 
@@ -105,6 +106,7 @@ Las fallas inesperadas del sistema detienen completamente las operaciones de la 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01OD
-EyMjcwOSwxODUyODYzNDIxLDU2NTc0MjgwNV19
+eyJoaXN0b3J5IjpbLTE3OTUwODEyMTEsLTkwOTE3NTQ1OSwtNz
+Q5NTU2NDA2LC01ODEyMjcwOSwxODUyODYzNDIxLDU2NTc0Mjgw
+NV19
 -->
