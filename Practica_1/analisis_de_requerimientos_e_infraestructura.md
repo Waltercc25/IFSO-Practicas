@@ -69,7 +69,8 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 | R3           | Sí            | Sí             | Sí                                |
 
 
+**PREORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY0Mjc0MDUsLTc0OTU1NjQwNiwtNT
-gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbMTc0ODQzNDA3MywtNzQ5NTU2NDA2LC01OD
+EyMjcwOSwxODUyODYzNDIxLDU2NTc0MjgwNV19
 -->
