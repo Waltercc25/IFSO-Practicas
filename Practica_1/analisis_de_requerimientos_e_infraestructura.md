@@ -54,11 +54,15 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 2- Cuando el sistema se vuelve lento, ¿afecta su trabajo diario o retrasa sus actividades? **R// bastante**
 
-3- ¿Ha experimentado pérdida de documentos o que un archivo haya sido reemplazado por otro sin intención? R//
+3- ¿Ha experimentado pérdida de documentos o que un archivo haya sido reemplazado por otro sin intención? **R// varias veces**
+
+4- ¿Qué tan importante es para usted que los documentos almacenados se mantengan seguros y sin cambios no autorizados? R// **muy importante**
+
+5- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU4MDAxNjcsLTc0OTU1NjQwNiwtNT
+eyJoaXN0b3J5IjpbLTE0NDI2NzY3MjAsLTc0OTU1NjQwNiwtNT
 gxMjI3MDksMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
