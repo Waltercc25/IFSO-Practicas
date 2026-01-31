@@ -22,8 +22,10 @@ La empresa:
 -   No tiene personal especializado en TI
 -   Describe los problemas £nicamente desde su experiencia diaria
 
+**REQUERIMIENTOS SELECCIONADOS:**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjA5NTc4Myw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbMTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
