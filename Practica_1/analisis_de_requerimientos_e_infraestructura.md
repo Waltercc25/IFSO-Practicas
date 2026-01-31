@@ -32,12 +32,20 @@ Surge de la experiencia diaria de los empleados al usar el sistema de forma simu
 
 **R2**. El sistema debe garantizar que los documentos no se pierdan ni se sobrescriban accidentalmente.
 
-Origen (necesidad):
+**Origen (necesidad):**
+Necesidad operativa explícita.
+Se origina a partir de la pérdida real de documentos y sobreescrituras ocurridas varias veces, lo cual fue claramente identificado y expresado por los usuarios.
+
+**R3**. El sistema debe estar disponible y no fallar de forma inesperada durante la jornada laboral.
+
+**Origen (necesidad):**
+Necesidad operativa explícita.
+Proviene de las fallas frecuentes del sistema que interrumpen completamente las actividades laborales, siendo un problema reconocido directamente por los usuarios.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDk3MDY5OSwxODUyODYzNDIxLDU2NT
-c0MjgwNV19
+eyJoaXN0b3J5IjpbLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1Nz
+QyODA1XX0=
 -->
