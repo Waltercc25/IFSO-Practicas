@@ -2,7 +2,7 @@
 
 **Trabajo**: - Practica_2 - Individual
 
- **INTRODUCCIÓN DEL CASO**
+ **2. INTRODUCCIÓN DEL CASO**
 
 Una  **empresa comercial pequeña**, con  **20 empleados**, utiliza un sistema interno para:
 
@@ -22,7 +22,7 @@ La empresa:
 -   No tiene personal especializado en TI
 -   Describe los problemas £nicamente desde su experiencia diaria
 
-**REQUERIMIENTOS SELECCIONADOS:**
+**3. REQUERIMIENTOS SELECCIONADOS:**
 
 **R1**. El sistema debe permitir que varios usuarios trabajen al mismo tiempo sin volverse lento.
 
@@ -42,13 +42,13 @@ Se origina a partir de la pérdida real de documentos y sobreescrituras ocurrida
 Necesidad operativa explícita.
 Proviene de las fallas frecuentes del sistema que interrumpen completamente las actividades laborales, siendo un problema reconocido directamente por los usuarios.
 
-**VALIDACIÓN DE REQUERIMIENTOS:**
+**4. VALIDACIÓN DE REQUERIMIENTOS:**
 
-**Tipo de instrumento:** Entrevista.
+**4.1 - Tipo de instrumento:** Entrevista.
 
 -   **Justificación de la elección:** elegí la entrevista ya que siento que puedes hacer preguntas un poco más concretas para descartar cosas que pueden ser o no ser las causas del problema.
 
-**PREGUNTAS UTILIZADAS:**
+**4.2 - PREGUNTAS UTILIZADAS:**
 
 1- ¿Con qué frecuencia nota que el sistema se vuelve lento cuando varios empleados lo usan al mismo tiempo? **R// Frecuentemente**
 
@@ -144,7 +144,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODU5MDEzMCwyMDcxNTA4NDQyLDEwMT
-IzMzM1NDMsLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01ODEyMjcw
-OSwxODUyODYzNDIxLDU2NTc0MjgwNV19
+eyJoaXN0b3J5IjpbLTcxNDM2NTQ0LDIwNzE1MDg0NDIsMTAxMj
+MzMzU0MywtOTA5MTc1NDU5LC03NDk1NTY0MDYsLTU4MTIyNzA5
+LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
 -->
