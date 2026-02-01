@@ -94,13 +94,13 @@ Las fallas inesperadas del sistema detienen completamente las operaciones de la 
 
 **6. ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
 
-**Requerimientos analizados (alta prioridad):**
+**6.1 - Requerimientos analizados (alta prioridad):**
 
 **R2**: El sistema debe garantizar que los documentos no se pierdan ni se sobrescriban accidentalmente.
 
 **R3**: El sistema debe estar disponible y no fallar de forma inesperada durante la jornada laboral.
 
-**Recursos de infraestructura involucrados:**
+**6.2 - Recursos de infraestructura involucrados:**
 
 **R2:** 
 
@@ -131,6 +131,8 @@ Permite acceder a la información necesaria para operar el sistema.
 **Red:**
 Conecta a los usuarios con el sistema interno de la empresa.
 
+**6.3 - Riesgos técnicos y puntos unicos d ** 
+
 | Requerimiento | Riesgo identificado | Posible SPOF | Justificación |
 |--------------|--------------------|--------------|---------------|
 | Req. 2 | Conflictos al guardar archivos simultáneamente pueden provocar pérdida o sobrescritura de documentos. | Almacenamiento central de documentos | La modificación concurrente sin control puede generar inconsistencias y pérdida de información. Si el almacenamiento falla, los documentos quedan inaccesibles. |
@@ -144,7 +146,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjIyMDU5MiwyMDcxNTA4NDQyLDEwMT
-IzMzM1NDMsLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01ODEyMjcw
-OSwxODUyODYzNDIxLDU2NTc0MjgwNV19
+eyJoaXN0b3J5IjpbNTk3MzQ0ODYsMjA3MTUwODQ0MiwxMDEyMz
+MzNTQzLC05MDkxNzU0NTksLTc0OTU1NjQwNiwtNTgxMjI3MDks
+MTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
 -->
