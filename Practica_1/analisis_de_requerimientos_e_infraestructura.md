@@ -117,6 +117,7 @@ Es el componente principal donde se guardan los documentos administrativos y de 
 Facilita el acceso concurrente a los documentos desde distintas áreas de la empresa.
 
 
+**R3:**
 
 
 
@@ -128,7 +129,7 @@ Facilita el acceso concurrente a los documentos desde distintas áreas de la emp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNDYwNTYsLTkwOTE3NTQ1OSwtNzQ5NT
-U2NDA2LC01ODEyMjcwOSwxODUyODYzNDIxLDU2NTc0MjgwNV19
-
+eyJoaXN0b3J5IjpbMTQxMTgyNjM5NywtOTA5MTc1NDU5LC03ND
+k1NTY0MDYsLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1
+XX0=
 -->
