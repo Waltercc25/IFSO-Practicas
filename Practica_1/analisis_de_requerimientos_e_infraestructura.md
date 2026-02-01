@@ -119,6 +119,17 @@ Facilita el acceso concurrente a los documentos desde distintas áreas de la emp
 
 **R3:**
 
+**Procesamiento:**
+Ejecuta los servicios principales del sistema durante la jornada laboral.
+
+**Memoria:**
+Mantiene activos los procesos necesarios para el funcionamiento continuo del sistema.
+
+**Almacenamiento:**
+Permite acceder a la información necesaria para operar el sistema.
+
+**Red:**
+Conecta a los usuarios con el sistema interno de la empresa.
 
 
 
@@ -129,7 +140,7 @@ Facilita el acceso concurrente a los documentos desde distintas áreas de la emp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTgyNjM5NywtOTA5MTc1NDU5LC03ND
+eyJoaXN0b3J5IjpbMTAxMjMzMzU0MywtOTA5MTc1NDU5LC03ND
 k1NTY0MDYsLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1
 XX0=
 -->
