@@ -60,7 +60,7 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 
 5- ¿Ha ocurrido que el sistema deje de funcionar durante su jornada laboral impidiéndole continuar su trabajo? **R// Frecuentemente**
 
-**RESULTADO DE VALIDACIÓN:** 
+**4.3 RESULTADO DE VALIDACIÓN:** 
 
 | Requerimiento | ¿Es correcto? | ¿Es necesario? | ¿Es comprensible para el usuario? |
 |--------------|---------------|----------------|-----------------------------------|
@@ -69,7 +69,7 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 | R3           | Sí            | Sí             | Sí                                |
 
 
-**PRIORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
+**5. PRIORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
 
 
 | Requerimiento | Impacto operativo | Criticidad técnica | Prioridad |
@@ -78,7 +78,7 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 | R2            | Alto              | Alto               | Alta      |
 | R3            | Muy alto          | Alto               | Alta      |
 
-**JUSTIFICACIÓN DE PRIORIDADES:**
+**5.2 - JUSTIFICACIÓN DE PRIORIDADES:**
 
 **R1 – Prioridad Media**
 
@@ -92,7 +92,7 @@ La pérdida o sobreescritura de documentos impacta directamente la información 
 
 Las fallas inesperadas del sistema detienen completamente las operaciones de la empresa durante la jornada laboral. Esto genera interrupciones totales del trabajo, pérdida de tiempo y posibles pérdidas económicas, por lo que su atención es prioritaria.
 
-**ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
+**6. ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
 
 **Requerimientos analizados (alta prioridad):**
 
@@ -144,7 +144,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDM2NTQ0LDIwNzE1MDg0NDIsMTAxMj
-MzMzU0MywtOTA5MTc1NDU5LC03NDk1NTY0MDYsLTU4MTIyNzA5
-LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
+eyJoaXN0b3J5IjpbLTk2MjIyMDU5MiwyMDcxNTA4NDQyLDEwMT
+IzMzM1NDMsLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01ODEyMjcw
+OSwxODUyODYzNDIxLDU2NTc0MjgwNV19
 -->
