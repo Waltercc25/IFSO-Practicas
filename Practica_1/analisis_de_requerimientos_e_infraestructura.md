@@ -24,6 +24,7 @@ La empresa:
 
 **3. REQUERIMIENTOS SELECCIONADOS:**
 
+
 **R1**. El sistema debe permitir que varios usuarios trabajen al mismo tiempo sin volverse lento.
 
 **Origen (necesidad):**
@@ -43,6 +44,7 @@ Necesidad operativa explícita.
 Proviene de las fallas frecuentes del sistema que interrumpen completamente las actividades laborales, siendo un problema reconocido directamente por los usuarios.
 
 **4. VALIDACIÓN DE REQUERIMIENTOS:**
+
 
 **4.1 - Tipo de instrumento:** Entrevista.
 
@@ -72,6 +74,7 @@ Proviene de las fallas frecuentes del sistema que interrumpen completamente las 
 **5. PRIORIZACIÓN DE REQUERIMIENTOS (MATRIZ).**
 
 
+
 | Requerimiento | Impacto operativo | Criticidad técnica | Prioridad |
 | ------------- | ----------------- | ------------------ | --------- |
 | R1            | Alto              | Medio              | Media     |
@@ -93,6 +96,7 @@ La pérdida o sobreescritura de documentos impacta directamente la información 
 Las fallas inesperadas del sistema detienen completamente las operaciones de la empresa durante la jornada laboral. Esto genera interrupciones totales del trabajo, pérdida de tiempo y posibles pérdidas económicas, por lo que su atención es prioritaria.
 
 **6. ANÁLISIS BÁSICO DE INFRAESTRUCTURA:**
+
 
 **6.1 - Requerimientos analizados (alta prioridad):**
 
@@ -131,6 +135,7 @@ Permite acceder a la información necesaria para operar el sistema.
 **Red:**
 Conecta a los usuarios con el sistema interno de la empresa.
 
+
 **6.3 - Riesgos técnicos y puntos únicos de falla (SPOF)**
 
 | Requerimiento | Riesgo identificado | Posible SPOF | Justificación |
@@ -146,7 +151,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODYzMDkxLDIwNzE1MDg0NDIsMTAxMj
-MzMzU0MywtOTA5MTc1NDU5LC03NDk1NTY0MDYsLTU4MTIyNzA5
-LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
+eyJoaXN0b3J5IjpbMTIwMTE2Mzg0NSwyMDcxNTA4NDQyLDEwMT
+IzMzM1NDMsLTkwOTE3NTQ1OSwtNzQ5NTU2NDA2LC01ODEyMjcw
+OSwxODUyODYzNDIxLDU2NTc0MjgwNV19
 -->
