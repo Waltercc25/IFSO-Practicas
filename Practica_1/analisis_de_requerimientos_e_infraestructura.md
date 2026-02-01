@@ -131,7 +131,7 @@ Permite acceder a la información necesaria para operar el sistema.
 **Red:**
 Conecta a los usuarios con el sistema interno de la empresa.
 
-**6.3 - Riesgos técnicos y puntos unicos d ** 
+**6.3 - Riesgos técnicos y puntos únicos de falla (SPOF)**
 
 | Requerimiento | Riesgo identificado | Posible SPOF | Justificación |
 |--------------|--------------------|--------------|---------------|
@@ -146,7 +146,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MzQ0ODYsMjA3MTUwODQ0MiwxMDEyMz
-MzNTQzLC05MDkxNzU0NTksLTc0OTU1NjQwNiwtNTgxMjI3MDks
-MTg1Mjg2MzQyMSw1NjU3NDI4MDVdfQ==
+eyJoaXN0b3J5IjpbMTg0ODYzMDkxLDIwNzE1MDg0NDIsMTAxMj
+MzMzU0MywtOTA5MTc1NDU5LC03NDk1NTY0MDYsLTU4MTIyNzA5
+LDE4NTI4NjM0MjEsNTY1NzQyODA1XX0=
 -->
