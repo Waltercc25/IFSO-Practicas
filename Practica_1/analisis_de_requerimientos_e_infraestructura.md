@@ -131,6 +131,10 @@ Permite acceder a la información necesaria para operar el sistema.
 **Red:**
 Conecta a los usuarios con el sistema interno de la empresa.
 
+| Requerimiento | Riesgo identificado | Posible SPOF | Justificación |
+|--------------|--------------------|--------------|---------------|
+| Req. 2 | Conflictos al guardar archivos simultáneamente pueden provocar pérdida o sobrescritura de documentos. | Almacenamiento central de documentos | La modificación concurrente sin control puede generar inconsistencias y pérdida de información. Si el almacenamiento falla, los documentos quedan inaccesibles. |
+| Req. 3 | Sobrecarga de recursos durante horas pico puede provocar caídas inesperadas del sistema. | Equipo o sistema central | El uso simultáneo puede superar la capacidad disponible. Si el sistema central falla, toda la operación se detiene. |
 
 
 
@@ -140,7 +144,7 @@ Conecta a los usuarios con el sistema interno de la empresa.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjMzMzU0MywtOTA5MTc1NDU5LC03ND
-k1NTY0MDYsLTU4MTIyNzA5LDE4NTI4NjM0MjEsNTY1NzQyODA1
-XX0=
+eyJoaXN0b3J5IjpbMjA3MTUwODQ0MiwxMDEyMzMzNTQzLC05MD
+kxNzU0NTksLTc0OTU1NjQwNiwtNTgxMjI3MDksMTg1Mjg2MzQy
+MSw1NjU3NDI4MDVdfQ==
 -->
