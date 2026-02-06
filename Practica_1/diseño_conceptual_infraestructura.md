@@ -11,8 +11,10 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 **R2** - Acceso simultáneo de multiples usuarios sin afectar el funcionamiento del sistema.
 
-Descripción: permite a los usuarios trabajar de una manera más eficiente y que ellos se conecten simultáneamente sin problema alguno.
+**Descripción:** permite a los usuarios trabajar de una manera más eficiente y que ellos se conecten simultáneamente sin problema alguno y mantener la eficiencia en un buen rendimiento.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjc0MzgwNV19
+eyJoaXN0b3J5IjpbLTE1NzY5Nzg2MjVdfQ==
 -->
