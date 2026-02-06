@@ -26,9 +26,54 @@ A partir de los requerimientos, se identifican los siguientes roles de servidore
 
 **DISEÑO CONCEPTUAL DE LA ARQUITECTURA:**
 
+### Arquitectura lógica por capas
 
+####  Capa de Presentación
 
+-   Usuarios de oficina central
+    
+-   Usuarios de sucursales
+    
+-   Servidor de presentación
+    
+
+**Función:**  
+Recibir las solicitudes de múltiples usuarios y mostrar la información del sistema.
+
+----------
+
+#### 🔹 Capa de Aplicación
+
+-   Servidor de aplicación
+    
+
+**Función:**  
+Procesar las reglas del negocio, controlar accesos y administrar las solicitudes simultáneas de los usuarios.
+
+----------
+
+#### 🔹 Capa de Datos
+
+-   Servidor de base de datos
+    
+
+**Función:**  
+Almacenar y proteger la información financiera y de clientes.
+
+----------
+
+### Componentes expuestos y protegidos
+
+-   **Componentes expuestos:**
+    
+    -   Servidor de presentación (punto de acceso para los usuarios)
+        
+-   **Componentes protegidos en la red interna:**
+    
+    -   Servidor de aplicación
+        
+    -   Servidor de base de datos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkxMTMyNzcsLTkzMDcxMjUzNCwtMT
-I1NTM4NDEyNV19
+eyJoaXN0b3J5IjpbNzIwMDkxMjQ1LC0xNTI5MTEzMjc3LC05Mz
+A3MTI1MzQsLTEyNTUzODQxMjVdfQ==
 -->
