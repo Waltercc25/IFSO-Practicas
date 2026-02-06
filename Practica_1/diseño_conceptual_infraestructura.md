@@ -76,7 +76,18 @@ Almacenar y proteger la información financiera y de clientes.
 
 **DIAGRAMA LÓGICO DE INFRAESTRUCTURA:**
 
+```mermaid
+flowchart TD
+    U[Usuarios]
+    SP[Servidor de Presentación]
+    SA[Servidor de Aplicación]
+    BD[Servidor de Base de Datos]
+
+    U --> SP
+    SP --> SA
+    SA --> BD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA2MjcyNTcsMTU2MDE5ODQ1NywtMT
-UyOTExMzI3NywtOTMwNzEyNTM0LC0xMjU1Mzg0MTI1XX0=
+eyJoaXN0b3J5IjpbMTAyMDU5MDEwNCwtMTU2MDYyNzI1NywxNT
+YwMTk4NDU3LC0xNTI5MTEzMjc3LC05MzA3MTI1MzQsLTEyNTUz
+ODQxMjVdfQ==
 -->
