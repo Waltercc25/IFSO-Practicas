@@ -42,7 +42,7 @@ Recibir las solicitudes de múltiples usuarios y mostrar la información del sis
 
 ----------
 
-#### 🔹 Capa de Aplicación
+####  Capa de Aplicación
 
 -   Servidor de aplicación
     
@@ -52,7 +52,7 @@ Procesar las reglas del negocio, controlar accesos y administrar las solicitudes
 
 ----------
 
-#### 🔹 Capa de Datos
+#### Capa de Datos
 
 -   Servidor de base de datos
     
@@ -74,6 +74,6 @@ Almacenar y proteger la información financiera y de clientes.
         
     -   Servidor de base de datos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMDkxMjQ1LC0xNTI5MTEzMjc3LC05Mz
-A3MTI1MzQsLTEyNTUzODQxMjVdfQ==
+eyJoaXN0b3J5IjpbMTU2MDE5ODQ1NywtMTUyOTExMzI3NywtOT
+MwNzEyNTM0LC0xMjU1Mzg0MTI1XX0=
 -->
