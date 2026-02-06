@@ -73,7 +73,10 @@ Almacenar y proteger la información financiera y de clientes.
     -   Servidor de aplicación
         
     -   Servidor de base de datos
+
+**DIAGRAMA LÓGICO DE INFRAESTRUCTURA:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDE5ODQ1NywtMTUyOTExMzI3NywtOT
-MwNzEyNTM0LC0xMjU1Mzg0MTI1XX0=
+eyJoaXN0b3J5IjpbLTE1NjA2MjcyNTcsMTU2MDE5ODQ1NywtMT
+UyOTExMzI3NywtOTMwNzEyNTM0LC0xMjU1Mzg0MTI1XX0=
 -->
