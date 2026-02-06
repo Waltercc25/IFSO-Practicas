@@ -24,8 +24,11 @@ A partir de los requerimientos, se identifican los siguientes roles de servidore
 | R2 – Acceso simultáneo de múltiples usuarios sin afectar el funcionamiento del sistema | Servidor de Presentación | Permite que varios usuarios accedan al sistema de forma concurrente sin afectar el rendimiento general. |
 | R2 – Acceso simultáneo de múltiples usuarios sin afectar el funcionamiento del sistema | Servidor de Aplicación | Gestiona múltiples solicitudes al mismo tiempo, asegurando el correcto funcionamiento del sistema. |
 
-DISEÑO CONCEPTUAL DE
+**DISEÑO CONCEPTUAL DE LA ARQUITECTURA:**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk2NDkwNjIsLTkzMDcxMjUzNCwtMT
+eyJoaXN0b3J5IjpbLTE1MjkxMTMyNzcsLTkzMDcxMjUzNCwtMT
 I1NTM4NDEyNV19
 -->
