@@ -5,11 +5,13 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 **REQUERIMIENTOS CONSIDERADOS:**
 
-R1 - Protección de la información contra accesos no autorizados.
-Descripción: mantener el control y seguridad de la información es esencial 
+**R1** - Protección de la información contra accesos no autorizados.
 
-R2 - Acceso simultáneo de multiples usuarios sin afectar el funcionamiento del sistema.
+**Descripción:** mantener el control y seguridad de la información es esencial para cualquier empresa por ese motivo elegimos este requerimiento para protección de los datos y mantener también un control con entre los empleados.
 
+**R2** - Acceso simultáneo de multiples usuarios sin afectar el funcionamiento del sistema.
+
+Desc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTgwNTkxOV19
+eyJoaXN0b3J5IjpbMTg1MTEzNjkxNl19
 -->
