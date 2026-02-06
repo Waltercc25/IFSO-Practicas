@@ -76,18 +76,9 @@ Almacenar y proteger la información financiera y de clientes.
 
 **DIAGRAMA LÓGICO DE INFRAESTRUCTURA:**
 
-```mermaid
-flowchart TD
-    U[Usuarios]
-    SP[Servidor de Presentación]
-    SA[Servidor de Aplicación]
-    BD[Servidor de Base de Datos]
-
-    U --> SP
-    SP --> SA
-    SA --> BD
+[![](https://mermaid.ink/img/pako:eNpVkU1ugzAQha-CZk0iTMAQLypB2VaKlGbT0IWFJ4nVYEeD6V-UU_UIvVgdUiIxG897ejOfpTlDYxWCgN3RfjQHSS54rmoT-NpsN10vSdvu9WasV9s10rtWlgKFwYqwQ-Nko39_zBgpJpHidNTNJFBWk0ApO7y-lXQD5p8czGYPHjdib7IYEYMs_S8hhD1pBcJRjyG0SK28SjhfozW4A7ZYg_CtkvRWQ20ufuYkzYu17ThGtt8fQOzksfOqPynpsNJyT7K9u4RGIT3a3jgQcTrsAHGGTxAsY_Ms4XmSZGkUR-mCh_Dl7ZjNl1HOGEtZEmU5W15C-B6w0ZyznPOMx0nGF8kyBFTaWXq6XWI4yOUPXoN94w?type=png)](https://mermaid.live/edit#pako:eNpVkU1ugzAQha-CZk0iTMAQLypB2VaKlGbT0IWFJ4nVYEeD6V-UU_UIvVgdUiIxG897ejOfpTlDYxWCgN3RfjQHSS54rmoT-NpsN10vSdvu9WasV9s10rtWlgKFwYqwQ-Nko39_zBgpJpHidNTNJFBWk0ApO7y-lXQD5p8czGYPHjdib7IYEYMs_S8hhD1pBcJRjyG0SK28SjhfozW4A7ZYg_CtkvRWQ20ufuYkzYu17ThGtt8fQOzksfOqPynpsNJyT7K9u4RGIT3a3jgQcTrsAHGGTxAsY_Ms4XmSZGkUR-mCh_Dl7ZjNl1HOGEtZEmU5W15C-B6w0ZyznPOMx0nGF8kyBFTaWXq6XWI4yOUPXoN94w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDU5MDEwNCwtMTU2MDYyNzI1NywxNT
-YwMTk4NDU3LC0xNTI5MTEzMjc3LC05MzA3MTI1MzQsLTEyNTUz
-ODQxMjVdfQ==
+eyJoaXN0b3J5IjpbNTY2OTc5OTY0LDEwMjA1OTAxMDQsLTE1Nj
+A2MjcyNTcsMTU2MDE5ODQ1NywtMTUyOTExMzI3NywtOTMwNzEy
+NTM0LC0xMjU1Mzg0MTI1XX0=
 -->
