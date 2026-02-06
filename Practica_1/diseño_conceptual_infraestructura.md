@@ -7,7 +7,7 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 **R1** - Protección de la información contra accesos no autorizados.
 
-**Descripción:** mantener el control y seguridad de la información es esencial para cualquier empresa por ese motivo elegimos este requerimiento para protección de los datos y mantener también un control con entre los empleados.
+**Descripción:** mantener el control y seguridad de la información es esencial para cualquier empresa por ese motivo elegimos este requerimiento para protección de los datos y mantener también un control entre los empleados.
 
 **R2** - Acceso simultáneo de multiples usuarios sin afectar el funcionamiento del sistema.
 
@@ -78,7 +78,7 @@ Almacenar y proteger la información financiera y de clientes.
 
 [![](https://mermaid.ink/img/pako:eNpVkU1ugzAQha-CZk0iTMAQLypB2VaKlGbT0IWFJ4nVYEeD6V-UU_UIvVgdUiIxG897ejOfpTlDYxWCgN3RfjQHSS54rmoT-NpsN10vSdvu9WasV9s10rtWlgKFwYqwQ-Nko39_zBgpJpHidNTNJFBWk0ApO7y-lXQD5p8czGYPHjdib7IYEYMs_S8hhD1pBcJRjyG0SK28SjhfozW4A7ZYg_CtkvRWQ20ufuYkzYu17ThGtt8fQOzksfOqPynpsNJyT7K9u4RGIT3a3jgQcTrsAHGGTxAsY_Ms4XmSZGkUR-mCh_Dl7ZjNl1HOGEtZEmU5W15C-B6w0ZyznPOMx0nGF8kyBFTaWXq6XWI4yOUPXoN94w?type=png)](https://mermaid.live/edit#pako:eNpVkU1ugzAQha-CZk0iTMAQLypB2VaKlGbT0IWFJ4nVYEeD6V-UU_UIvVgdUiIxG897ejOfpTlDYxWCgN3RfjQHSS54rmoT-NpsN10vSdvu9WasV9s10rtWlgKFwYqwQ-Nko39_zBgpJpHidNTNJFBWk0ApO7y-lXQD5p8czGYPHjdib7IYEYMs_S8hhD1pBcJRjyG0SK28SjhfozW4A7ZYg_CtkvRWQ20ufuYkzYu17ThGtt8fQOzksfOqPynpsNJyT7K9u4RGIT3a3jgQcTrsAHGGTxAsY_Ms4XmSZGkUR-mCh_Dl7ZjNl1HOGEtZEmU5W15C-B6w0ZyznPOMx0nGF8kyBFTaWXq6XWI4yOUPXoN94w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2OTc5OTY0LDEwMjA1OTAxMDQsLTE1Nj
-A2MjcyNTcsMTU2MDE5ODQ1NywtMTUyOTExMzI3NywtOTMwNzEy
-NTM0LC0xMjU1Mzg0MTI1XX0=
+eyJoaXN0b3J5IjpbLTE5MjAzNzUwMTQsNTY2OTc5OTY0LDEwMj
+A1OTAxMDQsLTE1NjA2MjcyNTcsMTU2MDE5ODQ1NywtMTUyOTEx
+MzI3NywtOTMwNzEyNTM0LC0xMjU1Mzg0MTI1XX0=
 -->
