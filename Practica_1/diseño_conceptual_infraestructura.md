@@ -13,9 +13,12 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 **Descripción:** permite a los usuarios trabajar de una manera más eficiente y que ellos se conecten simultáneamente sin problema alguno y mantener la eficiencia en un buen rendimiento.
 
-IDENTIFICACIÓN DE SERVIDORES POR ROL:
+**IDENTIFICACIÓN DE SERVIDORES POR ROL:**
+
+A partir de los requerimientos, se identifican los siguientes roles de servidores:
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjMzNzU3XX0=
+eyJoaXN0b3J5IjpbLTEyNTUzODQxMjVdfQ==
 -->
