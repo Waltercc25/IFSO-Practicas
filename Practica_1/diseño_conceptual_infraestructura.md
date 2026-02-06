@@ -5,7 +5,10 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 **REQUERIMIENTOS CONSIDERADOS:**
 
-R1 - 
+R1 - Protección de la información contra accesos no autorizados.
+
+R2 - Acceso simultáneo de multiples usuarios sin afectar el funcionamiento del sistema.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NDQ0ODcxXX0=
+eyJoaXN0b3J5IjpbLTExNTE3NzI5MjJdfQ==
 -->
