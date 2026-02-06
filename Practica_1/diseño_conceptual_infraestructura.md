@@ -17,8 +17,13 @@ En este documento se presenta el diseño conceptual de una infraestructura de se
 
 A partir de los requerimientos, se identifican los siguientes roles de servidores:
 
-
+| Requerimiento | Rol del servidor | Justificación |
+|---------------|-----------------|---------------|
+| R1 – Protección de la información contra accesos no autorizados | Servidor de Base de Datos | Centraliza la información sensible y permite mantenerla protegida de accesos directos no autorizados. |
+| R1 – Protección de la información contra accesos no autorizados | Servidor de Aplicación | Funciona como intermediario entre los usuarios y los datos, evitando accesos directos a la información crítica. |
+| R2 – Acceso simultáneo de múltiples usuarios sin afectar el funcionamiento del sistema | Servidor de Presentación | Permite que varios usuarios accedan al sistema de forma concurrente sin afectar el rendimiento general. |
+| R2 – Acceso simultáneo de múltiples usuarios sin afectar el funcionamiento del sistema | Servidor de Aplicación | Gestiona múltiples solicitudes al mismo tiempo, asegurando el correcto funcionamiento del sistema. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUzODQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTkzMDcxMjUzNCwtMTI1NTM4NDEyNV19
 -->
