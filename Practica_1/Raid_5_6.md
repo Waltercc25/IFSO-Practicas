@@ -68,7 +68,16 @@ Si cada disco es de 5GB:
 (Aproximadamente 15GB según salida de `df -h`)
 
 ## 3. Analisis de Espacio
+
+Salida de:
+
+df -h
+
+
+**Tabla comparativa:**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDg1ODg1MywtMjA0NTE3NjAwNSwxMj
-g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTExMjUyMTgyLDIxMzA4NTg4NTMsLTIwND
+UxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0NjYxMl19
 -->
