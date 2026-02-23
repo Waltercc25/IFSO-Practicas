@@ -135,15 +135,15 @@ RAID 6 ofrece mayor seguridad al tolerar dos fallos simultaneos, mientras que RA
 **Diferencia en rendimiento:**  
 RAID 5 tiene mejor rendimiento en escritura comparado con RAID 6 debido a que solo calcula una paridad.
 
-Impacto del doble calculo de paridad:  
-En RAID 6 se realizan dos calculos de paridad, lo que aumenta la carga del sistema y reduce ligeramente el rendimiento de escritura.
+**Impacto del doble cálculo de paridad:**  
+En RAID 6 se realizan dos cálculos de paridad, lo que aumenta la carga del sistema y reduce ligeramente el rendimiento de escritura.
 
-¿Cual usaria para almacenamiento critico?  
-Para almacenamiento critico se recomienda RAID 6 debido a su mayor tolerancia a fallos y seguridad ante fallas multiples.
+**¿Cual usaría para almacenamiento critico?**  
+Para almacenamiento critico usaría el RAID 6 debido a su mayor tolerancia a fallos y seguridad ante fallas multiples.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjUwNzQ2OCw1MTEyNTIxODIsMjEzMD
+eyJoaXN0b3J5IjpbMTkwNjc1NjE4Nyw1MTEyNTIxODIsMjEzMD
 g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
 NjEyXX0=
 -->
