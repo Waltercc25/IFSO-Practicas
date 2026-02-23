@@ -106,9 +106,16 @@ El archivo fue accesible incluso después de simular la falla:
 
 #### 4.2 RAID 6 - 2 fallos
 
+   **Discos fallados:**
 
+/dev/nvme0n6  
+/dev/nvme0n7
+
+**Estado:**
+
+El arreglo permaneció funcional a pesar de dos fallos simultaneos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODQyMzQ2Miw1MTEyNTIxODIsMjEzMD
-g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMzUwOTM1MTcsNTExMjUyMTgyLDIxMzA4NT
+g4NTMsLTIwNDUxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0NjYx
+Ml19
 -->
