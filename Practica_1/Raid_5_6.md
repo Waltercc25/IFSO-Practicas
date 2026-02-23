@@ -77,7 +77,18 @@ df -h
 **Tabla comparativa:**
 
 
+| RAID   | Discos | Capacidad útil | Pérdida por paridad |
+|--------|--------|---------------|---------------------|
+| RAID 5 | 5      | ~20 GB        | 1 disco             |
+| RAID 6 | 5      | ~15 GB        | 2 discos            |
+
+**Explicación de resultados:**
+
+Se observa que RAID 5 ofrece mayor capacidad util debido a que solo sacrifica un disco para paridad. RAID 6 sacrifica dos discos para doble paridad, reduciendo el espacio disponible, pero aumentando significativamente la tolerancia a fallos.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMjUyMTgyLDIxMzA4NTg4NTMsLTIwND
-UxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MTQzMTM4MzMsNTExMjUyMTgyLDIxMz
+A4NTg4NTMsLTIwNDUxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0
+NjYxMl19
 -->
