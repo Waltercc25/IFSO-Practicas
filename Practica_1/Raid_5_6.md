@@ -117,9 +117,15 @@ El arreglo permaneció funcional a pesar de dos fallos simultaneos.
 
 **Evidencia:**
 
+Los datos permanecieron accesibles:
+
+cat /mnt/raid6/seguridad.txt
+
+## 5. Reconstruccion
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjAwMTQ1LDUxMTI1MjE4MiwyMTMwOD
-U4ODUzLC0yMDQ1MTc2MDA1LDEyODU4MDU1MzUsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTgyNDE3Njk5Miw1MTEyNTIxODIsMjEzMD
+g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
+NjEyXX0=
 -->
