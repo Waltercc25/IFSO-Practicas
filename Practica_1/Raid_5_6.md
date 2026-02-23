@@ -52,7 +52,19 @@ Si cada disco es de 5GB:
 
  **Comando:**
 
+sudo mdadm --create /dev/md6 --level=6 --raid-devices=5 \
+/dev/nvme0n6 /dev/nvme0n7 /dev/nvme0n8 /dev/nvme0n9 /dev/nvme0n10
+
+**Capacidad teórica esperada:**
+
+(N - 2) discos  
+(5 - 2) = 3 discos utiles
+
+Si cada disco es de 5GB:  
+3 x 5GB = 15GB utiles
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODQ2Mzg3NSwtMjA0NTE3NjAwNSwxMj
+eyJoaXN0b3J5IjpbMTA0MzE4MDgxMiwtMjA0NTE3NjAwNSwxMj
 g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
 -->
