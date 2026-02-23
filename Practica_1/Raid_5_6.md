@@ -41,7 +41,18 @@ Si cada disco es de 5GB:
 (Aproximadamente 20GB según salida de `df -h`)
 
 #### 2.2 RAID 6
+
+**Discos utilizados:**  
+
+/dev/nvme0n6  
+/dev/nvme0n7  
+/dev/nvme0n8  
+/dev/nvme0n9  
+/dev/nvme0n10
+
+ **Comando:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTg1NDAyNSwtMjA0NTE3NjAwNSwxMj
+eyJoaXN0b3J5IjpbMTQ2ODQ2Mzg3NSwtMjA0NTE3NjAwNSwxMj
 g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
 -->
