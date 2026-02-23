@@ -63,8 +63,10 @@ sudo mdadm --create /dev/md6 --level=6 --raid-devices=5 \
 Si cada disco es de 5GB:  
 3 x 5GB = 15GB utiles
 
+**Capacidad real observada:**
 
+(Aproximadamente 15GB según salida de `df -h`)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzE4MDgxMiwtMjA0NTE3NjAwNSwxMj
-g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQwNzA0MzksLTIwNDUxNzYwMDUsMTI4NT
+gwNTUzNSwtMjA4ODc0NjYxMl19
 -->
