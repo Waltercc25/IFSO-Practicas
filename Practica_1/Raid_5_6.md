@@ -39,7 +39,9 @@ Si cada disco es de 5GB:
 **Capacidad real observada:**  
 
 (Aproximadamente 20GB según salida de `df -h`)
+
+#### 2.2 RAID 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTQ3NDg4OSwtMjA0NTE3NjAwNSwxMj
+eyJoaXN0b3J5IjpbLTk0OTg1NDAyNSwtMjA0NTE3NjAwNSwxMj
 g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
 -->
