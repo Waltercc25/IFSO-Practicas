@@ -16,9 +16,18 @@ En esta práctica se comparó el impacto de la paridad en la capacidad útil dis
 
 #### 2.1 RAID 5
 
+**Discos utilizados:**  
+/dev/nvme0n1  
+/dev/nvme0n2  
+/dev/nvme0n3  
+/dev/nvme0n4  
+/dev/nvme0n5
 
+**Comando:**
 
+sudo mdadm --create /dev/md5 --level=5 --raid-devices=5 \
+/dev/nvme0n1 /dev/nvme0n2 /dev/nvme0n3 /dev/nvme0n4 /dev/nvme0n5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDUyNzI5MywtMjA0NTE3NjAwNSwxMj
-g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2NDE3OTcwMzQsLTIwNDUxNzYwMDUsMT
+I4NTgwNTUzNSwtMjA4ODc0NjYxMl19
 -->
