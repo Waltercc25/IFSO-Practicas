@@ -141,9 +141,15 @@ En RAID 6 se realizan dos cálculos de paridad, lo que aumenta la carga del sist
 **¿Cual usaría para almacenamiento critico?**  
 Para almacenamiento critico usaría el RAID 6 debido a su mayor tolerancia a fallos y seguridad ante fallas multiples.
 
+## 7. Conclusion
 
+Durante esta practica se comprendió el funcionamiento interno de los niveles RAID 5 y RAID 6, incluyendo la distribucion de paridad, el impacto en la capacidad util y el comportamiento ante fallos y reconstrucciones.
+
+Se pudo observar de forma practica como el sistema mantiene la disponibilidad de los datos incluso en estado degradado y como el proceso de reconstruccion restaura la integridad del arreglo.
+
+Esta experiencia permitió reforzar conocimientos sobre alta disponibilidad, redundancia y administracion de almacenamiento en sistemas Linux.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjc1NjE4Nyw1MTEyNTIxODIsMjEzMD
-g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbODY1NjEyMjY4LDUxMTI1MjE4MiwyMTMwOD
+U4ODUzLC0yMDQ1MTc2MDA1LDEyODU4MDU1MzUsLTIwODg3NDY2
+MTJdfQ==
 -->
