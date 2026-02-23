@@ -27,7 +27,19 @@ En esta práctica se comparó el impacto de la paridad en la capacidad útil dis
 
 sudo mdadm --create /dev/md5 --level=5 --raid-devices=5 \
 /dev/nvme0n1 /dev/nvme0n2 /dev/nvme0n3 /dev/nvme0n4 /dev/nvme0n5
+
+**Capacidad teorica esperada:**
+
+(N - 1) discos  
+(5 - 1) = 4 discos utiles
+
+Si cada disco es de 5GB:  
+4 x 5GB = 20GB utiles
+
+**Capacidad real observada:**  
+
+(Aproximadamente 20GB según salida de `df -h`)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE3OTcwMzQsLTIwNDUxNzYwMDUsMT
-I4NTgwNTUzNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTkzMTQ3NDg4OSwtMjA0NTE3NjAwNSwxMj
+g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
 -->
