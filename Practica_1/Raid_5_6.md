@@ -99,8 +99,16 @@ Se observa que RAID 5 ofrece mayor capacidad util debido a que solo sacrifica un
 El arreglo pasó a estado degradado pero permaneció operativo.
 
  **Evidencia de persistencia de datos:**
+ 
+El archivo fue accesible incluso después de simular la falla:
+ 
+ cat /mnt/raid5/seguridad.txt
+
+#### 4.2 RAID 6 - 2 fallos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDA1NTkwOCw1MTEyNTIxODIsMjEzMD
+eyJoaXN0b3J5IjpbMTQ3ODQyMzQ2Miw1MTEyNTIxODIsMjEzMD
 g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
 NjEyXX0=
 -->
