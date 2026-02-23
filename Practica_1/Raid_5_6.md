@@ -93,8 +93,14 @@ Se observa que RAID 5 ofrece mayor capacidad util debido a que solo sacrifica un
 **Disco fallado:**
 
 /dev/nvme0n1
+
+**Estado del arreglo:**
+
+El arreglo pasó a estado degradado pero permaneció operativo.
+
+ **Evidencia de persistencia de datos:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTI1MDY5MCw1MTEyNTIxODIsMjEzMD
+eyJoaXN0b3J5IjpbMTI5MDA1NTkwOCw1MTEyNTIxODIsMjEzMD
 g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
 NjEyXX0=
 -->
