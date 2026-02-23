@@ -114,8 +114,12 @@ El archivo fue accesible incluso después de simular la falla:
 **Estado:**
 
 El arreglo permaneció funcional a pesar de dos fallos simultaneos.
+
+**Evidencia:**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTM1MTcsNTExMjUyMTgyLDIxMzA4NT
-g4NTMsLTIwNDUxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMjc4NjAwMTQ1LDUxMTI1MjE4MiwyMTMwOD
+U4ODUzLC0yMDQ1MTc2MDA1LDEyODU4MDU1MzUsLTIwODg3NDY2
+MTJdfQ==
 -->
