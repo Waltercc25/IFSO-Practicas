@@ -66,7 +66,9 @@ Si cada disco es de 5GB:
 **Capacidad real observada:**
 
 (Aproximadamente 15GB según salida de `df -h`)
+
+## 3. Analisis de Espacio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzA0MzksLTIwNDUxNzYwMDUsMTI4NT
-gwNTUzNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjEzMDg1ODg1MywtMjA0NTE3NjAwNSwxMj
+g1ODA1NTM1LC0yMDg4NzQ2NjEyXX0=
 -->
