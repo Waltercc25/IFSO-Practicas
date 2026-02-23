@@ -86,9 +86,15 @@ df -h
 
 Se observa que RAID 5 ofrece mayor capacidad util debido a que solo sacrifica un disco para paridad. RAID 6 sacrifica dos discos para doble paridad, reduciendo el espacio disponible, pero aumentando significativamente la tolerancia a fallos.
 
+## 4. Simulacion de Fallos
 
+#### 4.1 RAID 5 - 1 fallo
+
+**Disco fallado:**
+
+/dev/nvme0n1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQzMTM4MzMsNTExMjUyMTgyLDIxMz
-A4NTg4NTMsLTIwNDUxNzYwMDUsMTI4NTgwNTUzNSwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTc1NTI1MDY5MCw1MTEyNTIxODIsMjEzMD
+g1ODg1MywtMjA0NTE3NjAwNSwxMjg1ODA1NTM1LC0yMDg4NzQ2
+NjEyXX0=
 -->
