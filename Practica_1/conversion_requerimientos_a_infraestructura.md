@@ -123,8 +123,15 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 # Identificación de Puntos Únicos de Falla (SPOF)
 
 
+| Componente             | ¿Es SPOF? (Sí/No)        | Impacto                       | Mitigación Conceptual                        |
+|------------------------|--------------------------|-------------------------------|----------------------------------------------|
+| Disco único sin RAID   | Sí                       | Pérdida total de información  | Implementar RAID                             |
+| Fuente de poder única  | Sí                       | Apagado total del servidor    | Fuente redundante                            |
+| NIC única              | Sí                       | Pérdida de conectividad       | Múltiples interfaces                         |
+| CPU                    | Sí                       | Caída total del servicio      | Separación de roles en servidores distintos  |
+| Chasis sin expansión   | No (pero riesgo futuro)  | Limitación de crecimiento     | Seleccionar chasis expandible                |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODIzNjU3OSwxMzkxODIxMTI3LDExND
-I1MjEwNDQsNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwNDE2MjMz
-MiwtMTU2Njk3NDI2OV19
+eyJoaXN0b3J5IjpbMTM5OTg4ODQ3MSwxMTU4MjM2NTc5LDEzOT
+E4MjExMjcsMTE0MjUyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3
+MiwxMDA0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
 -->
