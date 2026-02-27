@@ -33,8 +33,12 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 **Roles necesarios y justificación técnica de cada uno:**
 
-
+| Rol de Servidor           | Requerimientos que atiende                                                          | Justificación Técnica                                                                                       |
+|----------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Servidor de Archivos       | Almacenamiento centralizado, acceso compartido, reducción de pérdida de información | Permite gestionar documentos administrativos con almacenamiento redundante y acceso concurrente controlado |
+| Servidor de Base de Datos  | Registro y consulta de clientes y proyectos, acceso simultáneo                     | Separa la carga transaccional del almacenamiento documental, mejorando rendimiento y estabilidad           |
+| Servidor de Aplicaciones   | Interfaz de acceso al sistema interno                                              | Aísla la lógica de negocio, evitando que una sobrecarga afecte directamente la base de datos               |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwND
-E2MjMzMiwtMTU2Njk3NDI2OV19
+eyJoaXN0b3J5IjpbMTE0MjUyMTA0NCw3ODczNTE2ODMsLTI4OT
+U3MTA3MiwxMDA0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
 -->
