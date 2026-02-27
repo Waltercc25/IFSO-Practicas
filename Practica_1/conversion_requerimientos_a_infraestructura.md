@@ -43,11 +43,47 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 **Servidor 1: Archivos y Aplicaciones**
 
+### CPU
 
+-   Enfoque en concurrencia moderada.
+    
+-   Múltiples núcleos para soportar accesos simultáneos de 25 usuarios.
+    
 
+### RAM
 
+-   Capacidad suficiente para manejar sesiones simultáneas.
+    
+-   Permitir crecimiento futuro sin reemplazo completo.
+    
+
+### Almacenamiento
+
+-   Tipo de RAID propuesto: RAID 5
+    
+-   Número mínimo de discos: 3
+    
+-   Justificación técnica: Balance entre capacidad y tolerancia a fallo de un disco.
+    
+-   Riesgo en modo degradado: Disminución de rendimiento y riesgo crítico si falla un segundo disco.
+    
+
+### Red (NIC)
+
+-   Múltiples interfaces.
+    
+-   Justificación: Separar tráfico interno administrativo del acceso al sistema.
+    
+
+### Energía (PSU)
+
+-   Fuente redundante.
+    
+-   Justificación: Evitar interrupciones por falla eléctrica interna del servidor.
+
+**Servidor 2: Base de Datos**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MjgyMDAzLDEzOTE4MjExMjcsMTE0Mj
-UyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3MiwxMDA0MTYyMzMy
-LC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbLTIyMzE4NzA5MywxMzkxODIxMTI3LDExND
+I1MjEwNDQsNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwNDE2MjMz
+MiwtMTU2Njk3NDI2OV19
 -->
