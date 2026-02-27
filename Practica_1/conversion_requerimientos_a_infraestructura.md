@@ -119,8 +119,12 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 -   Fuente redundante.
     
 -   Justificación: Mantener disponibilidad del componente más sensible.
+
+# Identificación de Puntos Únicos de Falla (SPOF)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjQxMTU4MywxMzkxODIxMTI3LDExND
+eyJoaXN0b3J5IjpbMTE1ODIzNjU3OSwxMzkxODIxMTI3LDExND
 I1MjEwNDQsNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwNDE2MjMz
 MiwtMTU2Njk3NDI2OV19
 -->
