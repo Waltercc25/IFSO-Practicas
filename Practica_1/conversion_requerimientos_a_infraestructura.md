@@ -14,7 +14,12 @@ El objetivo del análisis es transformar los requerimientos funcionales y no fun
 
 La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso concurrente, protección de la información y capacidad de crecimiento gradual, minimizando riesgos técnicos como puntos únicos de falla (SPOF).
 
+# Matriz de Conversión de Requerimientos
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTUyNzQzLC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbLTE0MTMwMjU1MTcsLTE1NjY5NzQyNjldfQ
+==
 -->
