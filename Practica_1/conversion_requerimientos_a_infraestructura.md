@@ -29,8 +29,11 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 **Componentes que consideré:** CPU, RAM, RAID, NIC, PSU y Chasis/Expansión.
 
+# Selección de Roles de Servidor
+
+Roles
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTU3MTA3MiwxMDA0MTYyMzMyLC0xNT
-Y2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbLTEzOTM0NzAwODIsLTI4OTU3MTA3MiwxMD
+A0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
 -->
