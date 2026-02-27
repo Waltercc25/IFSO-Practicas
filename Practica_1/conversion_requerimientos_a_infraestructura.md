@@ -38,7 +38,12 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 | Servidor de Archivos       | Almacenamiento centralizado, acceso compartido, reducción de pérdida de información | Permite gestionar documentos administrativos con almacenamiento redundante y acceso concurrente controlado |
 | Servidor de Base de Datos  | Registro y consulta de clientes y proyectos, acceso simultáneo                     | Separa la carga transaccional del almacenamiento documental, mejorando rendimiento y estabilidad           |
 | Servidor de Aplicaciones   | Interfaz de acceso al sistema interno                                              | Aísla la lógica de negocio, evitando que una sobrecarga afecte directamente la base de datos               |
+
+# Análisis físico por servidor:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjUyMTA0NCw3ODczNTE2ODMsLTI4OT
-U3MTA3MiwxMDA0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbMTM5MTgyMTEyNywxMTQyNTIxMDQ0LDc4Nz
+M1MTY4MywtMjg5NTcxMDcyLDEwMDQxNjIzMzIsLTE1NjY5NzQy
+NjldfQ==
 -->
