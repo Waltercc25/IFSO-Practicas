@@ -81,9 +81,46 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
     
 -   Justificación: Evitar interrupciones por falla eléctrica interna del servidor.
 
+
 **Servidor 2: Base de Datos**
+
+### CPU
+
+-   Enfoque en procesamiento transaccional.
+    
+-   Prioridad en estabilidad y rendimiento constante.
+    
+
+### RAM
+
+-   Mayor proporción destinada a cache y consultas frecuentes.
+    
+
+### Almacenamiento
+
+-   Tipo de RAID propuesto: RAID 1
+    
+-   Número mínimo de discos: 2
+    
+-   Justificación técnica: Alta confiabilidad para datos críticos.
+    
+-   Riesgo en modo degradado: Vulnerabilidad total si falla el segundo disco antes del reemplazo.
+    
+
+### Red (NIC)
+
+-   Múltiples interfaces.
+    
+-   Justificación: Segmentación y aislamiento del servidor más crítico.
+    
+
+### Energía (PSU)
+
+-   Fuente redundante.
+    
+-   Justificación: Mantener disponibilidad del componente más sensible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzE4NzA5MywxMzkxODIxMTI3LDExND
-I1MjEwNDQsNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwNDE2MjMz
-MiwtMTU2Njk3NDI2OV19
+eyJoaXN0b3J5IjpbNTIyMDY0NzQxLDEzOTE4MjExMjcsMTE0Mj
+UyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3MiwxMDA0MTYyMzMy
+LC0xNTY2OTc0MjY5XX0=
 -->
