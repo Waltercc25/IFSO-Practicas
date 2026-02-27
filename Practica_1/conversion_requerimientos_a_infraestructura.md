@@ -27,6 +27,10 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 | Capacidad de crecimiento gradual              | NF         | Escalabilidad vertical y horizontal                 | RAM / Chasis / Expansión    | Chasis con ranuras libres y capacidad de ampliación          | Infraestructura obsoleta prematuramente           |
 
 
+**Componentes que consideré:** CPU, RAM, RAID, NIC, PSU y Chasis/Expansión.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDE2MjMzMiwtMTU2Njk3NDI2OV19
+eyJoaXN0b3J5IjpbLTI4OTU3MTA3MiwxMDA0MTYyMzMyLC0xNT
+Y2OTc0MjY5XX0=
 -->
