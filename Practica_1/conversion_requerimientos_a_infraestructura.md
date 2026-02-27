@@ -131,10 +131,25 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 | CPU                    | Sí                       | Caída total del servicio      | Separación de roles en servidores distintos  |
 | Chasis sin expansión   | No (pero riesgo futuro)  | Limitación de crecimiento     | Seleccionar chasis expandible                |
 
-## Justificación Técnica Final
+### Justificación Técnica Final
+
+La propuesta convierte requerimientos funcionales y no funcionales en decisiones físicas concretas orientadas a disponibilidad, concurrencia, protección de datos y escalabilidad.
+
+Se prioriza:
+
+-   Redundancia en almacenamiento y energía
+    
+-   Separación de componentes críticos
+    
+-   Capacidad de expansión futura
+    
+-   Reducción de puntos únicos de falla
+    
+
+El diseño mantiene un enfoque conceptual, sin selección de marcas ni implementación específica, cumpliendo con las restricciones establecidas en la práctica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjk1NTk0NSwxMzk5ODg4NDcxLDExNT
-gyMzY1NzksMTM5MTgyMTEyNywxMTQyNTIxMDQ0LDc4NzM1MTY4
-MywtMjg5NTcxMDcyLDEwMDQxNjIzMzIsLTE1NjY5NzQyNjldfQ
-==
+eyJoaXN0b3J5IjpbLTE4NzgxMTM3ODEsMTM5OTg4ODQ3MSwxMT
+U4MjM2NTc5LDEzOTE4MjExMjcsMTE0MjUyMTA0NCw3ODczNTE2
+ODMsLTI4OTU3MTA3MiwxMDA0MTYyMzMyLC0xNTY2OTc0MjY5XX
+0=
 -->
