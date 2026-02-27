@@ -41,9 +41,13 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 # Análisis físico por servidor:
 
+**Servidor 1: Archivos y Aplicaciones**
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTgyMTEyNywxMTQyNTIxMDQ0LDc4Nz
-M1MTY4MywtMjg5NTcxMDcyLDEwMDQxNjIzMzIsLTE1NjY5NzQy
-NjldfQ==
+eyJoaXN0b3J5IjpbOTQ4MjgyMDAzLDEzOTE4MjExMjcsMTE0Mj
+UyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3MiwxMDA0MTYyMzMy
+LC0xNTY2OTc0MjY5XX0=
 -->
