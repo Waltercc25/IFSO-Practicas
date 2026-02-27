@@ -75,7 +75,7 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 -   Justificación: Separar tráfico interno administrativo del acceso al sistema.
     
 
-### Energía (PSU)
+### Energía (UPS)
 
 -   Fuente redundante.
     
@@ -120,7 +120,7 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
     
 -   Justificación: Mantener disponibilidad del componente más sensible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMDY0NzQxLDEzOTE4MjExMjcsMTE0Mj
-UyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3MiwxMDA0MTYyMzMy
-LC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbMjAxNjQxMTU4MywxMzkxODIxMTI3LDExND
+I1MjEwNDQsNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwNDE2MjMz
+MiwtMTU2Njk3NDI2OV19
 -->
