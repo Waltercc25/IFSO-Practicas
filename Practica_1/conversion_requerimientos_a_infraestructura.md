@@ -130,8 +130,11 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 | NIC única              | Sí                       | Pérdida de conectividad       | Múltiples interfaces                         |
 | CPU                    | Sí                       | Caída total del servicio      | Separación de roles en servidores distintos  |
 | Chasis sin expansión   | No (pero riesgo futuro)  | Limitación de crecimiento     | Seleccionar chasis expandible                |
+
+## Justificación Técnica Final
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTg4ODQ3MSwxMTU4MjM2NTc5LDEzOT
-E4MjExMjcsMTE0MjUyMTA0NCw3ODczNTE2ODMsLTI4OTU3MTA3
-MiwxMDA0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbLTM3Mjk1NTk0NSwxMzk5ODg4NDcxLDExNT
+gyMzY1NzksMTM5MTgyMTEyNywxMTQyNTIxMDQ0LDc4NzM1MTY4
+MywtMjg5NTcxMDcyLDEwMDQxNjIzMzIsLTE1NjY5NzQyNjldfQ
+==
 -->
