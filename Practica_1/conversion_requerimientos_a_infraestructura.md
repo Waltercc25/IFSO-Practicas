@@ -31,9 +31,10 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 # Selección de Roles de Servidor
 
-Roles
+**Roles necesarios y justificación técnica de cada uno:**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0NzAwODIsLTI4OTU3MTA3MiwxMD
-A0MTYyMzMyLC0xNTY2OTc0MjY5XX0=
+eyJoaXN0b3J5IjpbNzg3MzUxNjgzLC0yODk1NzEwNzIsMTAwND
+E2MjMzMiwtMTU2Njk3NDI2OV19
 -->
