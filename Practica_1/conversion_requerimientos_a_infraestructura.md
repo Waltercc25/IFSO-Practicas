@@ -16,10 +16,17 @@ La propuesta debe garantizar disponibilidad durante la jornada laboral, acceso c
 
 # Matriz de Conversión de Requerimientos
 
-
+| Requerimiento                                 | Tipo (F/NF) | Atributo Técnico Derivado                           | Componente Físico Impactado | Decisión Conceptual                                          | Riesgo si no se implementa                         |
+|----------------------------------------------|------------|----------------------------------------------------|-----------------------------|--------------------------------------------------------------|--------------------------------------------------|
+| Acceso centralizado a la información          | F          | Servicio centralizado con almacenamiento compartido | Almacenamiento (RAID)       | Implementar arreglo RAID para tolerancia a fallos            | Pérdida total de información ante falla de disco |
+| Acceso simultáneo de múltiples usuarios       | F          | Procesamiento concurrente                           | CPU / RAM                   | CPU con múltiples núcleos y RAM suficiente para concurrencia | Lentitud, bloqueos y baja productividad           |
+| Disponibilidad en jornada laboral             | F          | Alta disponibilidad operativa                       | PSU / RAID                  | Fuente redundante y almacenamiento tolerante a fallos        | Interrupciones del servicio                       |
+| Protección contra accesos no autorizados      | NF         | Segmentación y control de tráfico                   | NIC                         | Uso de múltiples interfaces de red para segmentación         | Exposición a accesos indebidos                    |
+| Reducción de riesgo de pérdida de información | NF         | Redundancia de datos                                | RAID                        | RAID 1 o RAID 5 según criticidad                             | Pérdida irreversible de datos                     |
+| Separación de componentes críticos            | NF         | Aislamiento lógico de servicios                     | CPU / RAM / NIC             | Separar roles en servidores distintos                        | Sobrecarga o fallo total del sistema              |
+| Capacidad de crecimiento gradual              | NF         | Escalabilidad vertical y horizontal                 | RAM / Chasis / Expansión    | Chasis con ranuras libres y capacidad de ampliación          | Infraestructura obsoleta prematuramente           |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMwMjU1MTcsLTE1NjY5NzQyNjldfQ
-==
+eyJoaXN0b3J5IjpbMTAwNDE2MjMzMiwtMTU2Njk3NDI2OV19
 -->
