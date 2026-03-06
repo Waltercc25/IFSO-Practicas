@@ -3,8 +3,11 @@
 
 ## 1. Datos generales
 
- Carrera: Ingenieria en la ciencia de la computación.
+ **Carrera**: Ingenieria en la ciencia de la computación.
+
+**Asignatura:**  IFS0 – Analizando Necesidades de Infraestructura de Servidores.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MDY0MTIxXX0=
+eyJoaXN0b3J5IjpbLTU3OTY1NDk3OF19
 -->
