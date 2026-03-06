@@ -3,11 +3,13 @@
 
 ## 1. Datos generales
 
- Carrera: Ingenieria en la ciencia de la computación.
+ **Carrera:** Ingenieria en la ciencia de la computación.
 
 **Asignatura:**  IFS0 – Analizando Necesidades de Infraestructura de Servidores.
 
 **Nombre:** Walter Vladimir Cantor Claros.
+
+**Aquipo:** Nomada-team-solo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjE5MTI2M119
+eyJoaXN0b3J5IjpbMTkzNDgzMzA5Nl19
 -->
