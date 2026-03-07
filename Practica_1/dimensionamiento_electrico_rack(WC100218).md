@@ -36,13 +36,13 @@ Complete la siguiente tabla con las especificaciones investigadas.
 
 | Equipo | Potencia Máxima (W) | BTU/h | Tamaño (U) | Fuente |
 |---|---|---|---|---|
-| Servidor aplicaciones – HPE ProLiant DL380 Gen11 | 800 W | 2729 BTU/h | 2U | [HPE 800 W Flex Slot Platinum Hot-plug Low Halogen Power Supply | HPE ProLiant DL380 Gen11 Server User Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=sd00002446en_us&page=GUID-26120F6B-C550-4A8F-8200-0630EA6C4BE0.html) |
+| Servidor aplicaciones – HPE ProLiant DL380 Gen11 | 800 W | 2729 BTU/h | 2U | [HPE 800 W Flex Slot Platinum Hot-plug Low Halogen Power Supply | [HPE ProLiant DL380 Gen11 Server User Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=sd00002446en_us&page=GUID-26120F6B-C550-4A8F-8200-0630EA6C4BE0.html) |
 | Servidor base de datos – Dell PowerEdge R760 | 1000 W | 3412 BTU/h | 2U | Dell Technical Guide |
 | Servidor archivos – TrueNAS M50 | 900 W | 3070 BTU/h | 4U | iXsystems Documentation |
 | Switch – Cisco Catalyst 9300-48P | 715 W | 2440 BTU/h | 1U | Cisco Datasheet |
 | Firewall – FortiGate 100F | 70 W | 239 BTU/h | 1U | Fortinet Datasheet |
 | SAN – Dell PowerStore 1200T | 1200 W | 4094 BTU/h | 2U | Dell PowerStore Docs |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0Nz
-kwODM3OF19
+eyJoaXN0b3J5IjpbLTEwMTIwOTI1NjQsMTAyOTAyMzgxMywxMD
+M3MjQ4OTE0LDM0NzkwODM3OF19
 -->
