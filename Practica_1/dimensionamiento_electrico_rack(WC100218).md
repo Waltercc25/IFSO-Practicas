@@ -45,9 +45,19 @@ Complete la siguiente tabla con las especificaciones investigadas.
 
 ## 5 Selección del UPS
 
+| Característica | Valor |
+|---|---|
+| Modelo seleccionado | APC Smart-UPS SRT 5000VA (SRT5KRMXLT) |
+| Capacidad VA | 5000 VA |
+| Capacidad W | 4500 W |
+| Eficiencia | 94 % |
+| Disipación térmica | 1023 BTU/h |
+| Tamaño rack | 3U |
+| Autonomía nominal aproximada | 5-12 minutos según carga |
+| Fuente | APC Datasheet |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0OD
-kzNDc1NSwxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0
-NzYsLTEwMTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LD
-M0NzkwODM3OF19
+eyJoaXN0b3J5IjpbLTE3MTkwNzg5Miw3NDg1NDI4ODksLTQzNz
+k2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1OTAw
+MCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NCwxMDI5MDIzODEzLD
+EwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
 -->
