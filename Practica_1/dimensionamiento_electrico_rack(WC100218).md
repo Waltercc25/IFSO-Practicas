@@ -21,7 +21,16 @@ Este análisis permite comprender cómo el diseño eléctrico y térmico influye
 
 ## 3 Equipos analizados
 
+## 3 Equipos analizados
 
+| Equipo | Modelo |
+|------|------|
+| Servidor de aplicaciones | HPE ProLiant DL380 Gen11 |
+| Servidor de base de datos | Dell PowerEdge R760 |
+| Servidor de archivos | TrueNAS M50 Enterprise |
+| Switch de red | Cisco Catalyst 9300-48P |
+| Firewall | FortiGate 100F |
+| Almacenamiento SAN | Dell PowerStore 1200T |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwMjAwMTUsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTk5NDgxNDY0NiwzNDc5MDgzNzhdfQ==
 -->
