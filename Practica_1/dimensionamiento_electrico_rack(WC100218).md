@@ -18,6 +18,10 @@ En este documento se presenta el análisis eléctrico y térmico de una infraest
 El objetivo de la práctica es calcular el consumo eléctrico total de la infraestructura, evaluar la capacidad del circuito eléctrico, estimar la autonomía del sistema de respaldo UPS y analizar la densidad térmica generada dentro del rack.
 
 Este análisis permite comprender cómo el diseño eléctrico y térmico influye en la disponibilidad y estabilidad de los servicios de infraestructura.
+
+## 3 Equipos analizados
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE4NzMwMjAwMTUsMzQ3OTA4Mzc4XX0=
 -->
