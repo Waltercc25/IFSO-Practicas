@@ -68,9 +68,11 @@ Firewall = 40 W
 SAN = 1272 W
 
 Potencia total = 800 + 1000 + 975 + 715 + 40 + 1272
-Potencia total = 4685 W
+**Potencia total = 4,802 W**
+
+## 7 Cálculo de amperaje del circuito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzkzOTcyNiwtMTAyNDI5ODQ4MiwtMT
+eyJoaXN0b3J5IjpbLTI4NTI4OTM2NiwtMTAyNDI5ODQ4MiwtMT
 cxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3
 NTUsMTMyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC
 0xMDEyMDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5
