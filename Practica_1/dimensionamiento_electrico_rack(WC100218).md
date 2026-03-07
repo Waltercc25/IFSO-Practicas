@@ -84,10 +84,12 @@ I = P / V
 
 Donde:
 
-
+-   **I**  = Corriente (A)
+-   **P**  = Potencia (W)
+-   **V**  = Voltaje (V)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0NDAyMSwtMTAyNDI5ODQ4MiwtMT
+eyJoaXN0b3J5IjpbLTM2MjAxNzk3MiwtMTAyNDI5ODQ4MiwtMT
 cxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3
 NTUsMTMyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC
 0xMDEyMDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5
