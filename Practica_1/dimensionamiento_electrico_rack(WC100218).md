@@ -53,11 +53,12 @@ Complete la siguiente tabla con las especificaciones investigadas.
 | Eficiencia | 94 % |
 | Disipación térmica | 1047 BTU/h |
 | Tamaño rack | 3U |
-| Autonomía nominal aproximada | 5-12 minutos según carga |
+| Autonomía nominal aproximada | 3 a 5 minutos a plena carga (4250W-4800W)  y cerca de  12 a 15 minutos a media carga (2100W-2400W) |
 | Fuente | APC Datasheet |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQyOTg0ODIsLTE3MTkwNzg5Miw3ND
-g1NDI4ODksLTQzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0
-MDAsMTY2NTA1OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NC
-wxMDI5MDIzODEzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbODIzNDAzMzY4LC0xMDI0Mjk4NDgyLC0xNz
+E5MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0ODkzNDc1
+NSwxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0NzYsLT
+EwMTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0Nzkw
+ODM3OF19
 -->
