@@ -61,10 +61,15 @@ Complete la siguiente tabla con las especificaciones investigadas.
 Realice el cálculo del consumo eléctrico total de la infraestructura.
 
 Servidor aplicaciones = 800 W
+
 Servidor base datos = 1000 W
+
 Servidor archivos = 975 W
+
 Switch = 715 W
+
 Firewall = 40 W
+
 SAN = 1272 W
 
 Potencia total = 800 + 1000 + 975 + 715 + 40 + 1272
@@ -75,9 +80,9 @@ Potencia total = 800 + 1000 + 975 + 715 + 40 + 1272
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTUxODUwNCwtMTAyNDI5ODQ4MiwtMT
-cxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3
-NTUsMTMyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC
-0xMDEyMDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5
-MDgzNzhdfQ==
+eyJoaXN0b3J5IjpbNTEzMzM5NzgyLC0xMDI0Mjk4NDgyLC0xNz
+E5MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0ODkzNDc1
+NSwxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0NzYsLT
+EwMTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0Nzkw
+ODM3OF19
 -->
