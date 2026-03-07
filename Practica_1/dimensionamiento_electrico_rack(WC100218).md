@@ -29,6 +29,12 @@ Este análisis permite comprender cómo el diseño eléctrico y térmico influye
 | Switch de red | Cisco Catalyst 9300-48P |
 | Firewall | FortiGate 100F |
 | Almacenamiento SAN | Dell PowerStore 1200T |
+
+## 4 Investigación de especificaciones técnicas
+
+Complete la siguiente tabla con las especificaciones investigadas.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg4Mzg0ODEsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE2OTIwOTE1MzAsMzQ3OTA4Mzc4XX0=
 -->
