@@ -40,10 +40,10 @@ Complete la siguiente tabla con las especificaciones investigadas.
 | Servidor base de datos – Dell PowerEdge R760 | 1000 W | 3412 BTU/h | 2U | [Dell PowerEdge R760 Technical Guide](https://www.delltechnologies.com/asset/en-au/products/servers/technical-support/poweredge-r760-technical-guide.pdf) |
 | Servidor archivos – TrueNAS M50 | 975 W | 3327 BTU/h | 4U | [TrueNAS M50 Storage Data Sheet](https://www.itcreations.com/user-manuals/m50-manuals/truenas-m50-storage-data-sheet.pdf?srsltid=AfmBOoqEto9NVhIc70FH3OYlcthtj191J8ioSTs4zpbLe7BRIHbxMy-v) |
 | Switch – Cisco Catalyst 9300-48P | 715 W | 2440 BTU/h | 1U | [Catalyst 9300 Series Switches Data Sheet - Cisco](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.html) |
-| Firewall – FortiGate 100F | 40 W | 122 BTU/h | 1U | Fortinet Datasheet |
+| Firewall – FortiGate 100F | 40 W | 122 BTU/h | 1U | [FortiGate 100F Series Data Sheet](https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortigate-100f-series.pdf) |
 | SAN – Dell PowerStore 1200T | 1200 W | 4094 BTU/h | 2U | Dell PowerStore Docs |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDA5NzE1NiwxMzI5MzQ3NDAwLDE2Nj
+eyJoaXN0b3J5IjpbMTg0ODkzNDc1NSwxMzI5MzQ3NDAwLDE2Nj
 UwNTkwMDAsLTEwMTMwMDI0NzYsLTEwMTIwOTI1NjQsMTAyOTAy
 MzgxMywxMDM3MjQ4OTE0LDM0NzkwODM3OF19
 -->
