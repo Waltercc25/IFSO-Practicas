@@ -34,7 +34,14 @@ Este análisis permite comprender cómo el diseño eléctrico y térmico influye
 
 Complete la siguiente tabla con las especificaciones investigadas.
 
-
+| Equipo | Potencia Máxima (W) | BTU/h | Tamaño (U) | Fuente |
+|---|---|---|---|---|
+| Servidor aplicaciones – HPE ProLiant DL380 Gen11 | 800 W | 2729 BTU/h | 2U | HPE Datasheet |
+| Servidor base de datos – Dell PowerEdge R760 | 1000 W | 3412 BTU/h | 2U | Dell Technical Guide |
+| Servidor archivos – TrueNAS M50 | 900 W | 3070 BTU/h | 4U | iXsystems Documentation |
+| Switch – Cisco Catalyst 9300-48P | 715 W | 2440 BTU/h | 1U | Cisco Datasheet |
+| Firewall – FortiGate 100F | 70 W | 239 BTU/h | 1U | Fortinet Datasheet |
+| SAN – Dell PowerStore 1200T | 1200 W | 4094 BTU/h | 2U | Dell PowerStore Docs |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIwOTE1MzAsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbMTAzNzI0ODkxNCwzNDc5MDgzNzhdfQ==
 -->
