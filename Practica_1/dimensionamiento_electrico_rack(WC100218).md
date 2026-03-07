@@ -21,8 +21,6 @@ Este análisis permite comprender cómo el diseño eléctrico y térmico influye
 
 ## 3 Equipos analizados
 
-## 3 Equipos analizados
-
 | Equipo | Modelo |
 |------|------|
 | Servidor de aplicaciones | HPE ProLiant DL380 Gen11 |
@@ -32,5 +30,5 @@ Este análisis permite comprender cómo el diseño eléctrico y térmico influye
 | Firewall | FortiGate 100F |
 | Almacenamiento SAN | Dell PowerStore 1200T |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDgxNDY0NiwzNDc5MDgzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzg4Mzg0ODEsMzQ3OTA4Mzc4XX0=
 -->
