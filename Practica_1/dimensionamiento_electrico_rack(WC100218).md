@@ -51,13 +51,13 @@ Complete la siguiente tabla con las especificaciones investigadas.
 | Capacidad VA | 5000 VA |
 | Capacidad W | 4500 W |
 | Eficiencia | 94 % |
-| Disipación térmica | 1023 BTU/h |
+| Disipación térmica | 1047 BTU/h |
 | Tamaño rack | 3U |
 | Autonomía nominal aproximada | 5-12 minutos según carga |
 | Fuente | APC Datasheet |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkwNzg5Miw3NDg1NDI4ODksLTQzNz
-k2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1OTAw
-MCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NCwxMDI5MDIzODEzLD
-EwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTEwMjQyOTg0ODIsLTE3MTkwNzg5Miw3ND
+g1NDI4ODksLTQzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0
+MDAsMTY2NTA1OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NC
+wxMDI5MDIzODEzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
 -->
