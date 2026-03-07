@@ -57,8 +57,17 @@ Complete la siguiente tabla con las especificaciones investigadas.
 | Fuente | [UPS-SRT5KRMXLT-IEC_DATA SHEET.PDF](https://iportal2.schneider-electric.com/Contents/docs/UPS-SRT5KRMXLT-IEC_DATA%20SHEET.PDF) |
 
 ## 6 Cálculo de carga eléctrica total
+
+Realice el cálculo del consumo eléctrico total de la infraestructura.
+
+Servidor aplicaciones = 800 W
+Servidor base datos = 1000 W
+Servidor archivos = 975 W
+Switch = 715 W
+Firewall = 40 W
+SAN = 1272 W
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTk1MDYzNywtMTAyNDI5ODQ4MiwtMT
+eyJoaXN0b3J5IjpbMTQwMzA3MDAzNCwtMTAyNDI5ODQ4MiwtMT
 cxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3
 NTUsMTMyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC
 0xMDEyMDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5
