@@ -180,15 +180,15 @@ En segundo lugar, el UPS seleccionado presenta limitaciones frente a la carga es
 
 Respecto a la autonomía estimada, al encontrarse el UPS cerca de su capacidad máxima, el tiempo de respaldo sería relativamente bajo. De acuerdo con las estimaciones generales para este tipo de UPS, la autonomía podría encontrarse aproximadamente entre **3 y 5 minutos bajo cargas cercanas al 100 %**. Este tiempo puede ser suficiente únicamente para realizar un **apagado controlado de los servidores y sistemas críticos**, pero no permitiría mantener la operación por periodos prolongados durante un corte eléctrico. En infraestructuras empresariales normalmente se complementa el UPS con **generadores eléctricos** para garantizar continuidad operativa.
 
-En cuanto a la densidad térmica del rack, el cálculo realizado indica una densidad aproximada de **1065 BTU por unidad de rack**, lo cual se clasifica como **alta densidad térmica**. Esto implica que los equipos concentrarán una cantidad significativa de calor en un espacio relativamente reducido. Si el sistema de ventilación o climatización no es adecuado, podrían generarse problemas de sobrecalentamiento que afecten el rendimiento y la vida útil del hardware. Por esta razón es importante considerar **sistemas de enfriamiento adecuados, flujo de aire frontal-posterior, y espacios de ventilación dentro del rack**.
+En cuanto a la densidad térmica del rack, el cálculo realizado indica una densidad aproximada de **1092 BTU por unidad de rack**, lo cual se clasifica como **alta densidad térmica**. Esto implica que los equipos concentrarán una cantidad significativa de calor en un espacio relativamente reducido. Si el sistema de ventilación o climatización no es adecuado, podrían generarse problemas de sobrecalentamiento que afecten el rendimiento y la vida útil del hardware. Por esta razón es importante considerar **sistemas de enfriamiento adecuados, flujo de aire frontal-posterior, y espacios de ventilación dentro del rack**.
 
 Finalmente, se pueden proponer algunas mejoras para optimizar la infraestructura. Entre ellas se incluyen la instalación de **circuitos eléctricos dedicados de mayor capacidad**, el uso de **UPS con mayor potencia o configuraciones redundantes**, la implementación de **PDU inteligentes para distribución de energía**, y la incorporación de **sistemas de enfriamiento adecuados para racks de alta densidad**. También sería recomendable mantener **espacios de ventilación entre equipos y una correcta organización del cableado**, lo cual mejora la circulación del aire y facilita las tareas de mantenimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ0MjAwNDUsMTA5ODY1NTE1MiwtMz
-YwOTQ4MzksLTY3NDk5MjcxOCwtMTMxMTQ4MzkxNCwtMTU0OTI5
-NTA4MCw3Mjk5NjMxNDEsLTEwMjQyOTg0ODIsLTE3MTkwNzg5Mi
-w3NDg1NDI4ODksLTQzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkz
-NDc0MDAsMTY2NTA1OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5Mj
-U2NCwxMDI5MDIzODEzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
-
+eyJoaXN0b3J5IjpbLTEzMjQ3MTgwNjcsLTE0NjQ0MjAwNDUsMT
+A5ODY1NTE1MiwtMzYwOTQ4MzksLTY3NDk5MjcxOCwtMTMxMTQ4
+MzkxNCwtMTU0OTI5NTA4MCw3Mjk5NjMxNDEsLTEwMjQyOTg0OD
+IsLTE3MTkwNzg5Miw3NDg1NDI4ODksLTQzNzk2NzE1MiwxODQ4
+OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1OTAwMCwtMTAxMzAwMj
+Q3NiwtMTAxMjA5MjU2NCwxMDI5MDIzODEzLDEwMzcyNDg5MTQs
+MzQ3OTA4Mzc4XX0=
 -->
