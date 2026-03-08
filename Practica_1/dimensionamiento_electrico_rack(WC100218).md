@@ -120,13 +120,16 @@ Porcentaje de carga = (Carga real / Capacidad UPS) × 100
 
 **Carga:**
 
+4685 W
 
+**Cálculo:**
 
-
+Porcentaje = (4802 / 4500) × 100
+Porcentaje = 104 %
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NjI1Mzg3LC0xMzExNDgzOTE0LC0xNT
+eyJoaXN0b3J5IjpbNzQ0NjIzOTczLC0xMzExNDgzOTE0LC0xNT
 Q5Mjk1MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3
 ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMT
 MyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEy
