@@ -159,6 +159,7 @@ Carga térmica total = 16,384 BTU/h
 Total = 15U
 
 Densidad térmica = BTU total / U utilizadas
+
 Densidad térmica = ______ BTU/U
 
 ### Densidad térmica
@@ -167,7 +168,7 @@ Densidad térmica = ______ BTU/U
 
 **Densidad térmica** = 1092 BTU/U
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDkwNjMxNywtMzYwOTQ4MzksLTY3ND
+eyJoaXN0b3J5IjpbMTU5MjQ3MTIzNywtMzYwOTQ4MzksLTY3ND
 k5MjcxOCwtMTMxMTQ4MzkxNCwtMTU0OTI5NTA4MCw3Mjk5NjMx
 NDEsLTEwMjQyOTg0ODIsLTE3MTkwNzg5Miw3NDg1NDI4ODksLT
 QzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1
