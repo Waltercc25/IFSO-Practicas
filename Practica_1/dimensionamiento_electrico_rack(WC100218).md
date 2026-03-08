@@ -110,16 +110,21 @@ Debido a que **4,802 W > 1920 W**, ninguno de los dos circuitos puede alimentar 
 
 ## 9 Estimación de autonomía del UPS
 
-[](https://github.com/echanchanclass/practica-6-dimensionamiento-de-infraestructura-nomada-team-solo/blob/master/practica_6/dimensionamiento_electrico_rack.md#9-estimaci%C3%B3n-de-autonom%C3%ADa-del-ups)
+Porcentaje de carga = (Carga real / Capacidad UPS) × 100
+
+**Resultado**
+
+Porcentaje de carga = ______ %
+Autonomía estimada = ______ minutos
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNDgzNzY4LC0xMzExNDgzOTE0LC0xNT
-Q5Mjk1MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3
-ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMT
-MyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEy
-MDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5MDgzNz
-hdfQ==
+eyJoaXN0b3J5IjpbLTEwNjEwNzYwNTIsLTEzMTE0ODM5MTQsLT
+E1NDkyOTUwODAsNzI5OTYzMTQxLC0xMDI0Mjk4NDgyLC0xNzE5
+MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0ODkzNDc1NS
+wxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0NzYsLTEw
+MTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0NzkwOD
+M3OF19
 -->
