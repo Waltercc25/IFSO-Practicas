@@ -108,14 +108,18 @@ Un circuito de **15A** tiene una capacidad segura aproximada de **1440 W**, mien
 
 Debido a que **4,802 W > 1920 W**, ninguno de los dos circuitos puede alimentar la infraestructura de forma segura. Esto significa que, en un entorno real, sería necesario implementar **un circuito eléctrico dedicado de mayor capacidad o distribuir la carga entre varios circuitos**, además de utilizar **PDU y UPS adecuados para centros de datos**.
 
+## 9 Estimación de autonomía del UPS
+
+[](https://github.com/echanchanclass/practica-6-dimensionamiento-de-infraestructura-nomada-team-solo/blob/master/practica_6/dimensionamiento_electrico_rack.md#9-estimaci%C3%B3n-de-autonom%C3%ADa-del-ups)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYxMTA0MDcsLTEzMTE0ODM5MTQsLT
-E1NDkyOTUwODAsNzI5OTYzMTQxLC0xMDI0Mjk4NDgyLC0xNzE5
-MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0ODkzNDc1NS
-wxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0NzYsLTEw
-MTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0NzkwOD
-M3OF19
+eyJoaXN0b3J5IjpbNzExNDgzNzY4LC0xMzExNDgzOTE0LC0xNT
+Q5Mjk1MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3
+ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMT
+MyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEy
+MDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5MDgzNz
+hdfQ==
 -->
