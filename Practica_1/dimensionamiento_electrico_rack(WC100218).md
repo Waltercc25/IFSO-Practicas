@@ -100,10 +100,15 @@ Amperaje requerido = 40 A
 |---|---|---|
 | 15A | 1440 W | No |
 | 20A | 1920 W | No |
+
+La carga total estimada del rack es de **4685 W**, la cual supera ampliamente la capacidad segura de los circuitos analizados.  
+Un circuito de **15A** tiene una capacidad segura aproximada de **1440 W**, mientras que un circuito de **20A** soporta hasta **1920 W** considerando la regla del **80 % para cargas continuas**.
+
+Debido a que **4685 W > 1920 W**, ninguno de los dos circuitos puede alimentar la infraestructura de forma segura. Esto significa que, en un entorno real, sería necesario implementar **un circuito eléctrico dedicado de mayor capacidad o distribuir la carga entre varios circuitos**, además de utilizar **PDU y UPS adecuados para centros de datos**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjM4MzU1OSw3Mjk5NjMxNDEsLTEwMj
-QyOTg0ODIsLTE3MTkwNzg5Miw3NDg1NDI4ODksLTQzNzk2NzE1
-MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1OTAwMCwtMT
-AxMzAwMjQ3NiwtMTAxMjA5MjU2NCwxMDI5MDIzODEzLDEwMzcy
-NDg5MTQsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE1NDkyOTUwODAsNzI5OTYzMTQxLC0xMD
+I0Mjk4NDgyLC0xNzE5MDc4OTIsNzQ4NTQyODg5LC00Mzc5Njcx
+NTIsMTg0ODkzNDc1NSwxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLT
+EwMTMwMDI0NzYsLTEwMTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3
+MjQ4OTE0LDM0NzkwODM3OF19
 -->
