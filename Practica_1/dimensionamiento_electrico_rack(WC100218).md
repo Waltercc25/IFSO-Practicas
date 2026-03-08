@@ -170,6 +170,8 @@ Densidad térmica = ______ BTU/U
 
 ## 12 Diagrama del rack
 
+![Texto alternativo](https://github.com/echanchanclass/practica-6-dimensionamiento-de-infraestructura-nomada-team-solo/blob/c2e2df94cb0027fb8d2ef82de1af6d35d37a880e/walter-rack-it-both-2026-03-07.png)
+
 ## 13 Análisis técnico final
 
 A partir de los cálculos realizados sobre el consumo eléctrico, la capacidad del UPS y la carga térmica del rack, es posible realizar un análisis general de la infraestructura propuesta.
@@ -184,11 +186,11 @@ En cuanto a la densidad térmica del rack, el cálculo realizado indica una dens
 
 Finalmente, se pueden proponer algunas mejoras para optimizar la infraestructura. Entre ellas se incluyen la instalación de **circuitos eléctricos dedicados de mayor capacidad**, el uso de **UPS con mayor potencia o configuraciones redundantes**, la implementación de **PDU inteligentes para distribución de energía**, y la incorporación de **sistemas de enfriamiento adecuados para racks de alta densidad**. También sería recomendable mantener **espacios de ventilación entre equipos y una correcta organización del cableado**, lo cual mejora la circulación del aire y facilita las tareas de mantenimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3MTgwNjcsLTE0NjQ0MjAwNDUsMT
-A5ODY1NTE1MiwtMzYwOTQ4MzksLTY3NDk5MjcxOCwtMTMxMTQ4
-MzkxNCwtMTU0OTI5NTA4MCw3Mjk5NjMxNDEsLTEwMjQyOTg0OD
-IsLTE3MTkwNzg5Miw3NDg1NDI4ODksLTQzNzk2NzE1MiwxODQ4
-OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1OTAwMCwtMTAxMzAwMj
-Q3NiwtMTAxMjA5MjU2NCwxMDI5MDIzODEzLDEwMzcyNDg5MTQs
-MzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbMTE0NjQxNDMxMCwtMTMyNDcxODA2NywtMT
+Q2NDQyMDA0NSwxMDk4NjU1MTUyLC0zNjA5NDgzOSwtNjc0OTky
+NzE4LC0xMzExNDgzOTE0LC0xNTQ5Mjk1MDgwLDcyOTk2MzE0MS
+wtMTAyNDI5ODQ4MiwtMTcxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3
+OTY3MTUyLDE4NDg5MzQ3NTUsMTMyOTM0NzQwMCwxNjY1MDU5MD
+AwLC0xMDEzMDAyNDc2LC0xMDEyMDkyNTY0LDEwMjkwMjM4MTMs
+MTAzNzI0ODkxNF19
 -->
