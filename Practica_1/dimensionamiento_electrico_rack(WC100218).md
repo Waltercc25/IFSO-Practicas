@@ -93,9 +93,9 @@ Considere una alimentación de  **120V**.
 I = 4,802 / 120
 I = 40.01 A
 
-Amperaje requerido = 41 A
+Amperaje requerido = 40 A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODQ5NzcxOCwtMTAyNDI5ODQ4MiwtMT
+eyJoaXN0b3J5IjpbMTY4NTUwNDQ3MSwtMTAyNDI5ODQ4MiwtMT
 cxOTA3ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3
 NTUsMTMyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC
 0xMDEyMDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5
