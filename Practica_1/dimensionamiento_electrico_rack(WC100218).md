@@ -143,11 +143,23 @@ BTU = W × 3.412
 **Resultado:**
 
 Carga térmica total = 16,384 BTU/h
+
+## 11 Densidad térmica del rack
+
+| Equipo | U |
+|---|---|
+| Servidor aplicaciones | 2U |
+| Servidor base datos | 2U |
+| Servidor archivos | 4U |
+| SAN | 2U |
+| Switch | 1U |
+| Firewall | 1U |
+| UPS | 3U |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDk5MjcxOCwtMTMxMTQ4MzkxNCwtMT
-U0OTI5NTA4MCw3Mjk5NjMxNDEsLTEwMjQyOTg0ODIsLTE3MTkw
-Nzg5Miw3NDg1NDI4ODksLTQzNzk2NzE1MiwxODQ4OTM0NzU1LD
-EzMjkzNDc0MDAsMTY2NTA1OTAwMCwtMTAxMzAwMjQ3NiwtMTAx
-MjA5MjU2NCwxMDI5MDIzODEzLDEwMzcyNDg5MTQsMzQ3OTA4Mz
-c4XX0=
+eyJoaXN0b3J5IjpbLTM2MDk0ODM5LC02NzQ5OTI3MTgsLTEzMT
+E0ODM5MTQsLTE1NDkyOTUwODAsNzI5OTYzMTQxLC0xMDI0Mjk4
+NDgyLC0xNzE5MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMT
+g0ODkzNDc1NSwxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMw
+MDI0NzYsLTEwMTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OT
+E0LDM0NzkwODM3OF19
 -->
