@@ -176,7 +176,7 @@ A partir de los cálculos realizados sobre el consumo eléctrico, la capacidad d
 
 En primer lugar, el circuito eléctrico analizado no es suficiente para soportar la carga total del rack. La potencia total estimada de los equipos es de aproximadamente **4802 W**, lo cual supera ampliamente la capacidad segura de los circuitos evaluados. Un circuito de **15A** puede soportar de forma segura alrededor de **1440 W**, mientras que uno de **20A** permite aproximadamente **1920 W** aplicando la regla del **80 % para cargas continuas**. Debido a que el consumo total del rack excede estos valores, ninguno de los dos circuitos sería adecuado para alimentar la infraestructura de forma segura. En un entorno real sería necesario implementar **un circuito eléctrico dedicado de mayor capacidad o distribuir la carga entre varios circuitos independientes**.
 
-En segundo lugar, el UPS seleccionado presenta limitaciones frente a la carga estimada. El modelo seleccionado tiene una capacidad aproximada de **4500 W**, mientras que la carga total del rack es cercana a **4685 W**, lo cual significa que el UPS operaría al límite o incluso ligeramente por encima de su capacidad. Esto puede provocar sobrecarga, reducción de la vida útil del equipo o fallos en caso de interrupciones eléctricas. Por esta razón, aunque el UPS pertenece a una gama empresarial, **no sería el más adecuado para alimentar toda la infraestructura simultáneamente**, por lo que se recomendaría utilizar un **UPS de mayor capacidad o implementar un esquema con múltiples UPS** para distribuir la carga.
+En segundo lugar, el UPS seleccionado presenta limitaciones frente a la carga estimada. El modelo seleccionado tiene una capacidad aproximada de **4500 W**, mientras que la carga total del rack es cercana a **4802 W**, lo cual significa que el UPS operaría al límite o incluso ligeramente por encima de su capacidad. Esto puede provocar sobrecarga, reducción de la vida útil del equipo o fallos en caso de interrupciones eléctricas. Por esta razón, aunque el UPS pertenece a una gama empresarial, **no sería el más adecuado para alimentar toda la infraestructura simultáneamente**, por lo que se recomendaría utilizar un **UPS de mayor capacidad o implementar un esquema con múltiples UPS** para distribuir la carga.
 
 Respecto a la autonomía estimada, al encontrarse el UPS cerca de su capacidad máxima, el tiempo de respaldo sería relativamente bajo. De acuerdo con las estimaciones generales para este tipo de UPS, la autonomía podría encontrarse aproximadamente entre **3 y 5 minutos bajo cargas cercanas al 100 %**. Este tiempo puede ser suficiente únicamente para realizar un **apagado controlado de los servidores y sistemas críticos**, pero no permitiría mantener la operación por periodos prolongados durante un corte eléctrico. En infraestructuras empresariales normalmente se complementa el UPS con **generadores eléctricos** para garantizar continuidad operativa.
 
@@ -184,11 +184,11 @@ En cuanto a la densidad térmica del rack, el cálculo realizado indica una dens
 
 Finalmente, se pueden proponer algunas mejoras para optimizar la infraestructura. Entre ellas se incluyen la instalación de **circuitos eléctricos dedicados de mayor capacidad**, el uso de **UPS con mayor potencia o configuraciones redundantes**, la implementación de **PDU inteligentes para distribución de energía**, y la incorporación de **sistemas de enfriamiento adecuados para racks de alta densidad**. También sería recomendable mantener **espacios de ventilación entre equipos y una correcta organización del cableado**, lo cual mejora la circulación del aire y facilita las tareas de mantenimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjIxODgzNiwxMDk4NjU1MTUyLC0zNj
-A5NDgzOSwtNjc0OTkyNzE4LC0xMzExNDgzOTE0LC0xNTQ5Mjk1
-MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3ODkyLD
-c0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMTMyOTM0
-NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEyMDkyNT
-Y0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5MDgzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NjQ0MjAwNDUsMTA5ODY1NTE1MiwtMz
+YwOTQ4MzksLTY3NDk5MjcxOCwtMTMxMTQ4MzkxNCwtMTU0OTI5
+NTA4MCw3Mjk5NjMxNDEsLTEwMjQyOTg0ODIsLTE3MTkwNzg5Mi
+w3NDg1NDI4ODksLTQzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkz
+NDc0MDAsMTY2NTA1OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5Mj
+U2NCwxMDI5MDIzODEzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
 
 -->
