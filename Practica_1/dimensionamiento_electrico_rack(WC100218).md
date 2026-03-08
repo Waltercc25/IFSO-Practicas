@@ -167,11 +167,15 @@ Densidad térmica = ______ BTU/U
 16384 / 15 = 1092 BTU/U
 
 **Densidad térmica** = 1092 BTU/U
+
+## 12 Diagrama del rack
+
+[](https://github.com/echanchanclass/practica-6-dimensionamiento-de-infraestructura-nomada-team-solo/blob/master/practica_6/dimensionamiento_electrico_rack.md#12-diagrama-del-rack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjQ3MTIzNywtMzYwOTQ4MzksLTY3ND
-k5MjcxOCwtMTMxMTQ4MzkxNCwtMTU0OTI5NTA4MCw3Mjk5NjMx
-NDEsLTEwMjQyOTg0ODIsLTE3MTkwNzg5Miw3NDg1NDI4ODksLT
-QzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1
-OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NCwxMDI5MDIzOD
-EzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbOTg4NTQ1Nzc2LC0zNjA5NDgzOSwtNjc0OT
+kyNzE4LC0xMzExNDgzOTE0LC0xNTQ5Mjk1MDgwLDcyOTk2MzE0
+MSwtMTAyNDI5ODQ4MiwtMTcxOTA3ODkyLDc0ODU0Mjg4OSwtND
+M3OTY3MTUyLDE4NDg5MzQ3NTUsMTMyOTM0NzQwMCwxNjY1MDU5
+MDAwLC0xMDEzMDAyNDc2LC0xMDEyMDkyNTY0LDEwMjkwMjM4MT
+MsMTAzNzI0ODkxNCwzNDc5MDgzNzhdfQ==
 -->
