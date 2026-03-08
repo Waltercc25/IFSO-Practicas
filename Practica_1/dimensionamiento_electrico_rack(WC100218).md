@@ -114,17 +114,22 @@ Porcentaje de carga = (Carga real / Capacidad UPS) × 100
 
 **Resultado**
 
-Porcentaje de carga = ______ %
-Autonomía estimada = ______ minutos
+**UPS:**
+
+4500 W capacidad
+
+**Carga:**
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEwNzYwNTIsLTEzMTE0ODM5MTQsLT
-E1NDkyOTUwODAsNzI5OTYzMTQxLC0xMDI0Mjk4NDgyLC0xNzE5
-MDc4OTIsNzQ4NTQyODg5LC00Mzc5NjcxNTIsMTg0ODkzNDc1NS
-wxMzI5MzQ3NDAwLDE2NjUwNTkwMDAsLTEwMTMwMDI0NzYsLTEw
-MTIwOTI1NjQsMTAyOTAyMzgxMywxMDM3MjQ4OTE0LDM0NzkwOD
-M3OF19
+eyJoaXN0b3J5IjpbOTc2NjI1Mzg3LC0xMzExNDgzOTE0LC0xNT
+Q5Mjk1MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3
+ODkyLDc0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMT
+MyOTM0NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEy
+MDkyNTY0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5MDgzNz
+hdfQ==
 -->
