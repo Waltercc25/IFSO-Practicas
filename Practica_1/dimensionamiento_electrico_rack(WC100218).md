@@ -170,12 +170,25 @@ Densidad térmica = ______ BTU/U
 
 ## 12 Diagrama del rack
 
+## 13 Análisis técnico final
 
+A partir de los cálculos realizados sobre el consumo eléctrico, la capacidad del UPS y la carga térmica del rack, es posible realizar un análisis general de la infraestructura propuesta.
+
+En primer lugar, el circuito eléctrico analizado no es suficiente para soportar la carga total del rack. La potencia total estimada de los equipos es de aproximadamente **4802 W**, lo cual supera ampliamente la capacidad segura de los circuitos evaluados. Un circuito de **15A** puede soportar de forma segura alrededor de **1440 W**, mientras que uno de **20A** permite aproximadamente **1920 W** aplicando la regla del **80 % para cargas continuas**. Debido a que el consumo total del rack excede estos valores, ninguno de los dos circuitos sería adecuado para alimentar la infraestructura de forma segura. En un entorno real sería necesario implementar **un circuito eléctrico dedicado de mayor capacidad o distribuir la carga entre varios circuitos independientes**.
+
+En segundo lugar, el UPS seleccionado presenta limitaciones frente a la carga estimada. El modelo seleccionado tiene una capacidad aproximada de **4500 W**, mientras que la carga total del rack es cercana a **4685 W**, lo cual significa que el UPS operaría al límite o incluso ligeramente por encima de su capacidad. Esto puede provocar sobrecarga, reducción de la vida útil del equipo o fallos en caso de interrupciones eléctricas. Por esta razón, aunque el UPS pertenece a una gama empresarial, **no sería el más adecuado para alimentar toda la infraestructura simultáneamente**, por lo que se recomendaría utilizar un **UPS de mayor capacidad o implementar un esquema con múltiples UPS** para distribuir la carga.
+
+Respecto a la autonomía estimada, al encontrarse el UPS cerca de su capacidad máxima, el tiempo de respaldo sería relativamente bajo. De acuerdo con las estimaciones generales para este tipo de UPS, la autonomía podría encontrarse aproximadamente entre **3 y 5 minutos bajo cargas cercanas al 100 %**. Este tiempo puede ser suficiente únicamente para realizar un **apagado controlado de los servidores y sistemas críticos**, pero no permitiría mantener la operación por periodos prolongados durante un corte eléctrico. En infraestructuras empresariales normalmente se complementa el UPS con **generadores eléctricos** para garantizar continuidad operativa.
+
+En cuanto a la densidad térmica del rack, el cálculo realizado indica una densidad aproximada de **1065 BTU por unidad de rack**, lo cual se clasifica como **alta densidad térmica**. Esto implica que los equipos concentrarán una cantidad significativa de calor en un espacio relativamente reducido. Si el sistema de ventilación o climatización no es adecuado, podrían generarse problemas de sobrecalentamiento que afecten el rendimiento y la vida útil del hardware. Por esta razón es importante considerar **sistemas de enfriamiento adecuados, flujo de aire frontal-posterior, y espacios de ventilación dentro del rack**.
+
+Finalmente, se pueden proponer algunas mejoras para optimizar la infraestructura. Entre ellas se incluyen la instalación de **circuitos eléctricos dedicados de mayor capacidad**, el uso de **UPS con mayor potencia o configuraciones redundantes**, la implementación de **PDU inteligentes para distribución de energía**, y la incorporación de **sistemas de enfriamiento adecuados para racks de alta densidad**. También sería recomendable mantener **espacios de ventilación entre equipos y una correcta organización del cableado**, lo cual mejora la circulación del aire y facilita las tareas de mantenimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODY1NTE1MiwtMzYwOTQ4MzksLTY3ND
-k5MjcxOCwtMTMxMTQ4MzkxNCwtMTU0OTI5NTA4MCw3Mjk5NjMx
-NDEsLTEwMjQyOTg0ODIsLTE3MTkwNzg5Miw3NDg1NDI4ODksLT
-QzNzk2NzE1MiwxODQ4OTM0NzU1LDEzMjkzNDc0MDAsMTY2NTA1
-OTAwMCwtMTAxMzAwMjQ3NiwtMTAxMjA5MjU2NCwxMDI5MDIzOD
-EzLDEwMzcyNDg5MTQsMzQ3OTA4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTQ1MjIxODgzNiwxMDk4NjU1MTUyLC0zNj
+A5NDgzOSwtNjc0OTkyNzE4LC0xMzExNDgzOTE0LC0xNTQ5Mjk1
+MDgwLDcyOTk2MzE0MSwtMTAyNDI5ODQ4MiwtMTcxOTA3ODkyLD
+c0ODU0Mjg4OSwtNDM3OTY3MTUyLDE4NDg5MzQ3NTUsMTMyOTM0
+NzQwMCwxNjY1MDU5MDAwLC0xMDEzMDAyNDc2LC0xMDEyMDkyNT
+Y0LDEwMjkwMjM4MTMsMTAzNzI0ODkxNCwzNDc5MDgzNzhdfQ==
+
 -->
