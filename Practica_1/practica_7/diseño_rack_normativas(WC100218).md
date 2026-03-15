@@ -100,9 +100,21 @@ Los **blank panels** se utilizan para cubrir espacios vacíos dentro del rack. E
 
 Su uso mejora la eficiencia del enfriamiento al obligar al aire frío a pasar a través de los servidores, donde realmente se necesita la refrigeración.
 
+### 3. ¿Qué problemas pueden ocurrir si se dejan espacios vacíos sin cubrir?
+
+Si se dejan espacios abiertos en el rack, el aire frío puede circular sin pasar por los servidores, reduciendo la eficiencia del sistema de enfriamiento.
+
+Esto puede provocar:
+
+-   aumento de temperatura en los equipos
+    
+-   mayor consumo energético del sistema de climatización
+    
+-   riesgo de sobrecalentamiento de servidores
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI0ODY0NTksLTE4Mjc5MDA4ODYsLT
+eyJoaXN0b3J5IjpbLTIxMDM4NjcxNjAsLTE4Mjc5MDA4ODYsLT
 UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
 NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
 IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
