@@ -51,8 +51,13 @@ Investigue las características físicas de los equipos utilizados en la prácti
 | Switch | 1U | Equipo de red | ~350 W | Conecta todos los dispositivos del rack a la red empresarial. |
 | Firewall | 1U | Seguridad de red | ~150 W | Protege la red interna mediante filtrado de tráfico y políticas de seguridad. |
 | UPS | 6U | Sistema de energía | ~6000 W capacidad | Proporciona energía de respaldo y protección eléctrica ante fallos de suministro. |
+
+## 5. Diseño del rack
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTk4NDI3LC0yMDE5NjUwODAwLC0yMD
-M1Mjk5NDk5LC00MzU4NzY2NTcsLTIwMDY4OTAyMDgsLTIwODk4
-MDI0NSwtMTk2Mjg2ODE3MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwNTQyMzg5MzUsMzA1MTk4NDI3LC0yMD
+E5NjUwODAwLC0yMDM1Mjk5NDk5LC00MzU4NzY2NTcsLTIwMDY4
+OTAyMDgsLTIwODk4MDI0NSwtMTk2Mjg2ODE3MiwtMjA4ODc0Nj
+YxMl19
 -->
