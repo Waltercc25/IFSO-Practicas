@@ -27,7 +27,13 @@ El objetivo de esta práctica es diseñar una distribución adecuada de equipos 
 -   estándares de centros de datos
 
 El diseño fue modelado utilizando la herramienta  **Rackula**.
+
+## 3. Normativas investigadas
+
+Investigue al menos  **tres estándares utilizados en el diseño de centros de datos**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY4OTAyMDgsLTIwODk4MDI0NSwtMT
-k2Mjg2ODE3MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTQzNTg3NjY1NywtMjAwNjg5MDIwOCwtMj
+A4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEyXX0=
 -->
