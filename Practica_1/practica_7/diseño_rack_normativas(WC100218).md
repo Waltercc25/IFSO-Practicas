@@ -137,10 +137,18 @@ La **PDU (Power Distribution Unit)** es un dispositivo que distribuye la energí
 
 Permite conectar múltiples dispositivos de forma segura y organizada, facilitando la administración de energía dentro de la infraestructura.
 
+### 3. ¿Por qué el UPS suele colocarse en la parte inferior del rack?
+
+El UPS generalmente se coloca en la parte inferior del rack porque es uno de los equipos más pesados dentro de la infraestructura.
+
+Ubicarlo en la parte inferior mejora la estabilidad del rack, reduce el riesgo de vuelco y facilita el soporte estructural del gabinete.
+
+## 8. Diagrama del rack
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTExMTI5NTYsLTE4Mjc5MDA4ODYsLT
+eyJoaXN0b3J5IjpbLTIwNzc1MDU4MDAsLTE4Mjc5MDA4ODYsLT
 UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
 NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
 IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
