@@ -4,9 +4,14 @@
 
 **1. Datos generales**
 
--   **Carrera:** Ingenieria de la ciencias de la computación.
+-   **Carrera:** Ingeniería en la ciencias de la computación.
     
 -   **Asignatura:** IFS0 – Analizando Necesidades de Infraestructura de Servidores
+
+**Nombre del estudiante / integrantes:** 
+
+Walter Cantor - Carnet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMDc4NzEzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5NjI4NjgxNzIsLTIwODg3NDY2MTJdfQ
+==
 -->
