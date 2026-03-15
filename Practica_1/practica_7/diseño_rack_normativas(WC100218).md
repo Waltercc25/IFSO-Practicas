@@ -52,9 +52,6 @@ Investigue las características físicas de los equipos utilizados en la prácti
 | Firewall | 1U | Seguridad de red | ~150 W | Protege la red interna mediante filtrado de tráfico y políticas de seguridad. |
 | UPS | 6U | Sistema de energía | ~6000 W capacidad | Proporciona energía de respaldo y protección eléctrica ante fallos de suministro. |
 
-## 5. Diseño del rack
-
-Explique cómo organizó los equipos dentro del rack.
 
 ## 5. Diseño del rack
 
@@ -88,9 +85,13 @@ Este diseño sigue el principio de organización típico de centros de datos:
 - energía en la parte inferior
 - almacenamiento y servidores en la zona media
 - red en la parte superior
+
+## 6. Gestión térmica del rack
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMD
-UxOTg0MjcsLTIwMTk2NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3
-NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MT
-cyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4Mjc5MDA4ODYsLTUxOTI5NTUxNiwtMT
+c0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2NTA4MDAsLTIwMzUy
+OTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMj
+Q1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEyXX0=
 -->
