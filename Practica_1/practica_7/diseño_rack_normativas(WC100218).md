@@ -114,9 +114,24 @@ Esto puede provocar:
 
 ## 7. Gestión eléctrica
 
+Responder:
 
+**1. ¿Cuál es la función de un UPS en un rack de servidores?**
+
+El **UPS (Uninterruptible Power Supply)** proporciona energía eléctrica temporal a los equipos en caso de interrupción del suministro eléctrico.
+
+Además, protege los dispositivos contra problemas eléctricos como:
+
+-   picos de voltaje
+    
+-   caídas de energía
+    
+-   fluctuaciones eléctricas
+    
+
+Esto permite que los servidores continúen funcionando durante un periodo de tiempo suficiente para realizar apagados seguros o activar generadores de respaldo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEwMDkwODQsLTE4Mjc5MDA4ODYsLT
+eyJoaXN0b3J5IjpbLTE1NDc5NzU3MzQsLTE4Mjc5MDA4ODYsLT
 UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
 NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
 IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
