@@ -42,9 +42,17 @@ Investigue al menos  **tres estándares utilizados en el diseño de centros de d
 
 Investigue las características físicas de los equipos utilizados en la práctica.
 
-
+| Equipo | Altura (U) | Tipo | Consumo aproximado | Función |
+|------|------|------|------|------|
+| Servidor de aplicaciones | 2U | Servidor rack | ~800 W | Ejecuta aplicaciones empresariales utilizadas por los usuarios de la organización. |
+| Servidor de base de datos | 2U | Servidor rack | ~900 W | Almacena y gestiona bases de datos críticas para los sistemas de la empresa. |
+| Servidor de archivos | 4U | Servidor de almacenamiento | ~1200 W | Proporciona almacenamiento centralizado para archivos compartidos en la red. |
+| SAN | 2U | Almacenamiento empresarial | ~1000 W | Sistema de almacenamiento de alto rendimiento utilizado para servidores y virtualización. |
+| Switch | 1U | Equipo de red | ~350 W | Conecta todos los dispositivos del rack a la red empresarial. |
+| Firewall | 1U | Seguridad de red | ~150 W | Protege la red interna mediante filtrado de tráfico y políticas de seguridad. |
+| UPS | 6U | Sistema de energía | ~6000 W capacidad | Proporciona energía de respaldo y protección eléctrica ante fallos de suministro. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk2NTA4MDAsLTIwMzUyOTk0OTksLT
-QzNTg3NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMjQ1LC0xOTYy
-ODY4MTcyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzA1MTk4NDI3LC0yMDE5NjUwODAwLC0yMD
+M1Mjk5NDk5LC00MzU4NzY2NTcsLTIwMDY4OTAyMDgsLTIwODk4
+MDI0NSwtMTk2Mjg2ODE3MiwtMjA4ODc0NjYxMl19
 -->
