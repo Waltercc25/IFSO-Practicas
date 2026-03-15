@@ -112,9 +112,11 @@ Esto puede provocar:
     
 -   riesgo de sobrecalentamiento de servidores
 
+## 7. Gestión eléctrica
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM4NjcxNjAsLTE4Mjc5MDA4ODYsLT
+eyJoaXN0b3J5IjpbLTE2MTEwMDkwODQsLTE4Mjc5MDA4ODYsLT
 UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
 NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
 IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
