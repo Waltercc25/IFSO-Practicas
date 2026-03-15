@@ -55,9 +55,42 @@ Investigue las características físicas de los equipos utilizados en la prácti
 ## 5. Diseño del rack
 
 Explique cómo organizó los equipos dentro del rack.
+
+## 5. Diseño del rack
+
+El diseño del rack fue realizado siguiendo buenas prácticas de infraestructura de centros de datos y considerando estabilidad mecánica, flujo de aire, distribución eléctrica y organización del cableado.
+
+La distribución de los equipos se organizó por capas funcionales dentro del rack.
+
+En la **parte inferior del rack** se colocó el **UPS Smart-UPS SRT5KRMXLT**, ya que es uno de los equipos más pesados. Colocar el UPS en la base mejora la estabilidad del rack y reduce el riesgo de desequilibrio estructural.
+
+Encima del UPS se ubicó el **sistema de almacenamiento (Storage / SAN)**. Esta posición permite mantener cercanía con los servidores que utilizan el almacenamiento, reduciendo la longitud de cables y mejorando la organización del cableado.
+
+En la **zona media del rack** se instalaron los **servidores**:
+
+- HPE ProLiant DL380 Gen11 (Servidor de aplicaciones)
+- Dell PowerEdge R760 (Servidor de base de datos)
+- Servidor de archivos
+
+Ubicar los servidores en la parte media del rack permite mantener un equilibrio térmico y facilita el acceso para mantenimiento.
+
+En la **parte superior del rack** se instalaron los equipos de red:
+
+- Switch de red (48 puertos)
+- Router / Firewall
+
+Esto se realiza comúnmente en centros de datos porque facilita la distribución del cableado de red hacia otros racks o hacia los patch panels de la infraestructura.
+
+Además, se dejaron **espacios libres entre algunos equipos**, los cuales pueden ser utilizados para instalar **blank panels o cable managers**, lo que ayuda a mejorar el flujo de aire y la organización del cableado.
+
+Este diseño sigue el principio de organización típico de centros de datos:
+
+- energía en la parte inferior
+- almacenamiento y servidores en la zona media
+- red en la parte superior
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ2NDg0NjUsMzA1MTk4NDI3LC0yMD
-E5NjUwODAwLC0yMDM1Mjk5NDk5LC00MzU4NzY2NTcsLTIwMDY4
-OTAyMDgsLTIwODk4MDI0NSwtMTk2Mjg2ODE3MiwtMjA4ODc0Nj
-YxMl19
+eyJoaXN0b3J5IjpbLTUxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMD
+UxOTg0MjcsLTIwMTk2NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3
+NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MT
+cyLC0yMDg4NzQ2NjEyXX0=
 -->
