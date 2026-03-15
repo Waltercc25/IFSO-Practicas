@@ -37,8 +37,14 @@ Investigue al menos  **tres estándares utilizados en el diseño de centros de d
 | ANSI/TIA-942 | Telecommunications Industry Association | Infraestructura de centros de datos     | Define buenas prácticas para distribución de racks, cableado estructurado, redundancia eléctrica, flujo de aire y organización de equipos en centros de datos. |
 | EIA-310-E    | Electronic Industries Alliance          | Estándar físico de racks de 19 pulgadas | Define dimensiones físicas de racks y equipos (ancho, altura en U, montaje), garantizando compatibilidad entre servidores, switches, UPS y demás dispositivos instalados en racks. |
 | TIA-606-C    | Telecommunications Industry Association | Administración y etiquetado de cableado | Establece normas para la correcta identificación, etiquetado y documentación del cableado dentro del rack, facilitando mantenimiento y gestión de infraestructura. |
+
+## 4. Análisis del hardware
+
+Investigue las características físicas de los equipos utilizados en la práctica.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMj
-AwNjg5MDIwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwMTk2NTA4MDAsLTIwMzUyOTk0OTksLT
+QzNTg3NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMjQ1LC0xOTYy
+ODY4MTcyLC0yMDg4NzQ2NjEyXX0=
 -->
