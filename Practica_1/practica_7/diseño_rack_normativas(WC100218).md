@@ -54,9 +54,9 @@ Investigue las características físicas de los equipos utilizados en la prácti
 
 ## 5. Diseño del rack
 
-
+Explique cómo organizó los equipos dentro del rack.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQyMzg5MzUsMzA1MTk4NDI3LC0yMD
+eyJoaXN0b3J5IjpbLTE3NDQ2NDg0NjUsMzA1MTk4NDI3LC0yMD
 E5NjUwODAwLC0yMDM1Mjk5NDk5LC00MzU4NzY2NTcsLTIwMDY4
 OTAyMDgsLTIwODk4MDI0NSwtMTk2Mjg2ODE3MiwtMjA4ODc0Nj
 YxMl19
