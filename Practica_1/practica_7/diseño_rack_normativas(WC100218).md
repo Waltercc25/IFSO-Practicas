@@ -10,8 +10,8 @@
 
 **Nombre del estudiante / integrantes:** 
 
-Walter Cantor - Carnet
+Walter Vladimir Cantor Claros -> WC100218
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4NjgxNzIsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODk4MDI0NSwtMTk2Mjg2ODE3MiwtMj
+A4ODc0NjYxMl19
 -->
