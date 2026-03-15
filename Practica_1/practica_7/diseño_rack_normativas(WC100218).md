@@ -131,11 +131,18 @@ Además, protege los dispositivos contra problemas eléctricos como:
 
 Esto permite que los servidores continúen funcionando durante un periodo de tiempo suficiente para realizar apagados seguros o activar generadores de respaldo.
 
+### 2. ¿Qué función cumple una PDU dentro del rack?
+
+La **PDU (Power Distribution Unit)** es un dispositivo que distribuye la energía eléctrica proveniente del UPS hacia los distintos equipos instalados en el rack.
+
+Permite conectar múltiples dispositivos de forma segura y organizada, facilitando la administración de energía dentro de la infraestructura.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzA2NTA5NywtMTgyNzkwMDg4NiwtNT
-E5Mjk1NTE2LC0xNzQ0NjQ4NDY1LDMwNTE5ODQyNywtMjAxOTY1
-MDgwMCwtMjAzNTI5OTQ5OSwtNDM1ODc2NjU3LC0yMDA2ODkwMj
-A4LC0yMDg5ODAyNDUsLTE5NjI4NjgxNzIsLTIwODg3NDY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMTExMTI5NTYsLTE4Mjc5MDA4ODYsLT
+UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
+NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
+IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
+XX0=
 -->
