@@ -88,10 +88,23 @@ Este diseño sigue el principio de organización típico de centros de datos:
 
 ## 6. Gestión térmica del rack
 
+### 1. ¿Qué es el flujo de aire front-to-back?
+
+El flujo de aire **front-to-back** es un sistema de ventilación en el cual los equipos de rack toman aire frío por la parte frontal y expulsan aire caliente por la parte posterior.
+
+Este diseño permite que el aire frío proveniente del sistema de climatización enfríe los componentes internos de los servidores y posteriormente el aire caliente sea expulsado hacia el pasillo caliente del centro de datos.
+
+### 2. ¿Por qué se utilizan blank panels en los racks?
+
+Los **blank panels** se utilizan para cubrir espacios vacíos dentro del rack. Esto evita que el aire frío se escape por los espacios sin equipos instalados.
+
+Su uso mejora la eficiencia del enfriamiento al obligar al aire frío a pasar a través de los servidores, donde realmente se necesita la refrigeración.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc5MDA4ODYsLTUxOTI5NTUxNiwtMT
-c0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2NTA4MDAsLTIwMzUy
-OTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MDIwOCwtMjA4OTgwMj
-Q1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMTI0ODY0NTksLTE4Mjc5MDA4ODYsLT
+UxOTI5NTUxNiwtMTc0NDY0ODQ2NSwzMDUxOTg0MjcsLTIwMTk2
+NTA4MDAsLTIwMzUyOTk0OTksLTQzNTg3NjY1NywtMjAwNjg5MD
+IwOCwtMjA4OTgwMjQ1LC0xOTYyODY4MTcyLC0yMDg4NzQ2NjEy
+XX0=
 -->
