@@ -39,7 +39,7 @@ uptime
 
 ## Análisis
 
--   Versión del sistema operativo:
+-   **Versión del sistema operativo:** Ubuntu 22.04.5 LTS
 
 -   Arquitectura:
 
@@ -50,6 +50,6 @@ uptime
 **Interpretación técnica:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ
-==
+eyJoaXN0b3J5IjpbMTEwOTg1NjIzNywtMTM4MjM4MDIzOCwtMT
+M3NTIzMDEwN119
 -->
