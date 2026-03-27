@@ -41,15 +41,15 @@ uptime
 
 -   **Versión del sistema operativo:** Ubuntu 22.04.5 LTS
 
--   Arquitectura:
+-   **Arquitectura:** x86-64
 
--   Tiempo de actividad:
+-   **Tiempo de actividad:** up 2 min
 
--   Load average:
+-   Load average: 0.39, 0.28, 0.1
 
 **Interpretación técnica:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTg1NjIzNywtMTM4MjM4MDIzOCwtMT
-M3NTIzMDEwN119
+eyJoaXN0b3J5IjpbOTU4OTY5ODkyLC0xMzgyMzgwMjM4LC0xMz
+c1MjMwMTA3XX0=
 -->
