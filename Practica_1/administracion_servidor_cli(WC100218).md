@@ -102,8 +102,14 @@ vmstat 1
 -   **Memoria libre:** 6.0 Gi
     
 -   **Uso de swap:** 0B
+
+**Interpretación técnica:**
+
+-   ¿El uso de memoria es adecuado? El uso de memoria es adecuado ya que no se ha usado bastante el dispositivo y concuerda con todo lo que he descargado.
+    
+-   ¿Existe uso de swap? ¿Qué implica? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTU0NzIwNCwxNzIzMDU2NzgsLTE1OD
-g4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIz
-OCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNT
+g4ODU1MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAy
+MzgsLTEzNzUyMzAxMDddfQ==
 -->
