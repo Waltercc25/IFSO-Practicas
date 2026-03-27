@@ -10,9 +10,11 @@
 
 -   **Práctica:**  8 – Administración de Servidores Linux
 
--   **Nombre:**  Walter Vladimir Cantor Claros
+-   **Nombre:**  Walter Vladimir Cantor Claros - WC100218
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODY5MDU5XX0=
+eyJoaXN0b3J5IjpbLTE5MDMxMzg4NTBdfQ==
 -->
