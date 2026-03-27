@@ -49,7 +49,13 @@ uptime
 
 **Interpretación técnica:**
 
+Los comandos `uname -a`, `hostnamectl` y `uptime` permiten obtener una visión general del estado del sistema.
+
+-   A través de `uname -a` y `hostnamectl`, se identifica la versión del sistema operativo y la arquitectura del servidor, lo cual es fundamental para verificar compatibilidad de software y actualizaciones.
+-   El comando `uptime` permite evaluar el tiempo de actividad del servidor y la carga promedio (_load average_) en intervalos de 1, 5 y 15 minutos.
+
+Un sistema se considera estable cuando el _load average_ es igual o menor al número de núcleos del procesador, lo que indica que los procesos están siendo atendidos sin sobrecarga.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjM3MzE5MywtMTM4MjM4MDIzOCwtMT
-M3NTIzMDEwN119
+eyJoaXN0b3J5IjpbNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMz
+c1MjMwMTA3XX0=
 -->
