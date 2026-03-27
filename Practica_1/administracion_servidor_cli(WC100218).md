@@ -12,9 +12,23 @@
 
 -   **Nombre:**  Walter Vladimir Cantor Claros - WC100218
 
+## 2. Introducción
+
+En este documento se presenta el análisis del estado de un servidor Linux utilizando herramientas de línea de comandos (CLI).
+
+El objetivo es evaluar el comportamiento del sistema en términos de:
+
+-   uso de CPU
+-   uso de memoria
+-   almacenamiento
+-   red
+-   servicios
+-   usuarios
+
+y demostrar la capacidad de interpretar métricas para la toma de decisiones técnicas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMxMzg4NTBdfQ==
+eyJoaXN0b3J5IjpbNzY2NTI1ODcwXX0=
 -->
