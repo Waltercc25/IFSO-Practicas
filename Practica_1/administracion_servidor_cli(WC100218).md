@@ -145,9 +145,25 @@ ping 8.8.8.8
 
 ss -tuln
 
+## Resultados
 
+## Análisis
+
+
+-   Dirección IP del servidor:
+    
+-   Conectividad:
+    
+-   Puertos abiertos:
+    
+
+**Interpretación técnica:**
+
+-   ¿El servidor está accesible?
+    
+-   ¿Hay servicios expuestos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc2MzQ3MzksNzI4MTMxNDU2LDEzND
+eyJoaXN0b3J5IjpbLTE0NTU5NjA4NTQsNzI4MTMxNDU2LDEzND
 kyMTMyOTgsMTAyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2
 NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMT
 M4MjM4MDIzOCwtMTM3NTIzMDEwN119
