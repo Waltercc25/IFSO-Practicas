@@ -75,7 +75,14 @@ ps aux --sort=-%cpu | head
 -   **Proceso con mayor uso de CPU:** MYSQL
 
 -   **% de CPU utilizado:** 6.2
+
+**Interpretación técnica:**
+
+-   ¿Existe sobrecarga del sistema? según la imagen tomada de los procesos, no existe ninguna sobrecarga en el sistema ya que la cpu no esta siendo forzada por encima del 80% de uso y se reflej
+
+-   ¿Qué podría causar ese consumo?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMD
-c5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbMjMyNjYzNjI3LC0xNTg4ODU1MDExLDI5OD
+EwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAx
+MDddfQ==
 -->
