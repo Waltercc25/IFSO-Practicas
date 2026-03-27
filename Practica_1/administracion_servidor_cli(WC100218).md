@@ -81,8 +81,16 @@ ps aux --sort=-%cpu | head
 -   **¿Existe sobrecarga del sistema?** según la imagen tomada de los procesos, no existe ninguna sobrecarga en el sistema ya que la CPU no esta siendo forzada por encima del 80% de uso y se refleja un uso normal
 
 -   **¿Qué podría causar ese consumo?** Mysql es un servicio que tiene que estar corriendo para poder hacer uso de base de datos en el sistema pero no causa major consumo de CPU así que lo consideramos dentro de un buen rango.
+
+## 5. Análisis de memoria
+
+### Comandos ejecutados
+
+free -h
+
+vmstat 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MTUzNzk2LC0xNTg4ODU1MDExLDI5OD
-EwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAx
-MDddfQ==
+eyJoaXN0b3J5IjpbLTE4MjM5MzE1OTEsLTE1ODg4NTUwMTEsMj
+k4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIz
+MDEwN119
 -->
