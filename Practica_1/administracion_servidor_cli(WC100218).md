@@ -105,11 +105,11 @@ vmstat 1
 
 **Interpretación técnica:**
 
--   ¿El uso de memoria es adecuado? El uso de memoria es adecuado ya que no se ha usado bastante el dispositivo y concuerda con todo lo que he descargado.
+-   **¿El uso de memoria es adecuado?** El uso de memoria es adecuado ya que no se ha usado bastante el dispositivo y concuerda con todo lo que he descargado.
     
--   ¿Existe uso de swap? ¿Qué implica? tengo un uso de 0B y El uso de swap en 0B indica que la memoria RAM disponible es suficiente para soportar la carga actual del sistema, por lo que no es necesario recurrir a memoria virtual en disco.
+-   **¿Existe uso de swap? ¿Qué implica?** tengo un uso de 0B y El uso de swap en 0B indica que la memoria RAM disponible es suficiente para soportar la carga actual del sistema, por lo que no es necesario recurrir a memoria virtual en disco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNzYxNSwtMTY3MDM0NDE3MSwxNzIzMD
-U2NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwt
-MTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbMTU3NTg1NDU1OSwtMTY3MDM0NDE3MSwxNz
+IzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1
+MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
 -->
