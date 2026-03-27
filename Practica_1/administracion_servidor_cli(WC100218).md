@@ -67,7 +67,15 @@ top
 ps aux
 
 ps aux --sort=-%cpu | head
+
+## Resultados
+
+## Análisis
+
+-   Proceso con mayor uso de CPU: 
+
+-   % de CPU utilizado:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4Mj
-M4MDIzOCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbOTQ3NDU2MDUxLDI5ODEwNzU1NSw3MzA3OT
+I1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
 -->
