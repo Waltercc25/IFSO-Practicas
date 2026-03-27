@@ -95,15 +95,15 @@ vmstat 1
 
 ## Análisis
 
--   **Memoria total:**
+-   **Memoria total:** 7.0 Gi
     
--   **Memoria usada:**
+-   **Memoria usada:** 586 Mi
     
--   **Memoria libre:**
+-   **Memoria libre:** 6.0 Gi
     
 -   **Uso de swap:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5OD
-EwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAx
-MDddfQ==
+eyJoaXN0b3J5IjpbLTI4ODEzNTk3MCwxNzIzMDU2NzgsLTE1OD
+g4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIz
+OCwtMTM3NTIzMDEwN119
 -->
