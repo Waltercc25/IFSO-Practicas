@@ -124,19 +124,19 @@ lsblk
 
 ## Análisis
 
--   Partición con mayor uso: a partición **con mayor uso real es** `ubuntu--vg-ubuntu--lv` **(11.5G en** `/`**)**, porque es la que contiene el sistema operativo y donde se almacenan la mayoría de los datos.
+-   **Partición con mayor uso:** a partición **con mayor uso real es** `ubuntu--vg-ubuntu--lv` **(11.5G en** `/`**)**, porque es la que contiene el sistema operativo y donde se almacenan la mayoría de los datos.
     
--   Directorios con mayor consumo:
+-   **Directorios con mayor consumo:** ubuntu--vg-ubuntu--lv con 53% en uso.
     
 
 **Interpretación técnica:**
 
--   ¿Existe riesgo de saturación?
+-   ¿Existe riesgo de saturación? aparentemente no existe riesgo ya que se tiene suficiente espacio no solamente en esa parte del disco si no que en el raid 5 que esta instalado 
     
--   ¿Qué acciones recomendaría?
+-   ¿Qué acciones recomendaría? distribuir la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNj
-cwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1
-NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX
-0=
+eyJoaXN0b3J5IjpbMTU3NjA4MjU5NSwxMzQ5MjEzMjk4LDEwMj
+c3MDc1NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1
+MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLT
+EzNzUyMzAxMDddfQ==
 -->
