@@ -27,8 +27,11 @@ El objetivo es evaluar el comportamiento del sistema en términos de:
 
 y demostrar la capacidad de interpretar métricas para la toma de decisiones técnicas.
 
+## 3. Información del sistema
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NTI1ODcwXX0=
+eyJoaXN0b3J5IjpbLTY0MTA3MTYwNV19
 -->
