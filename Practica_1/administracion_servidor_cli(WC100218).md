@@ -45,11 +45,11 @@ uptime
 
 -   **Tiempo de actividad:** up 2 min
 
--   Load average: 0.39, 0.28, 0.1
+-   **Load average:** 0.39, 0.28, 0.11
 
 **Interpretación técnica:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4OTY5ODkyLC0xMzgyMzgwMjM4LC0xMz
-c1MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbMTQyNjM3MzE5MywtMTM4MjM4MDIzOCwtMT
+M3NTIzMDEwN119
 -->
