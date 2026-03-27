@@ -89,8 +89,21 @@ ps aux --sort=-%cpu | head
 free -h
 
 vmstat 1
+
+## Resultados
+
+
+## Análisis
+
+-   **Memoria total:**
+    
+-   **Memoria usada:**
+    
+-   **Memoria libre:**
+    
+-   **Uso de swap:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5MzE1OTEsLTE1ODg4NTUwMTEsMj
-k4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIz
-MDEwN119
+eyJoaXN0b3J5IjpbMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5OD
+EwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAx
+MDddfQ==
 -->
