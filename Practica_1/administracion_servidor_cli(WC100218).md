@@ -55,7 +55,15 @@ Los comandos `uname -a`, `hostnamectl` y `uptime` permiten obtener una visión g
 -   El comando `uptime` permite evaluar el tiempo de actividad del servidor y la carga promedio (_load average_) en intervalos de 1, 5 y 15 minutos.
 
 Un sistema se considera estable cuando el _load average_ es igual o menor al número de núcleos del procesador, lo que indica que los procesos están siendo atendidos sin sobrecarga.
+
+## 4. Análisis de CPU y procesos
+
+## Comandos ejecutados
+
+top
+ps aux
+ps aux --sort=-%cpu | head
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMz
-c1MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbLTk5NTgwMDYzMyw3MzA3OTI1NTAsLTEzOD
+IzODAyMzgsLTEzNzUyMzAxMDddfQ==
 -->
