@@ -29,9 +29,13 @@ y demostrar la capacidad de interpretar métricas para la toma de decisiones té
 
 ## 3. Información del sistema
 
+### Comandos ejecutados
 
+uname -a
+hostnamectl
+uptime
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTA3MTYwNV19
+eyJoaXN0b3J5IjpbLTEzNzUyMzAxMDddfQ==
 -->
