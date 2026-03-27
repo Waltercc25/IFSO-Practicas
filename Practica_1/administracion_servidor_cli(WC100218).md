@@ -10,7 +10,9 @@
 
 -   **Práctica:**  8 – Administración de Servidores Linux
 
--   **Práctica:**   –
+-   **Nombre:**  Walter Vladimir Cantor Claros
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxNzE5Mjc0XX0=
+eyJoaXN0b3J5IjpbNDYyODY5MDU5XX0=
 -->
