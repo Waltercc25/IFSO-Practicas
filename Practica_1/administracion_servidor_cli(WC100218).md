@@ -32,7 +32,9 @@ y demostrar la capacidad de interpretar métricas para la toma de decisiones té
 ### Comandos ejecutados
 
 uname -a
+
 hostnamectl
+
 uptime
 
 ## Resultados
@@ -61,9 +63,11 @@ Un sistema se considera estable cuando el _load average_ es igual o menor al nú
 ## Comandos ejecutados
 
 top
+
 ps aux
+
 ps aux --sort=-%cpu | head
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTgwMDYzMyw3MzA3OTI1NTAsLTEzOD
-IzODAyMzgsLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4Mj
+M4MDIzOCwtMTM3NTIzMDEwN119
 -->
