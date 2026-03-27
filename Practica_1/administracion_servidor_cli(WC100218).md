@@ -72,10 +72,10 @@ ps aux --sort=-%cpu | head
 
 ## Análisis
 
--   Proceso con mayor uso de CPU: 
+-   **Proceso con mayor uso de CPU:** MYSQL
 
--   % de CPU utilizado:
+-   **% de CPU utilizado:** 6.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NDU2MDUxLDI5ODEwNzU1NSw3MzA3OT
-I1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMD
+c5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
 -->
