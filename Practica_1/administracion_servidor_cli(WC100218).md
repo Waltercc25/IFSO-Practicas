@@ -124,7 +124,7 @@ lsblk
 
 ## Análisis
 
--   Partición con mayor uso:
+-   Partición con mayor uso: a partición **con mayor uso real es** `ubuntu--vg-ubuntu--lv` **(11.5G en** `/`**)**, porque es la que contiene el sistema operativo y donde se almacenan la mayoría de los datos.
     
 -   Directorios con mayor consumo:
     
@@ -135,7 +135,8 @@ lsblk
     
 -   ¿Qué acciones recomendaría?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNz
-IzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1
-MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbMTM0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNj
+cwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1
+NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX
+0=
 -->
