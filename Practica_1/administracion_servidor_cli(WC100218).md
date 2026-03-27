@@ -35,7 +35,9 @@ uname -a
 hostnamectl
 uptime
 
+## Resultados
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTQ1NDc1NjU2OSwtMTM3NTIzMDEwN119
 -->
