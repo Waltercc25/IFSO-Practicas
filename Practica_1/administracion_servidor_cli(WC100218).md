@@ -101,9 +101,9 @@ vmstat 1
     
 -   **Memoria libre:** 6.0 Gi
     
--   **Uso de swap:**
+-   **Uso de swap:** 0B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODEzNTk3MCwxNzIzMDU2NzgsLTE1OD
+eyJoaXN0b3J5IjpbMjExMTU0NzIwNCwxNzIzMDU2NzgsLTE1OD
 g4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIz
 OCwtMTM3NTIzMDEwN119
 -->
