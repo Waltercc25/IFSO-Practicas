@@ -135,9 +135,20 @@ lsblk
     
 -   **¿Qué acciones recomendaría?** limpiar o se pudiera distribuir la carga con los otros discos.
 
+## 7. Análisis de red
+
+### Comandos ejecutados
+
+ip a
+
+ping 8.8.8.8
+
+ss -tuln
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNz
-cwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUw
-MTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMT
-M3NTIzMDEwN119
+eyJoaXN0b3J5IjpbLTE0Nzc2MzQ3MzksNzI4MTMxNDU2LDEzND
+kyMTMyOTgsMTAyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2
+NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMT
+M4MjM4MDIzOCwtMTM3NTIzMDEwN119
 -->
