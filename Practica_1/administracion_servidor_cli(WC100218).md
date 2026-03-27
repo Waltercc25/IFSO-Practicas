@@ -121,9 +121,21 @@ lsblk
 
 ## Resultados
 
-[](https://github.com/echanchanclass/practica-8-administracion-servidor-cli-nomada-team-solo/blob/master/practica_8/administracion_servidor_cli.md#resultados-3)
+
+## Análisis
+
+-   Partición con mayor uso:
+    
+-   Directorios con mayor consumo:
+    
+
+**Interpretación técnica:**
+
+-   ¿Existe riesgo de saturación?
+    
+-   ¿Qué acciones recomendaría?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDQ3NDUzNSwtMTY3MDM0NDE3MSwxNz
+eyJoaXN0b3J5IjpbMTAyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNz
 IzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1
 MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
 -->
