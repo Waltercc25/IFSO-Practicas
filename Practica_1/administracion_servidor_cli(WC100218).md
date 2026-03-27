@@ -131,12 +131,13 @@ lsblk
 
 **Interpretación técnica:**
 
--   ¿Existe riesgo de saturación? aparentemente no existe riesgo ya que se tiene suficiente espacio no solamente en esa parte del disco si no que en el raid 5 que esta instalado 
+-   **¿Existe riesgo de saturación?** aparentemente no existe riesgo ya que se tiene suficiente espacio no solamente en esa parte del disco si no que en el raid 5 que esta instalado 
     
--   ¿Qué acciones recomendaría? distribuir la 
+-   **¿Qué acciones recomendaría?** limpiar o se pudiera distribuir la carga con los otros discos.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjA4MjU5NSwxMzQ5MjEzMjk4LDEwMj
-c3MDc1NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1
-MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLT
-EzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNz
+cwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUw
+MTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMT
+M3NTIzMDEwN119
 -->
