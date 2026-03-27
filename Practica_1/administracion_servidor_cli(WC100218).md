@@ -37,7 +37,19 @@ uptime
 
 ## Resultados
 
+## Análisis
+
+-   Versión del sistema operativo:
+
+-   Arquitectura:
+
+-   Tiempo de actividad:
+
+-   Load average:
+
+**Interpretación técnica:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDc1NjU2OSwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ
+==
 -->
