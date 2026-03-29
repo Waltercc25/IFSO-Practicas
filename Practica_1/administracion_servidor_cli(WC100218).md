@@ -181,14 +181,13 @@ ss -tuln
 
 **Interpretación técnica:**
 
--   ¿Por qué es crítico este servicio? es critico ya que nos permite activar el serviod
+-   ¿Por qué es crítico este servicio? es crítico ya que nos permite activar el servidor SSH que es el que nos ayuda a que otros se conecten al servidor de forma remota y que tenemos intalado para poder trabajar en el.
     
--   ¿Qué impacto tendría su falla?
-
+-   ¿Qué impacto tendría su falla? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjQyOTgyMSwtMTY2NDgzNjczLC0xND
-U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
-NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
-I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
-MzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTEyMDg5MzcwMzcsLTE2NjQ4MzY3MywtMT
+Q1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3
+NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMS
+wyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1
+MjMwMTA3XX0=
 -->
