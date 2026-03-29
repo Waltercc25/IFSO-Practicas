@@ -211,7 +211,7 @@ chmod 755 archivo.txt
 
 -   **Usuario creado:** usuario_prueba
     
--   Permisos asignados:
+-   **Permisos asignados:** tiene permisos de dueño leer, escribir y ejecutar y eso significa que el dueño puede ejecutar esas 3 acciones y que los 
 
 **Interpretación técnica:**
 
@@ -227,9 +227,9 @@ chmod 755 archivo.txt
     
 -   ¿Qué riesgos existen con permisos incorrectos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTA5OTEzOSw3ODg3OTg1MTcsLTE2Nj
-Q4MzY3MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5
-OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMT
-U4ODg1NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgw
-MjM4LC0xMzc1MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbMjg5OTQ3ODExLDc4ODc5ODUxNywtMTY2ND
+gzNjczLC0xNDU1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4
+LDEwMjc3MDc1NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNT
+g4ODU1MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAy
+MzgsLTEzNzUyMzAxMDddfQ==
 -->
