@@ -246,14 +246,14 @@ df -h
 
 -   **¿Qué hace el script?** lo que hace es crear un script que se ejecutar con Bash de forma automática cuando lo llamamos y lo usamos, entre las cosas que hacer es mostrar el estado del sistema y la carga con (uptime) muestra el uso de memoria RAM (free -h) y (df -h) que muestra el uso del disco
 
--   **¿Qué comandos utiliza?**
+-   **¿Qué comandos utiliza?** uptime, free -h, df -h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4NTgxMzAsMTI5NjY0NDM4OCwxNT
-I1OTkzNTk1LDc4ODc5ODUxNywtMTY2NDgzNjczLC0xNDU1OTYw
-ODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLT
-E2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEw
-NzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMD
-ddfQ==
+eyJoaXN0b3J5IjpbMzA4NjcxNjkyLDEyOTY2NDQzODgsMTUyNT
+k5MzU5NSw3ODg3OTg1MTcsLTE2NjQ4MzY3MywtMTQ1NTk2MDg1
+NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNj
+cwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1
+NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX
+0=
 -->
