@@ -172,10 +172,21 @@ ss -tuln
 
 ### Resultados
 
+## Análisis
 
+-   Estado del servicio: Activo (Running)
+    
+-   Acción realizada: 
+    
+
+**Interpretación técnica:**
+
+-   ¿Por qué es crítico este servicio? es critico ya que nos permite activar el serviod
+    
+-   ¿Qué impacto tendría su falla?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzQxNTQ1OCwtMTY2NDgzNjczLC0xND
+eyJoaXN0b3J5IjpbMTI0MjQyOTgyMSwtMTY2NDgzNjczLC0xND
 U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
 NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
 I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
