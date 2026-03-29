@@ -191,10 +191,22 @@ systemctl enable ssh
 -   **¿Por qué es crítico este servicio?** es crítico ya que nos permite activar el servidor SSH que es el que nos ayuda a que otros se conecten al servidor de forma remota y que tenemos instalado para poder trabajar en el.
     
 -   **¿Qué impacto tendría su falla?** si llegara a fallar, el servidor quedaría inaccesible para que otros usuarios se conecten de forma remota y no poder administrarlo. 
+
+
+## 9. Gestión de usuarios y permisos
+
+### Comandos ejecutados
+
+who
+
+useradd usuario_prueba
+passwd usuario_prueba
+chmod 755 archivo.txt
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDA1MDkwNSwtMTY2NDgzNjczLC0xND
-U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
-NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
-I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
-MzAxMDddfQ==
+eyJoaXN0b3J5IjpbNTM3NTEyMzY4LC0xNjY0ODM2NzMsLTE0NT
+U5NjA4NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0
+NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMj
+k4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIz
+MDEwN119
 -->
