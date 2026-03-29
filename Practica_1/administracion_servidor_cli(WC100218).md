@@ -270,11 +270,21 @@ Entre las principales mejoras se incluyen:
     
 -   **Mayor detalle en la información:**  
     Incluir más comandos como `top`, `ps aux` o `ss -tuln` para obtener un análisis más completo del sistema.
+
+## 11. Conclusión
+
+Explique:
+
+-   ¿Qué componente del sistema representa mayor riesgo?
+
+-   ¿El servidor está en condiciones estables?, sí esta en condiciones estables y 
+
+-   ¿Qué recomendaciones haría como administrador?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTY3NTU3MiwxMjk2NjQ0Mzg4LDE1Mj
-U5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NTU5NjA4
-NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0NSwtMT
-Y3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3
-NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN1
-19
+eyJoaXN0b3J5IjpbLTE5MzYxNTE0ODUsLTk3MTY3NTU3MiwxMj
+k2NjQ0Mzg4LDE1MjU5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2
+NzMsLTE0NTU5NjA4NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMT
+AyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4
+NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOC
+wtMTM3NTIzMDEwN119
 -->
