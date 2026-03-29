@@ -176,18 +176,18 @@ ss -tuln
 
 -   Estado del servicio: Activo (Running)
     
--   Acción realizada: 
+-   Acción realizada: se verifico el estado del servidor SSH y se hizo un reseteo del servicio 
     
 
 **Interpretación técnica:**
 
--   ¿Por qué es crítico este servicio? es crítico ya que nos permite activar el servidor SSH que es el que nos ayuda a que otros se conecten al servidor de forma remota y que tenemos instalado para poder trabajar en el.
+-   **¿Por qué es crítico este servicio?** es crítico ya que nos permite activar el servidor SSH que es el que nos ayuda a que otros se conecten al servidor de forma remota y que tenemos instalado para poder trabajar en el.
     
--   ¿Qué impacto tendría su falla? si llegara a fallar, el servidor quedaria inaccesible  
+-   **¿Qué impacto tendría su falla?** si llegara a fallar, el servidor quedaría inaccesible para que otros usuarios se conecten de forma remota y no poder administrarlo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM4NjI0MCwtMTY2NDgzNjczLC0xND
-U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
-NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
-I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
-MzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTE4OTQwODAxMzYsLTE2NjQ4MzY3MywtMT
+Q1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3
+NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMS
+wyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1
+MjMwMTA3XX0=
 -->
