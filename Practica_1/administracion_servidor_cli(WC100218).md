@@ -159,12 +159,12 @@ ss -tuln
 
 **Interpretación técnica:**
 
--   ¿El servidor está accesible?
+-   ¿El servidor está accesible?, Sí, el servidor esta accesible, ya que con el comando de ping 8.8.8.8 tuvimos acceso a internet sin perdida de paquetes.
     
 -   ¿Hay servicios expuestos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU5NjA4NTQsNzI4MTMxNDU2LDEzND
-kyMTMyOTgsMTAyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2
-NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMT
-M4MjM4MDIzOCwtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbLTcyNDE1NTE3MiwtMTQ1NTk2MDg1NCw3Mj
+gxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0
+MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1NTUsNz
+MwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX0=
 -->
