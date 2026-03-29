@@ -279,12 +279,12 @@ Explique:
 
 -   **¿El servidor está en condiciones estables?**, sí está en condiciones estables y no muestra ningún tipo de carga ya que no esta sobre saturado con archivos o con una estructura mal distribuida.
 
--   **¿Qué recomendaciones haría como administrador?** monitorear constantemente aquellos componentes que son de suma importancia para el funcionaniento del servidor, el almacenamiento, CPU y otras cosas adicionales como los logs y limitar sevicios innec
+-   **¿Qué recomendaciones haría como administrador?** monitorear constantemente aquellos componentes que son de suma importancia para el funcionamiento del servidor, el almacenamiento, CPU y otras cosas adicionales como los logs y limitar servicios innecesarios que solamente elevan el trabajo al CPU además implementar la seguridad apropiada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MzE3NTkwLDgzOTU2Nzk2NCwtOTg4Mz
-k4OTU5LC05NzE2NzU1NzIsMTI5NjY0NDM4OCwxNTI1OTkzNTk1
-LDc4ODc5ODUxNywtMTY2NDgzNjczLC0xNDU1OTYwODU0LDcyOD
-EzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLTE2NzAzNDQx
-NzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEwNzU1NSw3Mz
-A3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTYzMzkyNTM1Nyw4Mzk1Njc5NjQsLTk4OD
+M5ODk1OSwtOTcxNjc1NTcyLDEyOTY2NDQzODgsMTUyNTk5MzU5
+NSw3ODg3OTg1MTcsLTE2NjQ4MzY3MywtMTQ1NTk2MDg1NCw3Mj
+gxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0
+MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1NTUsNz
+MwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX0=
 -->
