@@ -200,11 +200,27 @@ systemctl enable ssh
 who
 
 useradd usuario_prueba
+
 passwd usuario_prueba
+
 chmod 755 archivo.txt
 
+### Resultados
+
+## Análisis
+
+-   Usuario creado: 
+    
+-   Permisos asignados:
+    
+
+**Interpretación técnica:**
+
+-   ¿Qué implica el permiso 755?
+    
+-   ¿Qué riesgos existen con permisos incorrectos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NTEyMzY4LC0xNjY0ODM2NzMsLTE0NT
+eyJoaXN0b3J5IjpbNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NT
 U5NjA4NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0
 NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMj
 k4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIz
