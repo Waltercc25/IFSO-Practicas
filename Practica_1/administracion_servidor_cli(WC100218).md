@@ -170,6 +170,13 @@ ss -tuln
 
 ### Comandos ejecutados
 
+systemctl status ssh
+
+systemctl restart ssh
+
+systemctl enable ssh
+
+
 ### Resultados
 
 ## Análisis
@@ -185,7 +192,7 @@ ss -tuln
     
 -   **¿Qué impacto tendría su falla?** si llegara a fallar, el servidor quedaría inaccesible para que otros usuarios se conecten de forma remota y no poder administrarlo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzEwNjk1OSwtMTY2NDgzNjczLC0xND
+eyJoaXN0b3J5IjpbMTA2MDA1MDkwNSwtMTY2NDgzNjczLC0xND
 U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
 NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
 I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
