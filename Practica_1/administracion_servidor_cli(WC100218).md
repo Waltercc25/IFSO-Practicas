@@ -174,9 +174,9 @@ ss -tuln
 
 ## Análisis
 
--   Estado del servicio: Activo (Running)
+-   **Estado del servicio:** Activo (Running)
     
--   Acción realizada: se verifico el estado del servidor SSH y se hizo un reseteo del servicio 
+-   **Acción realizada:** se verifico el estado del servidor SSH y se hizo un reseteo del servicio de SSH pero luego de eso se hizo el activo permanente del servicio para acceso remoto permanente.
     
 
 **Interpretación técnica:**
@@ -185,9 +185,9 @@ ss -tuln
     
 -   **¿Qué impacto tendría su falla?** si llegara a fallar, el servidor quedaría inaccesible para que otros usuarios se conecten de forma remota y no poder administrarlo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQwODAxMzYsLTE2NjQ4MzY3MywtMT
-Q1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMDI3NzA3
-NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1NTAxMS
-wyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC0xMzc1
-MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbLTg0NzEwNjk1OSwtMTY2NDgzNjczLC0xND
+U1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1
+NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLD
+I5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUy
+MzAxMDddfQ==
 -->
