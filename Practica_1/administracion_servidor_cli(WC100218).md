@@ -162,12 +162,12 @@ ss -tuln
 -   ¿El servidor está accesible?, Sí, el servidor esta accesible, ya que con el comando de ping 8.8.8.8 tuvimos acceso a internet sin perdida de paquetes.
     
 -   ¿Hay servicios expuestos?, Sí, hay servicios expuestos que están en estado LISTEN por ejemplo: 
-- -   `127.0.0.1:3306` (MySQL local)
+-    `127.0.0.1:3306` (MySQL local)
 
 -   `127.0.0.53:53` (DNS local)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNzgxMTc3LC0xNDU1OTYwODU0LDcyOD
-EzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLTE2NzAzNDQx
-NzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEwNzU1NSw3Mz
-A3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTE4NTczMzM0NTYsLTE0NTU5NjA4NTQsNz
+I4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0NSwtMTY3MDM0
+NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3NTU1LD
+czMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN119
 -->
