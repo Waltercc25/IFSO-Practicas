@@ -275,16 +275,16 @@ Entre las principales mejoras se incluyen:
 
 Explique:
 
--   ¿Qué componente del sistema representa mayor riesgo?
+-   **¿Qué componente del sistema representa mayor riesgo?**
 
 -   **¿El servidor está en condiciones estables?**, sí está en condiciones estables y no muestra ningún tipo de carga ya que no esta sobre saturado con archivos o con una estructura mal distribuida.
 
 -   ¿Qué recomendaciones haría como administrador?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNTQ4OTQ1LC05NzE2NzU1NzIsMTI5Nj
-Y0NDM4OCwxNTI1OTkzNTk1LDc4ODc5ODUxNywtMTY2NDgzNjcz
-LC0xNDU1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMj
-c3MDc1NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1
-MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLT
-EzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbLTk4ODM5ODk1OSwtOTcxNjc1NTcyLDEyOT
+Y2NDQzODgsMTUyNTk5MzU5NSw3ODg3OTg1MTcsLTE2NjQ4MzY3
+MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMD
+I3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1
+NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC
+0xMzc1MjMwMTA3XX0=
 -->
