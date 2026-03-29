@@ -244,13 +244,13 @@ df -h
 
 ## Explicación del script
 
--   ¿Qué hace el script?
+-   ¿Qué hace el script? lo que hace es crear un script que se ejecutar con Bash de forma automáctica cuando lo llamamos y lo usamos, entre las cosas que hacer es mostrar el estado del sistema y la carga con uptime 
 
 -   ¿Qué comandos utiliza?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTcwMTc2OSwxMjk2NjQ0Mzg4LDE1Mj
+eyJoaXN0b3J5IjpbLTM2MDQwMjU3OCwxMjk2NjQ0Mzg4LDE1Mj
 U5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NTU5NjA4
 NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0NSwtMT
 Y3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3
