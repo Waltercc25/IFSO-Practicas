@@ -277,14 +277,14 @@ Explique:
 
 -   ¿Qué componente del sistema representa mayor riesgo?
 
--   ¿El servidor está en condiciones estables?, sí esta en condiciones estables y 
+-   **¿El servidor está en condiciones estables?**, sí está en condiciones estables y no muestra ningún tipo de carga ya que no esta sobre saturado con archivos o con una estructura mal distribuida.
 
 -   ¿Qué recomendaciones haría como administrador?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYxNTE0ODUsLTk3MTY3NTU3MiwxMj
-k2NjQ0Mzg4LDE1MjU5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2
-NzMsLTE0NTU5NjA4NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMT
-AyNzcwNzU0NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4
-NTUwMTEsMjk4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOC
-wtMTM3NTIzMDEwN119
+eyJoaXN0b3J5IjpbMjQxNTQ4OTQ1LC05NzE2NzU1NzIsMTI5Nj
+Y0NDM4OCwxNTI1OTkzNTk1LDc4ODc5ODUxNywtMTY2NDgzNjcz
+LC0xNDU1OTYwODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMj
+c3MDc1NDUsLTE2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1
+MDExLDI5ODEwNzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLT
+EzNzUyMzAxMDddfQ==
 -->
