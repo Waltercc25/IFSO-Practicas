@@ -229,12 +229,31 @@ chmod 755 archivo.txt
 
 ## 10. Automatización con Bash
 
+### Script desarrollado
+
+#!/bin/bash
+
+echo "Estado del sistema:"
+uptime
+
+echo "Uso de memoria:"
+free -h
+
+echo "Uso de disco:"
+df -h
+
+## Explicación del script
+
+-   ¿Qué hace el script?
+
+-   ¿Qué comandos utiliza?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY0NDM4OCwxNTI1OTkzNTk1LDc4OD
-c5ODUxNywtMTY2NDgzNjczLC0xNDU1OTYwODU0LDcyODEzMTQ1
-NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLTE2NzAzNDQxNzEsMT
-cyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEwNzU1NSw3MzA3OTI1
-NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
+eyJoaXN0b3J5IjpbMTk0NTcwMTc2OSwxMjk2NjQ0Mzg4LDE1Mj
+U5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NTU5NjA4
+NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0NSwtMT
+Y3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3
+NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN1
+19
 -->
