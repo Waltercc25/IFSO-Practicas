@@ -251,11 +251,30 @@ df -h
 ### Resultado de ejecución
 
 ### Mejora propuesta
+
+El script puede mejorarse significativamente para su uso en un entorno de producción mediante la incorporación de funcionalidades adicionales que permitan un monitoreo más completo y automatizado del sistema.
+
+Entre las principales mejoras se incluyen:
+
+-   **Registro de información en archivos (logs):**  
+    Guardar la salida del script en un archivo `.log` permite llevar un historial del estado del sistema para auditorías y análisis posteriores.
+    
+-   **Automatización con tareas programadas (cron):**  
+    Ejecutar el script de forma periódica permite monitorear continuamente el servidor sin intervención manual.
+    
+-   **Validación de errores:**  
+    Implementar controles para detectar fallos en la ejecución de comandos y evitar resultados incompletos o incorrectos.
+    
+-   **Alertas automáticas:**  
+    Enviar notificaciones (por ejemplo, por correo) cuando el uso de CPU, memoria o disco supere ciertos límites críticos.
+    
+-   **Mayor detalle en la información:**  
+    Incluir más comandos como `top`, `ps aux` o `ss -tuln` para obtener un análisis más completo del sistema.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAwNDYyODgsMTI5NjY0NDM4OCwxNT
-I1OTkzNTk1LDc4ODc5ODUxNywtMTY2NDgzNjczLC0xNDU1OTYw
-ODU0LDcyODEzMTQ1NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLT
-E2NzAzNDQxNzEsMTcyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEw
-NzU1NSw3MzA3OTI1NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMD
-ddfQ==
+eyJoaXN0b3J5IjpbLTk3MTY3NTU3MiwxMjk2NjQ0Mzg4LDE1Mj
+U5OTM1OTUsNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NTU5NjA4
+NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0NSwtMT
+Y3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMjk4MTA3
+NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIzMDEwN1
+19
 -->
