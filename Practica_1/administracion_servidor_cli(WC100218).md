@@ -275,16 +275,16 @@ Entre las principales mejoras se incluyen:
 
 Explique:
 
--   **¿Qué componente del sistema representa mayor riesgo?**
+-   **¿Qué componente del sistema representa mayor riesgo?** usualmente podemos estar monitoreando la CPU o el limite de el almacenamiento en los discos, ya que esos son los más importantes para poder ejecutar diferentes 
 
 -   **¿El servidor está en condiciones estables?**, sí está en condiciones estables y no muestra ningún tipo de carga ya que no esta sobre saturado con archivos o con una estructura mal distribuida.
 
 -   ¿Qué recomendaciones haría como administrador?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODM5ODk1OSwtOTcxNjc1NTcyLDEyOT
-Y2NDQzODgsMTUyNTk5MzU5NSw3ODg3OTg1MTcsLTE2NjQ4MzY3
-MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5OCwxMD
-I3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMTU4ODg1
-NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgwMjM4LC
-0xMzc1MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbLTEzNzMwMTY0NzIsLTk4ODM5ODk1OSwtOT
+cxNjc1NTcyLDEyOTY2NDQzODgsMTUyNTk5MzU5NSw3ODg3OTg1
+MTcsLTE2NjQ4MzY3MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMT
+M0OTIxMzI5OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMw
+NTY3OCwtMTU4ODg1NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC
+0xMzgyMzgwMjM4LC0xMzc1MjMwMTA3XX0=
 -->
