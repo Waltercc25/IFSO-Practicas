@@ -212,15 +212,22 @@ chmod 755 archivo.txt
 -   **Usuario creado:** usuario_prueba
     
 -   Permisos asignados:
-    
 
 **Interpretación técnica:**
 
 -   ¿Qué implica el permiso 755?
+
+     **`chmod 755` significa:**
+
+-   Dueño → puede **leer, escribir y ejecutar**
+
+-   Grupo → puede **leer y ejecutar**
+
+-   Otros → pueden **leer y ejecutar**
     
 -   ¿Qué riesgos existen con permisos incorrectos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTg5NTE4MSw3ODg3OTg1MTcsLTE2Nj
+eyJoaXN0b3J5IjpbLTUwNTA5OTEzOSw3ODg3OTg1MTcsLTE2Nj
 Q4MzY3MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5
 OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMT
 U4ODg1NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgw
