@@ -225,12 +225,16 @@ chmod 755 archivo.txt
 
 -   Otros → pueden **leer y ejecutar**
     
--   **¿Qué riesgos existen con permisos incorrectos?** existe manipulación incorrecta de los datos en los servidores o en los archivos que necesitan cierta restricción.
+-   **¿Qué riesgos existen con permisos incorrectos?** existe manipulación incorrecta de los datos en los servidores o en los archivos que necesitan cierta restricción por ejemplo un riesgo es asignar 777 en permisos
+
+## 10. Automatización con Bash
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTk5MzU5NSw3ODg3OTg1MTcsLTE2Nj
-Q4MzY3MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5
-OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMT
-U4ODg1NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgw
-MjM4LC0xMzc1MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbMTI5NjY0NDM4OCwxNTI1OTkzNTk1LDc4OD
+c5ODUxNywtMTY2NDgzNjczLC0xNDU1OTYwODU0LDcyODEzMTQ1
+NiwxMzQ5MjEzMjk4LDEwMjc3MDc1NDUsLTE2NzAzNDQxNzEsMT
+cyMzA1Njc4LC0xNTg4ODU1MDExLDI5ODEwNzU1NSw3MzA3OTI1
+NTAsLTEzODIzODAyMzgsLTEzNzUyMzAxMDddfQ==
 -->
