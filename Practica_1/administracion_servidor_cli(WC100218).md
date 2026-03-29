@@ -209,7 +209,7 @@ chmod 755 archivo.txt
 
 ## Análisis
 
--   Usuario creado: 
+-   **Usuario creado:** usuario_prueba
     
 -   Permisos asignados:
     
@@ -220,9 +220,9 @@ chmod 755 archivo.txt
     
 -   ¿Qué riesgos existen con permisos incorrectos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4Nzk4NTE3LC0xNjY0ODM2NzMsLTE0NT
-U5NjA4NTQsNzI4MTMxNDU2LDEzNDkyMTMyOTgsMTAyNzcwNzU0
-NSwtMTY3MDM0NDE3MSwxNzIzMDU2NzgsLTE1ODg4NTUwMTEsMj
-k4MTA3NTU1LDczMDc5MjU1MCwtMTM4MjM4MDIzOCwtMTM3NTIz
-MDEwN119
+eyJoaXN0b3J5IjpbLTc3MTg5NTE4MSw3ODg3OTg1MTcsLTE2Nj
+Q4MzY3MywtMTQ1NTk2MDg1NCw3MjgxMzE0NTYsMTM0OTIxMzI5
+OCwxMDI3NzA3NTQ1LC0xNjcwMzQ0MTcxLDE3MjMwNTY3OCwtMT
+U4ODg1NTAxMSwyOTgxMDc1NTUsNzMwNzkyNTUwLC0xMzgyMzgw
+MjM4LC0xMzc1MjMwMTA3XX0=
 -->
