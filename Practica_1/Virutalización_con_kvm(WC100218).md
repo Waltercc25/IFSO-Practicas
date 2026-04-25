@@ -8,12 +8,14 @@
 -
 -   **Asignatura:**  IFS0 - Analizando Necesidades de Infraestructura de Servidores
 
--   **Docente:**
+-   **Docente:** Elmer Elias Chanchan
+
 -   **Unidad:**  3
--   **Pr ctica:**  9 - Virtualizaci¢n con KVM
--   **Nombre del estudiante / integrantes:**
-    -   Nombre completo - Carnet
+
+-   **Practica:**  9 - Virtualizaci¢n con KVM
+
+-   **Nombre del estudiante / integrantes:** Walter Vladimir Cantor Claros -- WC100218
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3OTQxMjQsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE2MDE1NTU5MzcsLTIwODg3NDY2MTJdfQ
 ==
 -->
