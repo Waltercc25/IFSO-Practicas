@@ -15,6 +15,13 @@
 -   **Practica:**  9 - Virtualizaci¢n con KVM
 
 -   **Nombre del estudiante / integrantes:** Walter Vladimir Cantor Claros -- WC100218
+
+# 2. Introducción
+
+Describa brevemente el objetivo de la práctica y el contexto de virtualización con KVM.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTg0NDA3NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjc2MzM5NjgxLC0yMDg4NzQ2NjEyXX0=
 -->
