@@ -23,7 +23,16 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 # 3. Actividad 1 - Verificación del entorno y soporte de virtualización
 
+## Resultados obtenidos
+
+| Verificación | Resultado obtenido |
+|---|---|
+| Versión del kernel | 6.x.x (resultado de uname -r) |
+| Flags vmx/svm presentes (cantidad) | 2 |
+| Módulo kvm cargado | Sí |
+| Módulo kvm_intel / kvm_amd cargado | Sí (kvm_amd) |
+| Dispositivo /dev/kvm existe | Sí |
+| systemd-detect-virt | oracle (VirtualBox) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg3ODY5OTYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTE0NzY4NjE0MiwtMjA4ODc0NjYxMl19
 -->
