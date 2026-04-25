@@ -40,7 +40,16 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 # 4. Actividad 2 - Instalación del stack KVM/QEMU/libvirt
 
 ## Resultados obtenidos
+
+## Resultados obtenidos
+
+| Verificación | Resultado obtenido |
+|---|---|
+| libvirtd activo (active/running) | Sí |
+| virt-host-validate: KVM | PASS |
+| virt-host-validate: QEMU | PASS |
+| virsh list --all responde sin error | Sí |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcxNjc2ODEsLTEwMzY0ODExNzAsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTkxMTQyMzA3NywtMjA1NzE2NzY4MSwtMT
+AzNjQ4MTE3MCwtMjA4ODc0NjYxMl19
 -->
