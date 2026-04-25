@@ -33,7 +33,11 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 | Módulo kvm_intel / kvm_amd cargado | Sí (kvm_amd) |
 | Dispositivo /dev/kvm existe | Sí |
 | systemd-detect-virt | oracle (VirtualBox) |
+
+## Evidencia (actividad 1)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNDczODk0NzQ5LC0xMDM2NDgxMTcwLC0yMD
+g4NzQ2NjEyXX0=
 -->
