@@ -37,7 +37,10 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 ## Evidencia (actividad 1)
 
 
+# 4. Actividad 2 - Instalación del stack KVM/QEMU/libvirt
+
+## Resultados obtenidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczODk0NzQ5LC0xMDM2NDgxMTcwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwNTcxNjc2ODEsLTEwMzY0ODExNzAsLT
+IwODg3NDY2MTJdfQ==
 -->
