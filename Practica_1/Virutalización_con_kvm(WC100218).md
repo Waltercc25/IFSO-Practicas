@@ -5,7 +5,7 @@
 ## 1. Datos Generales
 
 -   **Carrera:** Ingenieria en la Ciencia de la Computación.
--
+
 -   **Asignatura:**  IFS0 - Analizando Necesidades de Infraestructura de Servidores
 
 -   **Docente:** Elmer Elias Chanchan
@@ -16,6 +16,5 @@
 
 -   **Nombre del estudiante / integrantes:** Walter Vladimir Cantor Claros -- WC100218
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE1NTU5MzcsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTE3OTg0NDA3NCwtMjA4ODc0NjYxMl19
 -->
