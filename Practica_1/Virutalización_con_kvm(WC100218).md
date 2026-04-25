@@ -20,8 +20,8 @@
 
 Describa brevemente el objetivo de la práctica y el contexto de virtualización con KVM.
 
-
+# 3. Actividad 1 - Verificación del entorno y soporte de virtualización
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MzM5NjgxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTY3ODkzNjA3MCwtMjA4ODc0NjYxMl19
 -->
