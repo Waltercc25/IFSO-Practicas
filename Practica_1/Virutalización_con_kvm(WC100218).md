@@ -27,12 +27,12 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 | Verificación | Resultado obtenido |
 |---|---|
-| Versión del kernel | 6.x.x (resultado de uname -r) |
+| Versión del kernel | Linux 6.12.0-124.49.1.el10_ |
 | Flags vmx/svm presentes (cantidad) | 2 |
 | Módulo kvm cargado | Sí |
 | Módulo kvm_intel / kvm_amd cargado | Sí (kvm_amd) |
 | Dispositivo /dev/kvm existe | Sí |
 | systemd-detect-virt | oracle (VirtualBox) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzY4NjE0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTk2MzM2ODE3MCwtMjA4ODc0NjYxMl19
 -->
