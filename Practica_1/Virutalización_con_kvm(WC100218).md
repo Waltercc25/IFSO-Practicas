@@ -67,9 +67,14 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 ## Evidencia
 
+# 6. Actividad 4 - Creaci¢n de m quina virtual
+
+## Resultados obtenidos
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI5NDg2NjQsLTEwNzc5MjAwMjEsLT
-IwNTcxNjc2ODEsLTEwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
-
+eyJoaXN0b3J5IjpbMjA1MzY4NzA0MiwtMTA3NzkyMDAyMSwtMj
+A1NzE2NzY4MSwtMTAzNjQ4MTE3MCwtMjA4ODc0NjYxMl19
 -->
