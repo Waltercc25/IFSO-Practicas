@@ -49,7 +49,13 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 | virt-host-validate: KVM | PASS |
 | virt-host-validate: QEMU | PASS |
 | virsh list --all responde sin error | Sí |
+
+## Evidencia
+
+# 5. Actividad 3 - Preparación del almacenamiento y red virtual
+
+## Resultados obtenidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTQyMzA3NywtMjA1NzE2NzY4MSwtMT
-AzNjQ4MTE3MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEwNzc5MjAwMjEsLTIwNTcxNjc2ODEsLT
+EwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
 -->
