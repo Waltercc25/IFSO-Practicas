@@ -76,8 +76,10 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjc2MjUxMCwyMDUzNjg3MDQyLC0xMD
-c3OTIwMDIxLC0yMDU3MTY3NjgxLC0xMDM2NDgxMTcwLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjEwNTcxMDQ0MiwxODM2NzYyNTEwLDIwNT
+M2ODcwNDIsLTEwNzc5MjAwMjEsLTIwNTcxNjc2ODEsLTEwMzY0
+ODExNzAsLTIwODg3NDY2MTJdfQ==
 -->
