@@ -1,6 +1,6 @@
 # IFS0 - Practica 10
 
-## Administracion y Monitoreo de Maquinas Virtuales KVM
+## Administración y Monitoreo de Máquinas Virtuales KVM
 ----------
 
 ## 1. Datos generales
@@ -19,6 +19,9 @@
 - 
     -   Walter Vladimir Cantor Claros - WC100218
 
+## 2. Introducción
+
+Describa el objetivo de la práctica y el contexto del uso de virtualización en servidores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTUxODRdfQ==
+eyJoaXN0b3J5IjpbLTE0NzE2MDMwNTZdfQ==
 -->
