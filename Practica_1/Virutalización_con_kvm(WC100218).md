@@ -82,13 +82,13 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 | Tamaño del disco | 3 GB |
 | Red asignada | default |
 
-
+## Evidencia
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwMjIyNDAsMTgzNjc2MjUxMCwyMD
-UzNjg3MDQyLC0xMDc3OTIwMDIxLC0yMDU3MTY3NjgxLC0xMDM2
-NDgxMTcwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4MTU3NDQ2NzgsLTE4NDQwMjIyNDAsMT
+gzNjc2MjUxMCwyMDUzNjg3MDQyLC0xMDc3OTIwMDIxLC0yMDU3
+MTY3NjgxLC0xMDM2NDgxMTcwLC0yMDg4NzQ2NjEyXX0=
 -->
