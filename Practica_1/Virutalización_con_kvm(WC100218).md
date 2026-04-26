@@ -71,7 +71,18 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 ## Resultados obtenidos
 
+## Resultados obtenidos
 
+| Parámetro de la VM | Valor observado |
+|---|---|
+| Nombre de la VM | vm-rocky10-lab |
+| Estado | shut off |
+| UUID | (resultado de virsh dominfo) |
+| vCPUs asignadas | 1 |
+| RAM asignada | 1024 MB |
+| Disco virtual (ruta) | /var/lib/libvirt/images/vm-rocky10-lab.qcow2 |
+| Tamaño del disco | 3 GB |
+| Red asignada | default |
 
 
 
@@ -79,7 +90,7 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTcxMDQ0MiwxODM2NzYyNTEwLDIwNT
+eyJoaXN0b3J5IjpbLTU1MDg0NDg3MywxODM2NzYyNTEwLDIwNT
 M2ODcwNDIsLTEwNzc5MjAwMjEsLTIwNTcxNjc2ODEsLTEwMzY0
 ODExNzAsLTIwODg3NDY2MTJdfQ==
 -->
