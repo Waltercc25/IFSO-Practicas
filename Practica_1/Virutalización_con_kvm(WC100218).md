@@ -55,7 +55,20 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 # 5. Actividad 3 - Preparación del almacenamiento y red virtual
 
 ## Resultados obtenidos
+
+## Resultados obtenidos
+
+| Verificación | Resultado obtenido |
+|---|---|
+| Pool default activo | Sí |
+| Red default activa | Sí |
+| Interfaz virbr0 presente | Sí |
+| ISO Rocky Linux disponible en /var/lib/libvirt/images/ | Sí |
+
+## Evidencia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc5MjAwMjEsLTIwNTcxNjc2ODEsLT
-EwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTczNDEyNzA3MCwtMTA3NzkyMDAyMSwtMj
+A1NzE2NzY4MSwtMTAzNjQ4MTE3MCwtMjA4ODc0NjYxMl19
 -->
