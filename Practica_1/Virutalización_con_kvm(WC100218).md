@@ -62,13 +62,14 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 |---|---|
 | Pool default activo | Sí |
 | Red default activa | Sí |
-| Interfaz virbr0 presente | Sí |
+| Interfaz virbr0 presente | inet 192.168.122.1/24 |
 | ISO Rocky Linux disponible en /var/lib/libvirt/images/ | Sí |
 
 ## Evidencia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDEyNzA3MCwtMTA3NzkyMDAyMSwtMj
-A1NzE2NzY4MSwtMTAzNjQ4MTE3MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIxMjI5NDg2NjQsLTEwNzc5MjAwMjEsLT
+IwNTcxNjc2ODEsLTEwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
+
 -->
