@@ -84,11 +84,15 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 ## Evidencia
 
+# 7. Análisis técnico
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU3NDQ2NzgsLTE4NDQwMjIyNDAsMT
-gzNjc2MjUxMCwyMDUzNjg3MDQyLC0xMDc3OTIwMDIxLC0yMDU3
-MTY3NjgxLC0xMDM2NDgxMTcwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIyMjUwMDgwMywtMTg0NDAyMjI0MCwxOD
+M2NzYyNTEwLDIwNTM2ODcwNDIsLTEwNzc5MjAwMjEsLTIwNTcx
+Njc2ODEsLTEwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
 -->
