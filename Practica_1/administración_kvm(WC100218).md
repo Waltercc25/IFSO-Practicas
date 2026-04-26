@@ -5,7 +5,8 @@
 
 ## 1. Datos generales
 
--   **Carrera:**
+-   **Carrera:** 
+
 -   **Asignatura:**  IFS0 - Analizando Necesidades de Infraestructura de Servidores
 
 -   **Docente:**
@@ -16,8 +17,8 @@
 
 -   **Nombre del estudiante / integrantes:**
 - 
-    -   Walter Vladimir Cantor Claros - WC100
+    -   Walter Vladimir Cantor Claros - WC100218
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0ODQ4NDQ5XX0=
+eyJoaXN0b3J5IjpbLTI2NTUxODRdfQ==
 -->
