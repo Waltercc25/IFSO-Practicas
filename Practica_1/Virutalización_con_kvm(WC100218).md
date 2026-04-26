@@ -86,13 +86,45 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 # 7. Análisis técnico
 
+## 7. Análisis técnico
 
+- ¿El host soporta virtualización correctamente?
 
+Sí, el host soporta virtualización correctamente. Se verificó la presencia
+de las extensiones de virtualización (svm en CPU AMD) y la disponibilidad
+del dispositivo /dev/kvm. Asimismo, los módulos kvm y kvm_amd se encuentran
+cargados en el sistema, lo que confirma que el hardware es compatible con KVM.
 
+- ¿El stack KVM está funcionando sin errores?
+
+El stack de virtualización (KVM, QEMU y libvirt) se encuentra correctamente
+instalado y funcional. La herramienta virt-host-validate mostró resultados
+satisfactorios (PASS y WARN), sin errores críticos. Las advertencias observadas
+son normales en entornos virtualizados sobre VirtualBox y no afectan el
+funcionamiento general del sistema.
+
+- ¿La VM fue creada correctamente?
+
+Sí, la máquina virtual fue creada correctamente utilizando virt-install.
+Se asignaron recursos de CPU, memoria y almacenamiento desde el pool default,
+y se configuró la red virtual NAT. Aunque se presentó un error "Guru Meditation"
+al intentar ejecutarla, este corresponde a una limitación del entorno de
+virtualización anidada en VirtualBox y no a un fallo en la configuración
+de la VM.
+
+- ¿Qué ventajas observa al usar KVM en este entorno?
+
+El uso de KVM permite aprovechar las capacidades de virtualización del hardware,
+ofreciendo alto rendimiento y eficiencia en comparación con soluciones de
+virtualización puramente por software. Además, KVM se integra con herramientas
+como libvirt, facilitando la administración mediante CLI. Permite crear,
+gestionar y automatizar máquinas virtuales, optimizando el uso de recursos
+del servidor y mejorando la escalabilidad de la infraestructura.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjUwMDgwMywtMTg0NDAyMjI0MCwxOD
-M2NzYyNTEwLDIwNTM2ODcwNDIsLTEwNzc5MjAwMjEsLTIwNTcx
-Njc2ODEsLTEwMzY0ODExNzAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTk0Mjk1NzcyOSwtMjIyNTAwODAzLC0xOD
+Q0MDIyMjQwLDE4MzY3NjI1MTAsMjA1MzY4NzA0MiwtMTA3Nzky
+MDAyMSwtMjA1NzE2NzY4MSwtMTAzNjQ4MTE3MCwtMjA4ODc0Nj
+YxMl19
 -->
