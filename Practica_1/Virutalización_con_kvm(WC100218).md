@@ -71,8 +71,6 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 ## Resultados obtenidos
 
-## Resultados obtenidos
-
 | Parámetro de la VM | Valor observado |
 |---|---|
 | Nombre de la VM | vm-rocky10-lab |
@@ -90,7 +88,7 @@ Describa brevemente el objetivo de la práctica y el contexto de virtualización
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDg0NDg3MywxODM2NzYyNTEwLDIwNT
-M2ODcwNDIsLTEwNzc5MjAwMjEsLTIwNTcxNjc2ODEsLTEwMzY0
-ODExNzAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDQwMjIyNDAsMTgzNjc2MjUxMCwyMD
+UzNjg3MDQyLC0xMDc3OTIwMDIxLC0yMDU3MTY3NjgxLC0xMDM2
+NDgxMTcwLC0yMDg4NzQ2NjEyXX0=
 -->
