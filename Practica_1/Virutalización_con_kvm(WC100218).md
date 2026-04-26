@@ -121,10 +121,31 @@ como libvirt, facilitando la administración mediante CLI. Permite crear,
 gestionar y automatizar máquinas virtuales, optimizando el uso de recursos
 del servidor y mejorando la escalabilidad de la infraestructura.
 
+## 8. Conclusión
 
+La virtualización mediante KVM representa una solución eficiente para la
+optimización de recursos en entornos de servidores. Permite ejecutar múltiples
+sistemas operativos sobre un mismo hardware físico, mejorando la utilización
+de CPU, memoria y almacenamiento.
+
+Durante la práctica se logró verificar el soporte de virtualización del sistema,
+instalar el stack completo de KVM/QEMU/libvirt y crear una máquina virtual
+mediante herramientas de línea de comandos. Esto evidencia la capacidad del
+sistema para implementar infraestructura virtualizada de manera eficiente.
+
+El impacto en los recursos es significativo, ya que la virtualización permite
+consolidar servicios en un solo servidor físico, reduciendo costos operativos
+y mejorando la administración. Además, KVM se posiciona como una tecnología
+clave en la infraestructura moderna, especialmente en entornos cloud y de
+centros de datos, donde la escalabilidad y el aislamiento de servicios son
+fundamentales.
+
+En conclusión, la virtualización no solo mejora el aprovechamiento del hardware,
+sino que también facilita la gestión, despliegue y mantenimiento de sistemas,
+convirtiéndose en una herramienta esencial para la administración de servidores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjk1NzcyOSwtMjIyNTAwODAzLC0xOD
-Q0MDIyMjQwLDE4MzY3NjI1MTAsMjA1MzY4NzA0MiwtMTA3Nzky
-MDAyMSwtMjA1NzE2NzY4MSwtMTAzNjQ4MTE3MCwtMjA4ODc0Nj
-YxMl19
+eyJoaXN0b3J5IjpbLTE4Nzk5OTY4ODcsMTk0Mjk1NzcyOSwtMj
+IyNTAwODAzLC0xODQ0MDIyMjQwLDE4MzY3NjI1MTAsMjA1MzY4
+NzA0MiwtMTA3NzkyMDAyMSwtMjA1NzE2NzY4MSwtMTAzNjQ4MT
+E3MCwtMjA4ODc0NjYxMl19
 -->
