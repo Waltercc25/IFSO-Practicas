@@ -22,6 +22,12 @@
 ## 2. Introducción
 
 Describa el objetivo de la práctica y el contexto del uso de virtualización en servidores.
+
+## 3. Actividad 1 - Ciclo de vida de la VM
+
+## Resultados obtenidos
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE2MDMwNTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ
+==
 -->
