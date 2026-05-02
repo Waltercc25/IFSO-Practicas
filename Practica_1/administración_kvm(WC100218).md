@@ -5,7 +5,7 @@
 
 ## 1. Datos generales
 
--   **Carrera:** 
+-   **Carrera:**  Ingenieria en la Ciencia de la Computación.
 
 -   **Asignatura:**  IFS0 - Analizando Necesidades de Infraestructura de Servidores
 
@@ -88,7 +88,7 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgxNjY0ODksNDAyMjUzOTksLTE0Mj
-M4OTcxODcsNzU5MTMyMjIyLDc0NjA0MDQ5LC0xMjI4NTQ3MzIw
-LC0yMTI0MDMwODY5LC0xNDcxNjAzMDU2XX0=
+eyJoaXN0b3J5IjpbMTgyMjUwODkxNCw0MDIyNTM5OSwtMTQyMz
+g5NzE4Nyw3NTkxMzIyMjIsNzQ2MDQwNDksLTEyMjg1NDczMjAs
+LTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ==
 -->
