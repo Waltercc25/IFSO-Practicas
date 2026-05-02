@@ -39,7 +39,9 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 ## Evidencia
 
 ## 4. Actividad 2 - Snapshots con virsh
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTYyMTU0OCwtMjEyNDAzMDg2OSwtMT
-Q3MTYwMzA1Nl19
+eyJoaXN0b3J5IjpbLTEyMjg1NDczMjAsLTIxMjQwMzA4NjksLT
+E0NzE2MDMwNTZdfQ==
 -->
