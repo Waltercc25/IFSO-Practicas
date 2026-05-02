@@ -53,8 +53,8 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Evidencia
 
-
+## 5. Actividad 3 - Clonado de VM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MDQwNDksLTEyMjg1NDczMjAsLTIxMj
-QwMzA4NjksLTE0NzE2MDMwNTZdfQ==
+eyJoaXN0b3J5IjpbLTkwMTQ0OTYxMyw3NDYwNDA0OSwtMTIyOD
+U0NzMyMCwtMjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
 -->
