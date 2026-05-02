@@ -9,11 +9,11 @@
 
 -   **Asignatura:**  IFS0 - Analizando Necesidades de Infraestructura de Servidores
 
--   **Docente:**
+-   **Docente:** Elmer Elias Chanchan
 
 -   **Unidad:**  3
 
--   **Pr ctica:**  10 - Administraci¢n KVM
+-   **Practica:**  10 - Administración_KVM
 
 -   **Nombre del estudiante / integrantes:**
 - 
@@ -88,7 +88,7 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjUwODkxNCw0MDIyNTM5OSwtMTQyMz
-g5NzE4Nyw3NTkxMzIyMjIsNzQ2MDQwNDksLTEyMjg1NDczMjAs
-LTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ==
+eyJoaXN0b3J5IjpbNjExMTI3NjU0LDQwMjI1Mzk5LC0xNDIzOD
+k3MTg3LDc1OTEzMjIyMiw3NDYwNDA0OSwtMTIyODU0NzMyMCwt
+MjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
 -->
