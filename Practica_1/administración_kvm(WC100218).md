@@ -53,8 +53,20 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Evidencia
 
+
 ## 5. Actividad 3 - Clonado de VM
+
+## Resultados obtenidos
+
+| Verificación | Resultado obtenido |
+|-------------|------------------|
+| Nombre del clon creado | vm-rocky10-clone |
+| UUID VM original | (resultado en captura) |
+| UUID VM clon | (diferente) |
+| MAC del clon | (distinta) |
+| Disco del clon | /var/lib/libvirt/images/vm-rocky10-clone.qcow2 |
+| Estado del clon | running |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTQ0OTYxMyw3NDYwNDA0OSwtMTIyOD
-U0NzMyMCwtMjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
+eyJoaXN0b3J5IjpbNzU5MTMyMjIyLDc0NjA0MDQ5LC0xMjI4NT
+Q3MzIwLC0yMTI0MDMwODY5LC0xNDcxNjAzMDU2XX0=
 -->
