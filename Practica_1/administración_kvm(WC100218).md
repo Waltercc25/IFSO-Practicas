@@ -87,9 +87,15 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 ## 7. Extracción de archivos con  `libguestfs`
 
 
+## Resultados
 
+| Acción | Resultado |
+|--------|----------|
+| Sistemas detectados | No ejecutado por limitación de VirtualBox |
+| Uso de disco (virt-df) | No ejecutado por limitación de VirtualBox |
+| Archivo extraído (/etc/hostname) | No ejecutado |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NzQxNjUyLDQwMjI1Mzk5LC0xNDIzOD
-k3MTg3LDc1OTEzMjIyMiw3NDYwNDA0OSwtMTIyODU0NzMyMCwt
-MjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
+eyJoaXN0b3J5IjpbNjUwMDI3Mjg1LDkxNjc0MTY1Miw0MDIyNT
+M5OSwtMTQyMzg5NzE4Nyw3NTkxMzIyMjIsNzQ2MDQwNDksLTEy
+Mjg1NDczMjAsLTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ==
 -->
