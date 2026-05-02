@@ -95,8 +95,6 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 | Uso de disco (virt-df) | No ejecutado por limitación de VirtualBox |
 | Archivo extraído (/etc/hostname) | No ejecutado |
 
-## 8. Analisis tecnico
-
 ## 8. Análisis técnico
 
 - ¿Qué ventajas ofrece el uso de snapshots en producción?
@@ -115,8 +113,8 @@ La falta de monitoreo puede generar múltiples problemas críticos, como sobreca
 
 KVM contribuye a la alta disponibilidad al permitir la virtualización eficiente de múltiples sistemas en un mismo host, facilitando la migración, clonación y recuperación de máquinas virtuales. Al integrarse con herramientas como libvirt, permite automatizar operaciones del ciclo de vida de las VMs, reduciendo tiempos de recuperación ante fallos. Además, su compatibilidad con soluciones de clustering y balanceo de carga permite distribuir servicios y mantenerlos operativos incluso ante fallas de hardware.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDIxMTA2NSw2NTAwMjcyODUsOTE2Nz
-QxNjUyLDQwMjI1Mzk5LC0xNDIzODk3MTg3LDc1OTEzMjIyMiw3
-NDYwNDA0OSwtMTIyODU0NzMyMCwtMjEyNDAzMDg2OSwtMTQ3MT
-YwMzA1Nl19
+eyJoaXN0b3J5IjpbLTE3MDA1NDczMTYsNjUwMDI3Mjg1LDkxNj
+c0MTY1Miw0MDIyNTM5OSwtMTQyMzg5NzE4Nyw3NTkxMzIyMjIs
+NzQ2MDQwNDksLTEyMjg1NDczMjAsLTIxMjQwMzA4NjksLTE0Nz
+E2MDMwNTZdfQ==
 -->
