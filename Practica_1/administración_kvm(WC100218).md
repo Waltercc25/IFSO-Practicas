@@ -66,7 +66,14 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 | MAC del clon | (distinta) |
 | Disco del clon | /var/lib/libvirt/images/vm-rocky10-clone.qcow2 |
 | Estado del clon | running |
+
+## Evidencia
+
+## 6. Actividad 4 - Monitoreo de recursos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MTMyMjIyLDc0NjA0MDQ5LC0xMjI4NT
-Q3MzIwLC0yMTI0MDMwODY5LC0xNDcxNjAzMDU2XX0=
+eyJoaXN0b3J5IjpbLTE0MjM4OTcxODcsNzU5MTMyMjIyLDc0Nj
+A0MDQ5LC0xMjI4NTQ3MzIwLC0yMTI0MDMwODY5LC0xNDcxNjAz
+MDU2XX0=
 -->
