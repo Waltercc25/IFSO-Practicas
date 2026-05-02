@@ -87,8 +87,9 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 ## 7. Extracción de archivos con  `libguestfs`
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMTI3NjU0LDQwMjI1Mzk5LC0xNDIzOD
+eyJoaXN0b3J5IjpbOTE2NzQxNjUyLDQwMjI1Mzk5LC0xNDIzOD
 k3MTg3LDc1OTEzMjIyMiw3NDYwNDA0OSwtMTIyODU0NzMyMCwt
 MjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
 -->
