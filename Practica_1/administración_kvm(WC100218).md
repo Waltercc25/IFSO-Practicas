@@ -71,9 +71,17 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## 6. Actividad 4 - Monitoreo de recursos
 
+## Resultados obtenidos
 
+| Parámetro de la VM | Valor observado |
+|------------------|----------------|
+| Columnas mostradas por virt-top | CPU%, MEM, TIME, DOM |
+| CPU time (domstats) | (valor real) |
+| RAM actual (dommemstat) | (valor en KB) |
+| Lecturas de disco (rd_req) | (valor) |
+| Tamaño virtual vs real | (ej: 10G virtual / 2G real) |sudo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4OTcxODcsNzU5MTMyMjIyLDc0Nj
-A0MDQ5LC0xMjI4NTQ3MzIwLC0yMTI0MDMwODY5LC0xNDcxNjAz
-MDU2XX0=
+eyJoaXN0b3J5IjpbNDAyMjUzOTksLTE0MjM4OTcxODcsNzU5MT
+MyMjIyLDc0NjA0MDQ5LC0xMjI4NTQ3MzIwLC0yMTI0MDMwODY5
+LC0xNDcxNjAzMDU2XX0=
 -->
