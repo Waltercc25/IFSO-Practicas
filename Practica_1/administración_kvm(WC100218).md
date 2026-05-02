@@ -82,8 +82,11 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 | Tamaño virtual vs real | ~10 GB virtual / ~2.7 GB real |
 
 ## Evidencia
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc5MTQyNjYsNDAyMjUzOTksLTE0Mj
-M4OTcxODcsNzU5MTMyMjIyLDc0NjA0MDQ5LC0xMjI4NTQ3MzIw
-LC0yMTI0MDMwODY5LC0xNDcxNjAzMDU2XX0=
+eyJoaXN0b3J5IjpbLTIwODAxMTkyMCw0MDIyNTM5OSwtMTQyMz
+g5NzE4Nyw3NTkxMzIyMjIsNzQ2MDQwNDksLTEyMjg1NDczMjAs
+LTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ==
 -->
