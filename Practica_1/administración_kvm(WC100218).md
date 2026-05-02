@@ -27,7 +27,15 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Resultados obtenidos
 
+| Verificación | Resultado obtenido |
+|-------------|------------------|
+| Estado tras `virsh start` | Ejecutando|
+| Estado tras `virsh suspend` | pausado|
+| Estado tras `virsh resume` | Ejecutando|
+| Archivo `.state` (ruta y tamaño) | /var/lib/libvirt/images/vm-rocky9-lab.state (~varía) |
+| Estado tras `virsh restore` | Ejecutando|
+| Estado tras `virsh shutdown` | apagado |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ
-==
+eyJoaXN0b3J5IjpbMTQ2NDcxNTUxNSwtMjEyNDAzMDg2OSwtMT
+Q3MTYwMzA1Nl19
 -->
