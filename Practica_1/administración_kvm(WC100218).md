@@ -35,7 +35,9 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 | Archivo `.state` (ruta y tamaño) | /var/lib/libvirt/images/vm-rocky9-lab.state (~varía) |
 | Estado tras `virsh restore` | Ejecutando|
 | Estado tras `virsh shutdown` | apagado |
+
+## 4. Actividad 2 - Snapshots con virsh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDcxNTUxNSwtMjEyNDAzMDg2OSwtMT
+eyJoaXN0b3J5IjpbLTM3MTk4NTQwNiwtMjEyNDAzMDg2OSwtMT
 Q3MTYwMzA1Nl19
 -->
