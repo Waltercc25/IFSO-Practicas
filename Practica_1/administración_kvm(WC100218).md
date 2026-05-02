@@ -94,8 +94,29 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 | Sistemas detectados | No ejecutado por limitación de VirtualBox |
 | Uso de disco (virt-df) | No ejecutado por limitación de VirtualBox |
 | Archivo extraído (/etc/hostname) | No ejecutado |
+
+## 8. Analisis tecnico
+
+## 8. Análisis técnico
+
+- ¿Qué ventajas ofrece el uso de snapshots en producción?
+
+Los snapshots permiten capturar el estado completo de una máquina virtual en un momento específico, incluyendo disco y, en algunos casos, memoria. En entornos de producción, esto facilita la recuperación rápida ante fallos, errores de configuración o actualizaciones fallidas. Además, permiten realizar pruebas de cambios críticos con la posibilidad de revertir al estado anterior en segundos, reduciendo significativamente el riesgo operativo y el tiempo de inactividad.
+
+- ¿Por qué el clonado es importante en entornos empresariales?
+
+El clonado permite replicar máquinas virtuales completas de manera rápida y eficiente, generando nuevas instancias con configuraciones idénticas sin necesidad de reinstalar el sistema operativo. Esto es fundamental en entornos empresariales para el aprovisionamiento rápido de servidores, despliegue de servicios escalables, creación de entornos de pruebas y recuperación ante desastres. También es la base de metodologías modernas como infraestructura como código (IaC).
+
+- ¿Qué riesgos existen si no se monitorean las VMs?
+
+La falta de monitoreo puede generar múltiples problemas críticos, como sobrecarga de CPU, uso excesivo de memoria, saturación de disco o fallos en la red, los cuales pueden pasar desapercibidos hasta causar caídas del sistema. Además, sin monitoreo no es posible anticipar problemas de rendimiento, detectar cuellos de botella ni optimizar recursos, lo que afecta la disponibilidad y confiabilidad de los servicios. En entornos productivos, esto puede traducirse en pérdida de datos o interrupción de servicios.
+
+- ¿Cómo contribuye KVM a la alta disponibilidad (HA)?
+
+KVM contribuye a la alta disponibilidad al permitir la virtualización eficiente de múltiples sistemas en un mismo host, facilitando la migración, clonación y recuperación de máquinas virtuales. Al integrarse con herramientas como libvirt, permite automatizar operaciones del ciclo de vida de las VMs, reduciendo tiempos de recuperación ante fallos. Además, su compatibilidad con soluciones de clustering y balanceo de carga permite distribuir servicios y mantenerlos operativos incluso ante fallas de hardware.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMDI3Mjg1LDkxNjc0MTY1Miw0MDIyNT
-M5OSwtMTQyMzg5NzE4Nyw3NTkxMzIyMjIsNzQ2MDQwNDksLTEy
-Mjg1NDczMjAsLTIxMjQwMzA4NjksLTE0NzE2MDMwNTZdfQ==
+eyJoaXN0b3J5IjpbMjA4NDIxMTA2NSw2NTAwMjcyODUsOTE2Nz
+QxNjUyLDQwMjI1Mzk5LC0xNDIzODk3MTg3LDc1OTEzMjIyMiw3
+NDYwNDA0OSwtMTIyODU0NzMyMCwtMjEyNDAzMDg2OSwtMTQ3MT
+YwMzA1Nl19
 -->
