@@ -73,15 +73,19 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Resultados obtenidos
 
+## Resultados obtenidos
+
 | Parámetro de la VM | Valor observado |
 |------------------|----------------|
 | Columnas mostradas por virt-top | CPU%, MEM, TIME, DOM |
-| CPU time (domstats) | (valor real) |
-| RAM actual (dommemstat) | (valor en KB) |
-| Lecturas de disco (rd_req) | (valor) |
-| Tamaño virtual vs real | (ej: 10G virtual / 2G real) |sudo
+| CPU time (domstats) | 151120000000 (nanosegundos aprox) |
+| RAM actual (dommemstat) | 1109308 KB (rss) |
+| Lecturas de disco (rd_req) | 7099 |
+| Tamaño virtual vs real | ~10 GB virtual / ~2.7 GB real |
+
+## Evidencia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMjUzOTksLTE0MjM4OTcxODcsNzU5MT
-MyMjIyLDc0NjA0MDQ5LC0xMjI4NTQ3MzIwLC0yMTI0MDMwODY5
-LC0xNDcxNjAzMDU2XX0=
+eyJoaXN0b3J5IjpbMzk1MDgwMTQzLDQwMjI1Mzk5LC0xNDIzOD
+k3MTg3LDc1OTEzMjIyMiw3NDYwNDA0OSwtMTIyODU0NzMyMCwt
+MjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
 -->
