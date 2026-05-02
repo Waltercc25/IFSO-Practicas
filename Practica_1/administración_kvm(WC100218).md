@@ -40,8 +40,21 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## 4. Actividad 2 - Snapshots con virsh
 
+## Resultados obtenidos
+
+| Verificación | Resultado obtenido |
+|-------------|------------------|
+| Formato del disco (qcow2) | qcow2 |
+| Nombre del snapshot baseline | snap-baseline |
+| Nombre del snapshot con cambio | snap-con-cambio |
+| Árbol de snapshots | snap-baseline → snap-con-cambio |
+| Archivo presente en snapshot con cambio | Sí |
+| Archivo eliminado tras revert | Sí |
+
+## Evidencia
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg1NDczMjAsLTIxMjQwMzA4NjksLT
-E0NzE2MDMwNTZdfQ==
+eyJoaXN0b3J5IjpbNzQ2MDQwNDksLTEyMjg1NDczMjAsLTIxMj
+QwMzA4NjksLTE0NzE2MDMwNTZdfQ==
 -->
