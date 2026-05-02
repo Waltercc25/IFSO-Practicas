@@ -73,8 +73,6 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Resultados obtenidos
 
-## Resultados obtenidos
-
 | Parámetro de la VM | Valor observado |
 |------------------|----------------|
 | Columnas mostradas por virt-top | CPU%, MEM, TIME, DOM |
@@ -85,7 +83,7 @@ Describa el objetivo de la práctica y el contexto del uso de virtualización en
 
 ## Evidencia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1MDgwMTQzLDQwMjI1Mzk5LC0xNDIzOD
-k3MTg3LDc1OTEzMjIyMiw3NDYwNDA0OSwtMTIyODU0NzMyMCwt
-MjEyNDAzMDg2OSwtMTQ3MTYwMzA1Nl19
+eyJoaXN0b3J5IjpbLTE3NDc5MTQyNjYsNDAyMjUzOTksLTE0Mj
+M4OTcxODcsNzU5MTMyMjIyLDc0NjA0MDQ5LC0xMjI4NTQ3MzIw
+LC0yMTI0MDMwODY5LC0xNDcxNjAzMDU2XX0=
 -->
